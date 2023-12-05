@@ -1,0 +1,1215 @@
+,datetime_event_began,NERC_region,area_affected,event_type,demand_loss_(MW),number_of_customers_affected,datetime_of_restoration,datetime_of_restoration_cleaned,datetime_event_began_cleaned
+0,2002-01-30 06:00:00,SPP,Oklahoma,Ice Storm,500,1881134,2002-02-07 12:00:00,2002-02-07 12:00:00,2002-01-30 06:00:00
+1,2002-01-29 20:00:00,SPP,Metropolitan Kansas City Area,Ice Storm,500,270000,,,2002-01-29 20:00:00
+2,2002-01-30 16:00:00,SPP,Missouri,Ice Storm,210,95000,2002-02-10 21:00:00,2002-02-10 21:00:00,2002-01-30 16:00:00
+3,2002-02-27 10:48:00,WSCC,California,Interruption of Firm Load,300,255000,2002-02-27 11:35:00,2002-02-27 11:35:00,2002-02-27 10:48:00
+4,2002-03-09 00:00:00,ECAR,Lower Peninsula of Michigan,Severe Weather,190,190000,2002-03-11 12:00:00,2002-03-11 12:00:00,2002-03-09 00:00:00
+5,2002-04-08 15:00:00,WSCC,Arizona,Vandalism/,0,0,2002-04-09 00:00:00,2002-04-09 00:00:00,2002-04-08 15:00:00
+6,2002-07-09 12:27:00,WSCC,California,Interruption of Firm Power,240,0,2002-07-09 19:54:00,2002-07-09 19:54:00,2002-07-09 12:27:00
+7,2002-07-19 11:51:00,WSCC,California,Interruption of Firm Power (Unit Tripped),240,0,2002-07-19 16:30:00,2002-07-19 16:30:00,2002-07-19 11:51:00
+8,2002-07-20 12:40:00,NPCC,New York,Fire,278,63500,2002-07-20 20:12:00,2002-07-20 20:12:00,2002-07-20 12:40:00
+9,2002-08-02 12:43:00,MAIN,Illinois,Interruption of Firm Power,232,53565,2002-08-02 18:36:00,2002-08-02 18:36:00,2002-08-02 12:43:00
+10,2002-08-09 08:23:00,SERC,Florida,Interruption of Firm Power,51,25000,2002-08-09 12:13:00,2002-08-09 12:13:00,2002-08-09 08:23:00
+11,2002-08-25 03:41:00,WSCC,California,Interruption of Firm Power,120,0,2002-08-25 09:17:00,2002-08-25 09:17:00,2002-08-25 03:41:00
+12,2002-08-28 14:09:00,SERC,Florida,Severe Weather,67.6,25000,2002-08-28 15:38:00,2002-08-28 15:38:00,2002-08-28 14:09:00
+13,2002-10-03 03:33:00,SPP,Coastal Areas of Southern Louisiana,Hurricane Lily,,242910,2002-10-12 00:00:00,2002-10-12 00:00:00,2002-10-03 03:33:00
+14,2002-11-06 22:00:00,WSCC,Northern and Central California,Winter Storm,270,939000,2002-11-10 12:00:00,2002-11-10 12:00:00,2002-11-06 22:00:00
+15,2002-11-17 15:48:00,NPCC,"Northport, NY",Cable Tripped,0,0,Unknown,,2002-11-17 15:48:00
+16,2002-11-17 06:00:00,NPCC,Northwest and North Central Connecticut,Ice Storm,,224912,2002-11-21 08:00:00,2002-11-21 08:00:00,2002-11-17 06:00:00
+17,2002-12-03 18:30:00,SPP,Arkansas,Ice Storm,,43000,2002-12-09 22:30:00,2002-12-09 22:30:00,2002-12-03 18:30:00
+18,2002-12-11 13:09:00,SERC,Northern Virginia to Fredericksburg,Winter Storm,63,130000,2002-12-13 22:00:00,2002-12-13 22:00:00,2002-12-11 13:09:00
+19,2002-12-14 11:00:00,WSCC,Northern and Central California,Winter Storm,180,0,2002-12-19 16:00:00,2002-12-19 16:00:00,2002-12-14 11:00:00
+20,2002-12-19 06:00:00,WSCC,Northern and Central California,Winter Storm,56,385000,2002-12-21 17:00:00,2002-12-21 17:00:00,2002-12-19 06:00:00
+21,2002-12-25 17:00:00,MAAC,Eastern Pennsylvania,Winter Storm,250,106000,2002-12-26 05:00:00,2002-12-26 05:00:00,2002-12-25 17:00:00
+22,2002-12-25 10:00:00,MAAC,"Reading, York, Hanover, Hamburg Pennsylvania",Winter Storm,,95630,2002-12-27 08:30:00,2002-12-27 08:30:00,2002-12-25 10:00:00
+23,2003-01-25 14:00:00,ECAR,"Cincinnati, Ohio",Cyber Threat From Internet ,,0,"1/26/03, 2:00 AM",2003-01-26 02:00:00,2003-01-25 14:00:00
+24,2003-02-27 11:32:00,SERC,"Piedmont, North Carolina",Winter Ice Storm,1000,0,"3/01/03, 8:00 AM",2003-03-01 08:00:00,2003-02-27 11:32:00
+25,2003-04-03 19:00:00,ECAR,Lower Michigan Peninsula ,Ice Storm,300,425000,"4/06/03, 5:00 PM",2003-04-06 17:00:00,2003-04-03 19:00:00
+26,2003-04-04 03:11:00,NPCC,"New York, ",Severe Storm ,200,160000,"4/05/03, 2:00 PM",2003-04-05 14:00:00,2003-04-04 03:11:00
+27,2003-04-15 11:00:00,ERCOT,"Cities of Bryan,",Relaying Malfunction,212,68530,"4/15/03, 2:06 PM",2003-04-15 14:06:00,2003-04-15 11:00:00
+28,2003-04-28 15:41:00,MAIN,"County of Waukesha,  Wisconsin, ",Vandalism,0,0,,,2003-04-28 15:41:00
+29,2003-05-02 17:00:00,SERC,"Piedmont, North and",Severe Thunderstorms,1500,139000,,,2003-05-02 17:00:00
+30,2003-05-02 20:00:00,SERC,"Central Georgia,",Severe Thunderstorms,130,0,"5/03/03, 8:00 AM",2003-05-03 08:00:00,2003-05-02 20:00:00
+31,2003-05-15 02:52:00,ERCOT,North Texas,Interruption of Firm ,476,192000,"5/15/03, 3:29 AM",2003-05-15 03:29:00,2003-05-15 02:52:00
+32,2003-05-15 14:00:00,MAIN,Upper Michigan Peninsula,Flood,240,2,"6/16/03, 2:00 PM",2003-06-16 14:00:00,2003-05-15 14:00:00
+33,2003-06-15 15:12:00,WECC,Idaho,Public Appeal ,0,0,"6/16/03, 5:00 PM",2003-06-16 17:00:00,2003-06-15 15:12:00
+34,2003-06-30 13:00:00,SPP,Coastal areas of,Tropical Storm Bill,,179299,"6/30/03, 12:00 AM",2003-06-30 00:00:00,2003-06-30 13:00:00
+35,2003-07-01 15:15:00,WECC,"Phoenix, Arizona",Breaker Failure,1000,47000,"7/01/03, 3:50 PM ",,2003-07-01 15:15:00
+36,2003-07-02 13:54:00,WECC,Northern California,Unit Tripped,200,1,"7/02/03, 3:59 PM",2003-07-02 15:59:00,2003-07-02 13:54:00
+37,2003-07-04 06:00:00,MAIN,Southeast Wisconsin,Severe Thunderstorms,150,52000,"7/04/03, 10:00 AM",2003-07-04 10:00:00,2003-07-04 06:00:00
+38,2003-07-04 09:00:00,ECAR,Lower Michigan Peninsula,Severe Thunderstorms,75,131000,"7/06/03, 4:00 PM",2003-07-06 16:00:00,2003-07-04 09:00:00
+39,2003-07-04 23:41:00,ECAR,"Southwest Ohio, portions of Indiana",Severe Storms,200,55142,"7/06/03, 9:00 PM",2003-07-06 21:00:00,2003-07-04 23:41:00
+40,2003-07-05 03:00:00,MAIN,Northern Illinois,Severe Storms,80,130000,"7/05/03, 7:00 AM",2003-07-05 07:00:00,2003-07-05 03:00:00
+41,2003-07-07 09:00:00,MAIN,Northern Illinois,Severe Thunderstorms,,72000,"7/07/03, 3:00 PM",2003-07-07 15:00:00,2003-07-07 09:00:00
+42,2003-07-08 04:00:00,ECAR,Ohio,Severe Thunderstorms,11000,134500,"7/11/03, 4:00 PM",2003-07-11 16:00:00,2003-07-08 04:00:00
+43,2003-07-09 17:14:00,SERC,Northern Central and Eastern Virginia,Severe Thunderstorms,120,80000,"7/09/03, 7:09 PM",2003-07-09 19:09:00,2003-07-09 17:14:00
+44,2003-07-15 08:24:00,ERCOT,Texas,Hurricane Claudette,230,108000,"7/21/03, 10:30 AM",2003-07-21 10:30:00,2003-07-15 08:24:00
+45,2003-07-21 17:15:00,MAAC,Pennsylvania,Severe Storms,500,185000,"7/24/03, 5:33 AM",2003-07-24 05:33:00,2003-07-21 17:15:00
+46,2003-07-28 18:55:00,WECC,Arizona,Breaker Closed,440,90000,"7/28/03, 8:35 PM",2003-07-28 20:35:00,2003-07-28 18:55:00
+47,2003-08-14 15:00:00,ECAR,Geographic areas for MISO Reliability Coordination footprint:  Michigan and Ohio,Unknown *,18500,0,,,2003-08-14 15:00:00
+48,2003-08-14 16:09:00,ECAR,Southeastern Michigan including all of Detroit,Unknown *,11000,2100000,"8/16/03, 7:00 AM",2003-08-16 07:00:00,2003-08-14 16:09:00
+49,2003-08-14 16:09:00,ECAR,"Southern Lower  Michigan and small areas near Flint, Alma, Saginaw, and Lansing Michigan",Unknown *,1007,101000,"8/16/03, 1:03 PM",2003-08-16 13:03:00,2003-08-14 16:09:00
+50,2003-08-14 16:10:00,ECAR,"Northeast, Ohio",Unknown *,7000,1203000,"8/16/03, 8:27 PM",2003-08-16 20:27:00,2003-08-14 16:10:00
+51,2003-08-14 16:10:00,NPCC,Southwestern Connecticut and a small portion of Western Massachusetts and Vermont,Unknown *,2500,0,"8/16/03, 3:45 AM",2003-08-16 03:45:00,2003-08-14 16:10:00
+52,2003-08-14 16:10:00,NPCC,New York State,Unknown *,22934,0,"8/18/03, 12:03 AM",2003-08-18 00:03:00,2003-08-14 16:10:00
+53,2003-08-14 16:10:00,NPCC,"New York- Buffalo to Albany; Ontario, Canada to Pennsylvania",Unknown *,,840137,"8/14/03, 11:48 PM",2003-08-14 23:48:00,2003-08-14 16:10:00
+54,2003-08-14 16:10:00,MAAC,"Northern New Jersey Erie, Pennsylvania  area",Unknown *,4500,0,,,2003-08-14 16:10:00
+55,2003-08-14 16:11:00,NPCC,Entire Con Edison System (five boroughs of NYC and Westchester County),Unknown *,11202,3125350,"8/15/03, 9:03 PM",2003-08-15 21:03:00,2003-08-14 16:11:00
+56,2003-08-26 16:00:00,MAAC,"Maryland: Anne Arundel County, Baltimore County, Calvert County, Carroll County, Howard County, Montgomery County,  Prince George's and Baltimore City.",Severe Thunderstorms,625,0,,,2003-08-26 16:00:00
+57,2003-08-26 16:22:00,MAAC,"Washington, D.C.,  Montgomery County,  Prince Georges County, Maryland",Severe Thunderstorms,1500,153000,"8/31/03, 6:00 PM",2003-08-31 18:00:00,2003-08-26 16:22:00
+58,2003-09-07 05:19:00,MAIN,Upper Michigan Peninsula,Transmission  Equipment,310,0,"9/07/03, 6:00 PM",2003-09-07 18:00:00,2003-09-07 05:19:00
+59,2003-09-18 08:20:00,SERC,"North Eastern North Carolina, Eastern Central , and Northern Virginia",Hurricane Isabel,6512,0,"9/29/03, 10:42 PM",2003-09-29 22:42:00,2003-09-18 08:20:00
+60,2003-09-18 11:45:00,SERC,Eastern North Carolina,Hurricane Isabel,1655,0,,,2003-09-18 11:45:00
+61,2003-09-18 12:00:00,MAAC,"Central Maryland (Baltimore City, Baltimore County, Anne Arundel County, Hartford County, Montgomery County, Calvert County, Prince George's County, Carroll County and Howard County)",Hurricane Isabel,2000,650000,"9/26/03, 10:50 PM",2003-09-26 22:50:00,2003-09-18 12:00:00
+62,2003-09-18 14:00:00,MAAC,"Maryland, West Virginia, Virginia and Pennsylvania",Hurricane Isabel,3085,237366,,,2003-09-18 14:00:00
+63,2003-09-18 15:32:00,SERC,Triangle and Tridad (Greensboro – High Point)  Areas North Carolina - Northern Region,Hurricane Isabel,500,0,"9/19/03, 5:00 PM",2003-09-19 17:00:00,2003-09-18 15:32:00
+64,2003-09-18 16:20:00,MAAC,"District of Columbia, Montgomery and Prince George's Counties, Maryland",Hurricane Isabel,,0,"9/28/03, 6:00 PM",2003-09-28 18:00:00,2003-09-18 16:20:00
+65,2003-09-18 21:00:00,MAAC,"All PPL including: Williamsport, Harrisburg, Lancaster, Scranton and Allentown areas",Hurricane Isabel,1300,425000,"9/21/03, 5:00 PM",2003-09-21 17:00:00,2003-09-18 21:00:00
+66,2003-10-26 01:44:00,WECC,"San Diego County, California",Wild Fire,,0,,,2003-10-26 01:44:00
+67,2003-11-05 15:16:00,MAAC,Maryland/Virginia border,Tornado,350,1,"11/05/03, 3:54 PM",2003-11-05 15:54:00,2003-11-05 15:16:00
+68,2003-11-12 17:00:00,ECAR,Lower Michigan Peninsula,Wind Storm,75,245000,"11/16/03, 6:00 PM",2003-11-16 18:00:00,2003-11-12 17:00:00
+69,2003-11-12 17:00:00,MAIN,Northern Illinois,High Winds,370,51000,"11/12/03, 7:00 PM",2003-11-12 19:00:00,2003-11-12 17:00:00
+70,2003-11-12 18:00:00,ECAR,Southeastern Michigan,Storm with High Winds,75,160000,"11/16/03, 5:00 PM",2003-11-16 17:00:00,2003-11-12 18:00:00
+71,2003-11-13 06:00:00,MAAC,"Central Maryland (Baltimore City, Baltimore County, Anne Arundel County, Harford County, Montgomery County, Calvert County, Prince George's County, Carroll County and Howard County)",High Winds,375,110000,"11/16/03, 4:00 PM",2003-11-16 16:00:00,2003-11-13 06:00:00
+72,2003-11-13 07:30:00,NPCC,New York,Storm with High Winds,180,50280,"11/14/03, 6:30 AM",2003-11-14 06:30:00,2003-11-13 07:30:00
+73,2003-11-13 11:00:00,MAAC,"Washington, D.C., Montgomery County, Prince Georges County, Md",Major Wind Storm,400,0,"11/14/03, 7:30 AM",2003-11-14 07:30:00,2003-11-13 11:00:00
+74,2003-11-13 13:40:00,SERC,"Northern Virginia, Richmond area, Eastern Virginia",Wind Storm,300,67000,"11/13/03, 3:51 PM",2003-11-13 15:51:00,2003-11-13 13:40:00
+75,2003-12-01 18:16:00,NPCC,Cape Cod and part of SE Massachusetts,Wild Fire – Transmission Equipment,630,300000,"12/01/03, 8:11 PM",2003-12-01 20:11:00,2003-12-01 18:16:00
+76,2003-12-04 07:00:00,WECC,Eastern portions of King County and Pierce County,High Winds,175,0,"12/08/03, 7:00 AM",2003-12-08 07:00:00,2003-12-04 07:00:00
+77,2003-12-04 22:34:00,MAIN,Northeast Wisconsin and Central/Western Upper Peninsula of Michigan,Fault on 138 KV line,650,0,"12/07/03, 8:30 AM",2003-12-07 08:30:00,2003-12-04 22:34:00
+78,2003-12-04 22:15:00,MAIN,Upper Peninsula of Michigan and Northeastern Wisconsin,Fault on 138 KV line,500,36000,"12/08/03, 8:30 AM",2003-12-08 08:30:00,2003-12-04 22:15:00
+79,2003-12-05 04:49:00,FRCC,State of Florida - Dade County,Transmission Equipment,27,16500,"12/05/03, 6:25 AM",2003-12-05 06:25:00,2003-12-05 04:49:00
+80,2003-12-05 07:00:00,MAIN,Northeast Wisconsin and Central/Western Upper Peninsula of Michigan,Transmission Equipment,14,2,"12/05/03, 8:00 PM",2003-12-05 20:00:00,2003-12-05 07:00:00
+81,2003-12-20 15:51:00,WECC,"San Francisco, California",Cable Failure,150,120000,"12/21/03, 11:45 PM",2003-12-21 23:45:00,2003-12-20 15:51:00
+82,2003-12-22 11:15:00,WECC,Central California Coast,Earthquake,220,109750,"12/22/03, 11:16 AM",2003-12-22 11:16:00,2003-12-22 11:15:00
+83,2003-12-28 21:00:00,WECC,Northern California,Winter Storm,160,241000,"1/01/04, 11:30 AM",2004-01-01 11:30:00,2003-12-28 21:00:00
+84,2004-01-01 07:30:00,WECC,Northern California,Winter Storm,170,263000,"1/02/04, 4:00 PM",2004-01-02 16:00:00,2004-01-01 07:30:00
+85,2004-01-07 00:00:00,WECC,King County,Snow Storm,150,145000,"1/10/04, 5:00 PM",2004-01-10 17:00:00,2004-01-07 00:00:00
+86,2004-01-08 15:00:00,NPCC,"Lake Placid/Saranac, New York",Public Appeal to Reduce Load,100,18600,"1/10/04, 7:00 PM",2004-01-10 19:00:00,2004-01-08 15:00:00
+87,2004-01-14 06:00:00,NPCC,"Lake Placid/Saranac, New York",Public Appeal to Reduce Load,100,18600,,,2004-01-14 06:00:00
+88,2004-01-26 10:00:00,SERC,Central South Carolina,Ice Storm,500,150000,"1/28/04, 8:00 AM",2004-01-28 08:00:00,2004-01-26 10:00:00
+89,2004-01-26 14:00:00,SERC,North and Central area of Georgia,Ice Storm,150,30689,"1/27/04, 8:00 PM",2004-01-27 20:00:00,2004-01-26 14:00:00
+90,2004-01-26 16:00:00,SERC,Central and Eastern North Carolina and Northern and Eastern South Carolina,Ice Storm,475,9905,"1/29/04, 6:30 AM",2004-01-29 06:30:00,2004-01-26 16:00:00
+91,2004-01-28 13:09:00,MAAC,"Harford County, Maryland",Ice Storm,300,0,"1/29/04, 5:00 AM",2004-01-29 05:00:00,2004-01-28 13:09:00
+92,2004-02-05 20:00:00,MAAC,"Maryland, Southeastern West Virginia, Northern Virginia, Northern Pennsylvania and South Central Pennsylvania",Ice Storm,60,87456,"2/09/04, 8:00 PM",2004-02-09 20:00:00,2004-02-05 20:00:00
+93,2004-02-14 20:00:00,NPCC,"Lake Colby, Lake Placid, Tupper Lake",Public Appeal to Reduce Load,30,18600,,,2004-02-14 20:00:00
+94,2004-02-17 14:25:00,WECC,"San Francisco Bay area, California",Lightning struck Intertie Breaker ,220,0,"2/17/04, 11:57 PM",2004-02-17 23:57:00,2004-02-17 14:25:00
+95,2004-02-25 00:01:00,WECC,Northern California,Winter Storm,240,505000,"2/26/04, 10:00 AM",2004-02-26 10:00:00,2004-02-25 00:01:00
+96,2004-02-26 00:00:00,SERC,Georgia,Severe Storm,10,47165,"2/26/04, 1:30 AM",2004-02-26 01:30:00,2004-02-26 00:00:00
+97,2004-03-04 05:00:00,ERCOT,North Texas,High Winds - Severe Storm,300,63000,"3/16/04, 2:45 PM",2004-03-16 14:45:00,2004-03-04 05:00:00
+98,2004-03-07 18:30:00,SERC,North and South Carolina,Severe Storm,1000,206000,,,2004-03-07 18:30:00
+99,2004-03-08 18:22:00,WECC,Southern California not including LA,Inadequate Resources,300,0,"3/08/04, 6:55 PM",2004-03-08 18:55:00,2004-03-08 18:22:00
+100,2004-03-17 13:27:00,WECC,"El Paso, Texas",Faulty Switch,300,0,"3/17/04, 2:06 PM",2004-03-17 14:06:00,2004-03-17 13:27:00
+101,2004-04-10 20:00:00,ERCOT,"Houston, Texas and surrounding suburban areas",Thunderstorms,100,0,,,2004-04-10 20:00:00
+102,2004-04-12 05:30:00,FRCC,FPL's service territory mostly in Naples and Ft. Myers Florida,Storm with High Winds,250,179000,"4/12/04, 10:15 AM",2004-04-12 10:15:00,2004-04-12 05:30:00
+103,2004-04-27 12:35:00,WECC,Snohomish County Washington,Strong Winds,300,187000,"4/30/04, 12:00 PM",2004-04-30 12:00:00,2004-04-27 12:35:00
+104,2004-05-03 14:30:00,WECC,Central and Southern California,Heat Storm,662,0,"5/03/04, 7:00 PM",2004-05-03 19:00:00,2004-05-03 14:30:00
+105,2004-05-11 15:30:00,ERCOT,"Houston, Texas and surrounding suburban areas",Strong Thunderstorms,85,0,"5/11/04, 6:00 PM",2004-05-11 18:00:00,2004-05-11 15:30:00
+106,2004-05-21 02:00:00,ECAR,Akron and Youngstown areas,Severe Thunderstorms,525,281000,"5/24/04, 12:00 AM",2004-05-24 00:00:00,2004-05-21 02:00:00
+107,2004-05-21 02:00:00,ECAR,Cleveland area,Severe Thunderstorms,177,127000,"5/24/04, 12:00 AM",2004-05-24 00:00:00,2004-05-21 02:00:00
+108,2004-05-21 05:30:00,MAAC,"Western Pennsylvania, Northern West Virginia, Western Maryland, Northern Virginia",High Winds and Heavy Rains,60,0,"5/25/04, 12:00 AM",2004-05-25 00:00:00,2004-05-21 05:30:00
+109,2004-05-21 11:00:00,ECAR,"Northern and Southern Michigan, AEP Fort Wayne/Michigan Region, Buchanan, Elkhart, New Buffalo, South Bend, St. Joseph, Three Rivers areas",Severe Thunderstorms,303,122600,"5/26/04, 9:00 PM",2004-05-26 21:00:00,2004-05-21 11:00:00
+110,2004-05-21 13:00:00,ECAR,"Lower peninsula of Michigan following cities:  Grand Rapids, Kalamazoo, Battle Creek, Jackson, Bronson, Jonesville, Flint",Severe Thunderstorms,200,248209,"5/25/04, 12:00 PM",2004-05-25 12:00:00,2004-05-21 13:00:00
+111,2004-05-21 16:00:00,ECAR,Southeast Michigan,Severe Thunderstorms,630,0,"5/24/04, 8:00 PM",2004-05-24 20:00:00,2004-05-21 16:00:00
+112,2004-05-28 12:00:00,FRCC,"Florida counties of Gadsden, Wakulla, Leon, and Liberty",Public Appeals,0,0,"5/31/04, 12:00 AM",2004-05-31 00:00:00,2004-05-28 12:00:00
+113,2004-05-28 12:00:00,FRCC,"Florida counties of Gadsden, Wakulla, Leon, and Liberty",Public Appeals,0,0,"5/31/04, 12:00 AM",2004-05-31 00:00:00,2004-05-28 12:00:00
+114,2004-05-28 12:00:00,FRCC,"Florida counties of Gadsden, Wakulla, Leon, and Liberty",Public Appeals ,0,0,"5/31/04, 12:00 AM",2004-05-31 00:00:00,2004-05-28 12:00:00
+115,2004-06-01 17:00:00,ERCOT,"Collin, Dallas, Denton, Ellis, Parker, and Tarrant Counties, Texas ",Severe Storms with Strong Winds,1900,500000,"6/02/04, 1:00 AM",2004-06-02 01:00:00,2004-06-01 17:00:00
+116,2004-06-02 01:46:00,ECAR,"Shreveport, Louisiana",Severe  Thunderstorms with Strong Winds,350,59057,"6/07/04, 4:00 PM",2004-06-07 16:00:00,2004-06-02 01:46:00
+117,2004-06-02 02:35:00,ECAR,"Tulsa, Oklahoma",Severe Thunderstorms with Strong Winds,280,56874,"6/06/04, 6:00 PM",2004-06-06 18:00:00,2004-06-02 02:35:00
+118,2004-06-12 17:37:00,MAPP,"Lincoln, Nebraska",Tornado,428,120212,"6/12/04, 5:41 PM",2004-06-12 17:41:00,2004-06-12 17:37:00
+119,2004-06-14 07:41:00,WECC,"Phoenix, Arizona",Fault on Line,200,30000,"6/14/04, 2:39 PM",2004-06-14 14:39:00,2004-06-14 07:41:00
+120,2004-06-23 17:35:00,WECC,Southern Idaho,Load Shedding,157,35000,"6/23/04, 7:10 PM",2004-06-23 19:10:00,2004-06-23 17:35:00
+121,2004-06-23 19:00:00,SERC,Georgia and Alabama,Thunderstorms,50,50595,"6/23/04, 8:00 PM",2004-06-23 20:00:00,2004-06-23 19:00:00
+122,2004-07-06 06:00:00,WECC,"Metro Phoenix, Arizona",Fire/Substation Multiple Public Appeals,0,0,"8/09/04, 12:00 PM",2004-08-09 12:00:00,2004-07-06 06:00:00
+123,2004-07-06 06:00:00,WECC,"Metro Phoenix, Arizona",Fire/Substation Multiple Public Appeals,0,0,"8/09/04, 12:00 PM",2004-08-09 12:00:00,2004-07-06 06:00:00
+124,2004-07-07 13:30:00,SERC,Central Virginia,Severe Thunderstorms,120,88110,"7/07/04, 11:54 PM",2004-07-07 23:54:00,2004-07-07 13:30:00
+125,2004-07-13 13:34:00,FRCC,"Leon  County, Florida",Units Tripped,283,42124,"7/13/04, 5:15 PM",2004-07-13 17:15:00,2004-07-13 13:34:00
+126,2004-07-13 16:30:00,ECAR,"West, West Central and Southern Indiana",Severe Thunderstorms,600,135000,,,2004-07-13 16:30:00
+127,2004-07-20 14:26:00,WECC,"Soledad Canyon near Acton, California",Wildfire/Shed Interruptible Load,214,0,"7/21/04, 2:00 AM",2004-07-21 02:00:00,2004-07-20 14:26:00
+128,2004-07-20 15:44:00,PR,"Regions of  San Juan, Caguas, Ponce, Bayamon, Carolina, Arecibo and Mayaguez",Wildfire,200,61624,"7/20/04, 5:51 PM",2004-07-20 17:51:00,2004-07-20 15:44:00
+129,2004-07-21 17:30:00,MAIN,"Chicago, Illinois",Severe Thunderstorms,200,200000,"7/22/04, 7:00 PM",2004-07-22 19:00:00,2004-07-21 17:30:00
+130,2004-07-24 15:45:00,SPP,Southwest Louisiana in the Acadia Parish vicinity,Public Appeal  ,0,0,,,2004-07-24 15:45:00
+131,2004-07-25 22:00:00,SERC,"Georgia, Alabama, Florida panhandle, Southern Mississippi",Severe Storms,61,61004,"7/25/04, 11:00 PM",2004-07-25 23:00:00,2004-07-25 22:00:00
+132,2004-08-02 10:00:00,SPP,Southeast Texas,Unplanned Generator Outage/High Loads Made Public Appeal,0,0,"8/02/04, 8:00 PM",2004-08-02 20:00:00,2004-08-02 10:00:00
+133,2004-08-03 21:00:00,MAIN,Northern Illinois,Severe Storm,127,127000,"8/04/04, 7:00 AM",2004-08-04 07:00:00,2004-08-03 21:00:00
+134,2004-08-04 12:46:00,WECC,"Northwest Orange County, California",Fault at Barre Substation,480,182000,"8/04/04, 1:50 PM",2004-08-04 13:50:00,2004-08-04 12:46:00
+135,2004-08-09 08:23:00,PR,Whole Island of Puerto Rico,Two Large Units Tripped,451.7,259478,"8/09/04, 11:10 AM",2004-08-09 11:10:00,2004-08-09 08:23:00
+136,2004-08-13 08:00:00,FRCC,"Florida counties of Hardee, Highlands, Lake, Orange, Osceola, Polk, Seminole, Volusia",Hurricane Charley,1300,502000,,,2004-08-13 08:00:00
+137,2004-08-13 15:00:00,FRCC,West Coast of Florida from Naples to Charlotte and in an area centered around Daytona Beach,Hurricane Charley,1400,1200000,"8/13/04, 11:00 PM",2004-08-13 23:00:00,2004-08-13 15:00:00
+138,2004-08-13 13:30:00,FRCC,"Florida counties of Collier, Hendry, Glades, Highlands, Charlotte, Desoto, Lee, Hardee, and Polk",Hurricane Charley,700,200000,,,2004-08-13 13:30:00
+139,2004-08-13 16:43:00,FRCC,"Eastern Hillsborough, Polk County, Florida",Hurricane Charley,250,78000,"8/13/04, 8:24 PM",2004-08-13 20:24:00,2004-08-13 16:43:00
+140,2004-08-13 22:04:00,FRCC,"New Smyrna Beach, Florida",Hurricane Charley,65,23000,"8/14/04, 4:23 PM",2004-08-14 16:23:00,2004-08-13 22:04:00
+141,2004-08-14 13:00:00,SERC,Central and Eastern North Carolina and Northern and Eastern South Carolina,Hurricane Charley,500,94000,"8/14/04, 11:00 PM",2004-08-14 23:00:00,2004-08-14 13:00:00
+142,2004-08-20 15:31:00,NPCC,"Boston, Massachusetts",Major Transmission Line Tripped due to Lightning Strike,22700,380000,"8/20/04, 9:45 PM",2004-08-20 21:45:00,2004-08-20 15:31:00
+143,2004-08-29 09:52:00,SERC,Southeastern South Carolina,Tropical Storm Gaston,450,125000,"8/29/04, 6:00 PM",2004-08-29 18:00:00,2004-08-29 09:52:00
+144,2004-08-30 18:58:00,SERC,"Central Virginia, South to North Carolina and East to the Virginia Coast",Tropical Storm Gaston,150,99816,"8/31/04, 3:35 PM",2004-08-31 15:35:00,2004-08-30 18:58:00
+145,2004-09-03 21:00:00,FRCC,"City of Fort Pierce, Florida",Hurricane Frances,125,26000,"9/05/04, 2:00 PM",2004-09-05 14:00:00,2004-09-03 21:00:00
+146,2004-09-04 08:00:00,FRCC,"West Palm Beach to Daytona Beach, Florida",Hurricane Frances,6000,2775093,"9/06/04, 8:00 AM",2004-09-06 08:00:00,2004-09-04 08:00:00
+147,2004-09-04 10:00:00,FRCC,"Hillsborough, Pasco, and Polk County, Florida",Hurricane Frances,1100,268000,"09/12/04, 7:00 PM",2004-09-12 19:00:00,2004-09-04 10:00:00
+148,2004-09-05 01:00:00,FRCC,"Orlando, Florida",Hurricane Frances,200,65000,"09/09/04, 5:00 PM",2004-09-09 17:00:00,2004-09-05 01:00:00
+149,2004-09-05 07:00:00,FRCC,"Florida counties of Alachua, Citrus, Columbia, Dixie, Franklin, Gilchrist, Gulf, Hamilton, Hardee, Hernando, Highlands, Jefferson, Lafayette, Lake, Levy, Madison, Marion, Orange, Osceola, Pasco, Pinellas, Polk, Seminole, Sumter, Suwannee, Taylor, Volusia and Wakulla",Hurricane Frances,2100,832898,,,2004-09-05 07:00:00
+150,2004-09-06 13:00:00,SERC,"Florida, Mississippi, Alabama, Georgia",Hurricane Frances,3000,99000,"09/09/04, 12:00 PM",2004-09-09 12:00:00,2004-09-06 13:00:00
+151,2004-09-07 10:00:00,SERC,Georgia,Hurricane Frances,2200,150000,"09/08/04, 12:00 PM",2004-09-08 12:00:00,2004-09-07 10:00:00
+152,2004-09-15 12:04:00,PR,Whole Island of Puerto Rico,Hurricane Jeanne,1243,1423590,,,2004-09-15 12:04:00
+153,2004-09-15 19:00:00,SERC,"Florida, Mississippi, Alabama, Georgia",Hurricane Ivan,916,916316,"09/17/04, 7:00 PM",2004-09-17 19:00:00,2004-09-15 19:00:00
+154,2004-09-16 02:00:00,SERC,"Baldwin County, Alabama, Escambia County, Florida, Washington County, Alabama",Hurricane Ivan,263,75000,"9/16/04, 10:02 AM",2004-09-16 10:02:00,2004-09-16 02:00:00
+155,2004-09-16 21:00:00,SERC,Western  North and South Carolina,Hurricane Ivan,500,175000,"9/20/04, 4:00 PM",2004-09-20 16:00:00,2004-09-16 21:00:00
+156,2004-09-17 04:30:00,SERC,Western North Carolina,Hurricane Ivan,400,112000,"09/18/04, 12:00 PM",2004-09-18 12:00:00,2004-09-17 04:30:00
+157,2004-09-25 17:00:00,FRCC,"City of Fort Pierce, Florida",Hurricane Jeanne,125,26000,"09/26/04, 9:00 AM",2004-09-26 09:00:00,2004-09-25 17:00:00
+158,2004-09-26 02:00:00,FRCC,"Hillsborough, Pasco, and Polk County, Florida",Hurricane Jeanne,1250,285300,"9/27/04, 12:00 AM",2004-09-27 00:00:00,2004-09-26 02:00:00
+159,2004-09-26 03:00:00,FRCC,"Orlando and St. Cloud, Florida",Hurricane Jeanne,350,110000,"09/30/04, 9:00 AM",2004-09-30 09:00:00,2004-09-26 03:00:00
+160,2004-09-26 06:00:00,FRCC,"Florida counties of Alachua, Bay, Brevard, Citrus, Columbia, Dixie, Flagler, Franklin, Gilchrist, Gulf, Hamilton, Hardee, Hernando, Highlands, Hillsborough, Jefferson, Lafayette, Lake, Leon, Levy, Madison, Marion, Orange, Osceola, Pasco, Pinellas, Polk, Seminole, Sumter, Suwannee, Taylor, Volusia and Wakulla",Hurricane Jeanne,1800,722000,"10/01/04, 12:00 AM",2004-10-01 00:00:00,2004-09-26 06:00:00
+161,2004-09-27 08:00:00,SERC,Georgia,Hurricane Jeanne,854,85455,"09/27/04, 2:00 PM",2004-09-27 14:00:00,2004-09-27 08:00:00
+162,2004-09-27 16:06:00,NPCC,Nova Scotia,Switch Error Concerning Breakers,0,0,"09/27/04, 4:12 PM",2004-09-27 16:12:00,2004-09-27 16:06:00
+163,2004-10-10 17:09:00,PR,Island Wide,Breaker Failure,0,0,"10/11/04, 7:57 PM",2004-10-11 19:57:00,2004-10-10 17:09:00
+164,2004-10-18 22:30:00,WECC,Northern California,Severe Storm with High Wind Gusts,140,407440,"10/20/04, 9:00 AM",2004-10-20 09:00:00,2004-10-18 22:30:00
+165,2004-10-25 11:00:00,SPP,Southeastern Louisiana in the New Orleans area,Public Appeal/Breaker Failure and Fire,0,0,"10/26/04, 10:00 AM",2004-10-26 10:00:00,2004-10-25 11:00:00
+166,2004-10-28 15:27:00,WECC,"San  Jose, California",Major Transmission Distribution System Interruption,103,59458,"10/28/04, 6:08 PM",2004-10-28 18:08:00,2004-10-28 15:27:00
+167,2004-10-30 10:00:00,ECAR,"Lower peninsula of Michigan. following area:  Grand Rapids, Kalamazoo, Battle Creek, Greenville, Jackson,  Flint, Lansing, Allegan, Temperance",Severe Storm with High Wind Gusts,60,122000,"11/01/04, 6:00 PM",2004-11-01 18:00:00,2004-10-30 10:00:00
+168,2004-10-30 12:30:00,ECAR,Southeastern Michigan,High Wind Gusts,700,159870,"11/03/04, 1:50 PM",2004-11-03 13:50:00,2004-10-30 12:30:00
+169,2004-11-09 14:15:00,NPCC,"Sayreville, New Jersey Long Island, New York",Fuel Supply Deficiency - Williams Company: Event for Trans Continental Gas Pipeline,0,0,,,2004-11-09 14:15:00
+170,2004-11-14 04:55:00,NPCC,Nova Scotia ,"Heavy Snow, High Winds and Rain/Major Distribution System Interruption",165,165000,"11/15/04, 1:31 AM",2004-11-15 01:31:00,2004-11-14 04:55:00
+171,2004-11-23 22:00:00,ERCOT,"Houston, Texas and surrounding suburban areas",Strong Thunderstorms,150,119000,"11/24/04, 1:00 AM",2004-11-24 01:00:00,2004-11-23 22:00:00
+172,2004-11-24 10:00:00,SERC,Georgia,Strong Thunderstorms,100,83450,"11/24/04, 4:00 PM",2004-11-24 16:00:00,2004-11-24 10:00:00
+173,2004-12-01 10:00:00,MAAC,"Central Maryland (Baltimore City, Baltimore County, Anne Arundel County, Hartford County, Montgomery County, Calvert County, Prince George's County, Carroll County and Howard County)",High Winds,270,122000,"12/02/04, 11:59 PM",2004-12-02 23:59:00,2004-12-01 10:00:00
+174,2004-12-01 07:30:00,MAAC,"Bucks, Chester, Delaware, Montgomery, and Philadelphia Counties, Pennsylvania",Heavy Rain and Wind Storm,0,105312,"12/02/04, 10:09 PM",2004-12-02 22:09:00,2004-12-01 07:30:00
+175,2004-12-23 03:37:00,ECAR,Columbus District,Major Freezing Rain and Ice Storm,800,359171,"12/31/04, 11:00 PM",2004-12-31 23:00:00,2004-12-23 03:37:00
+176,2004-12-27 07:50:00,WECC,"Salinas, California and surrounding communities",Severe Weather/Line Relayed,100,95000,"12/27/04, 10:50 AM",2004-12-27 10:50:00,2004-12-27 07:50:00
+177,2005-01-04 18:00:00,SPP,Eastern one third of the state of Kansas,Winter Storm,200,211000,"1/14/05, 12:00 PM",2005-01-14 12:00:00,2005-01-04 18:00:00
+178,2005-01-05 16:00:00,ECAR,Akron and Mansfield areas,Ice Storm,250,246990,"1/13/05, 6:00 PM",2005-01-13 18:00:00,2005-01-05 16:00:00
+179,2005-01-05 21:10:00,ECAR,Indiana Michigan Region - Muncie District,Winter Ice Storm,545,114791,"1/16/05, 11:00 AM",2005-01-16 11:00:00,2005-01-05 21:10:00
+180,2005-01-07 13:00:00,WECC,Northern California,Winter Storm,120,442000,"1/10/05, 8:00 AM",2005-01-10 08:00:00,2005-01-07 13:00:00
+181,2005-01-23 10:42:00,PR,Island of Puerto Rico,Voltage Reduction,140,0,,,2005-01-23 10:42:00
+182,2005-01-24 06:38:00,PR,Island of Puerto Rico,Voltage Reduction/Shed Load,225,70717,"1/24/05, 6:50 AM",2005-01-24 06:50:00,2005-01-24 06:38:00
+183,2005-01-24 12:27:00,PR,Island of Puerto Rico,Voltage Reduction/Shed Load,385,0,"1/24/05, 12:34 PM",2005-01-24 12:34:00,2005-01-24 12:27:00
+184,2005-01-29 10:00:00,SERC,Parts of Alabama and Georgia,Ice Storm,100,150000,,,2005-01-29 10:00:00
+185,2005-01-29 16:00:00,SERC,Georgia,Ice Storm,65,82000,"1/30/05, 3:00 PM",2005-01-30 15:00:00,2005-01-29 16:00:00
+186,2005-02-01 17:28:00,PR,Island of Puerto Rico,Voltage Reduction,460,0,"2/01/05, 6:01 PM",2005-02-01 18:01:00,2005-02-01 17:28:00
+187,2005-02-15 13:12:00,PR,Island of Puerto Rico,Generator Loss,380,0,,,2005-02-15 13:12:00
+188,2005-02-16 13:26:00,PR,Island of Puerto Rico,Load Shedding,325,139438,"2/16/05, 1:43 PM",2005-02-16 13:43:00,2005-02-16 13:26:00
+189,2005-02-18 08:16:00,PR,Island of Puerto Rico,Generator Loss/Voltage Reduction,648,372288,"2/18/05, 8:41 AM",2005-02-18 08:41:00,2005-02-18 08:16:00
+190,2005-02-24 00:58:00,PR,Island of Puerto Rico,Voltage Reduction,200,0,"2/24/05, 1:05 AM",2005-02-24 01:05:00,2005-02-24 00:58:00
+191,2005-03-08 11:00:00,SERC,Eastern and Central North Carolina,Wind Storms,180,51600,"3/08/05, 3:00 PM",2005-03-08 15:00:00,2005-03-08 11:00:00
+192,2005-04-01 00:00:00,ECAR,"Cleveland, Ohio and northeast Ohio ",Winter Storm,,211000,"4/06/05, 12:00 PM",2005-04-06 12:00:00,2005-04-01 00:00:00
+193,2005-04-22 15:51:00,WECC,"San Francisco Bay area, California",Lightning Strike,126,0,"4/22/05, 3:59 PM",2005-04-22 15:59:00,2005-04-22 15:51:00
+194,2005-04-23 04:22:00,PR,Island of Puerto Rico,Voltage Reduction,345,116552,"4/23/05, 4:48 AM",2005-04-23 04:48:00,2005-04-23 04:22:00
+195,2005-04-23 06:00:00,ECAR,"Cleveland, Ohio and northeast Ohio ",Winter Storm,,150000,"4/27/05, 6:00 AM",2005-04-27 06:00:00,2005-04-23 06:00:00
+196,2005-04-30 08:00:00,SERC,Alabama and Georgia,Thunderstorms,100,51808,"4/30/05, 10:00 AM",2005-04-30 10:00:00,2005-04-30 08:00:00
+197,2005-05-08 15:00:00,ERCOT,"Houston, Texas and surrounding suburban areas",Strong Thunderstorms,672,243000,"5/08/05, 10:00 PM",2005-05-08 22:00:00,2005-05-08 15:00:00
+198,2005-05-11 19:00:00,PR,Island of Puerto Rico,Voltage Reduction,529,0,"5/11/05, 8:31 PM",2005-05-11 20:31:00,2005-05-11 19:00:00
+199,2005-05-29 20:00:00,ERCOT,"Houston, Texas and surrounding suburban areas",Strong Thunderstorms,328,123000,"5/30/05, 2:30 AM",2005-05-30 02:30:00,2005-05-29 20:00:00
+200,2005-06-05 14:00:00,ECAR,Southeast  Michigan,Strong Thunderstorm/High Winds,1826,201580,"6/10/05, 7:30 AM",2005-06-10 07:30:00,2005-06-05 14:00:00
+201,2005-06-05 14:00:00,ECAR,Portions of  the southern 2/3 of  Michigan's Lower Peninsula,Strong Thunderstorm,50,105000,"6/07/05, 6:00 PM",2005-06-07 18:00:00,2005-06-05 14:00:00
+202,2005-06-06 12:00:00,NPCC,Central/Eastern New York state,Strong Thunderstorms,,65000,"6/08/05, 6:00 PM",2005-06-08 18:00:00,2005-06-06 12:00:00
+203,2005-06-06 16:43:00,MAAC,"Bucks, Montgomery, Delaware, Chester, Philadelphia counties, Pennsylvania",Strong Thunderstorm,,143000,"6/07/05, 10:00 PM",2005-06-07 22:00:00,2005-06-06 16:43:00
+204,2005-06-08 04:00:00,MRO,Minnesota,Strong Thunderstorm,50,300000,"6/10/05, 10:00 PM",2005-06-10 22:00:00,2005-06-08 04:00:00
+205,2005-06-20 11:16:00,PR,Island of Puerto Rico,Voltage Reduction,35,600000,,,2005-06-20 11:16:00
+206,2005-06-24 20:37:00,MAIN,"Chicago, Illinois",Transmission Equipment Failure,350,51500,"6/24/05, 11:06 PM",2005-06-24 23:06:00,2005-06-24 20:37:00
+207,2005-06-28 11:30:00,WECC,Denver Metropolitan area of Colorado,Fuel Supply Deficiency/Coal Rail Transportation Interruption,0,0,,,2005-06-28 11:30:00
+208,2005-06-29 16:30:00,ECAR,Southeast  Michigan,Strong Thunderstorm/High Winds,1000,114711,"7/04/05, 11:30 PM",2005-07-04 23:30:00,2005-06-29 16:30:00
+209,2005-07-02 01:27:00,PR,Island of Puerto Rico,Load Shedding,226,132290,"7/02/05, 1:46 AM",2005-07-02 01:46:00,2005-07-02 01:27:00
+210,2005-07-05 21:00:00,SPP,"Southeast and Northeast, Louisiana including the New Orleans area",Tropical Storm Cindy,0,287000,"7/06/05, 9:00 AM",2005-07-06 09:00:00,2005-07-05 21:00:00
+211,2005-07-10 08:00:00,SERC,"Alabama, Mississippi, Florida, Georgia",Hurricane Dennis,45,228102,"7/12/05, 8:00 AM",2005-07-12 08:00:00,2005-07-10 08:00:00
+212,2005-07-10 12:53:00,SERC,Southwest Alabama and Western Panhandle of Florida,Hurricane Dennis,51.2,50000,,,2005-07-10 12:53:00
+213,2005-07-21 14:39:00,WECC,Southern California,CA ISO  Stage 2 -Initiated interruption of Air Conditioner Cycling Interruptible Load Program,197,128050,"7/21/05, 5:30 PM",2005-07-21 17:30:00,2005-07-21 14:39:00
+214,2005-07-22 13:55:00,WECC,Southern California ,CA ISO Stage 2 -Initiated interruption of Air Conditioner Cycling Interruptible Load Program,206,133900,"7/22/05, 6:00 PM",2005-07-22 18:00:00,2005-07-22 13:55:00
+215,2005-07-23 01:02:00,MAAC,"Washington, DC, Montgomery and Prince Georges Counties, Maryland",Severe Thunderstorms,,55118,"7/26/05, 10:50 AM",2005-07-26 10:50:00,2005-07-23 01:02:00
+216,2005-07-27 16:50:00,MAAC,"Bucks, Chester, Delaware, Montgomery and Philadelphia counties, Pennsylvania",Severe Thunderstorms,,93837,"7/28/05, 9:24 PM",2005-07-28 21:24:00,2005-07-27 16:50:00
+217,2005-07-27 17:50:00,MAAC,"Washington, DC, Montgomery and Prince Georges Counties, Maryland",Severe Thunderstorm,0,64943,"7/30/05, 9:07 PM",2005-07-30 21:07:00,2005-07-27 17:50:00
+218,2005-07-27 18:00:00,MAAC,"Baltimore County, Anne Arundel County and Prince Georges County, Maryland",Severe Thunderstorms,,87600,"7/29/05, 4:00 PM",2005-07-29 16:00:00,2005-07-27 18:00:00
+219,2005-07-28 20:30:00,SERC,Piedmont North and South Carolina,Severe Thunderstorm,300,52200,"8/01/05, 5:00 PM",2005-08-01 17:00:00,2005-07-28 20:30:00
+220,2005-08-01 10:28:00,PR,Island of Puerto Rico,Voltage Reduction/Load Shed,175,47116,"8/01/05, 10:47 AM",2005-08-01 10:47:00,2005-08-01 10:28:00
+221,2005-08-08 12:38:00,WECC,"San Francisco Bay area, California",Plant Tripped,240,0,"8/08/05, 4:00 PM",2005-08-08 16:00:00,2005-08-08 12:38:00
+222,2005-08-19 19:37:00,PR,Island of Puerto Rico,Voltage Reduction/Load Shed,259,71864,"8/19/05, 8:15 PM",2005-08-19 20:15:00,2005-08-19 19:37:00
+223,2005-08-20 14:15:00,ECAR,Northwest Arkansas,Severe Thunderstorms,650,50797,"8/20/05, 4:21 PM",2005-08-20 16:21:00,2005-08-20 14:15:00
+224,2005-08-25 15:50:00,WECC,Southern California,CAISO determined there was  inadequate electric resources to serve load.  Public appeals and a shedding of interruptible and firm load occurred.,0,0,"8/25/05, 8:00 PM",2005-08-25 20:00:00,2005-08-25 15:50:00
+225,2005-08-25 15:51:00,WECC,Southern California,CAISO initiated interruption of  interruptible and firm load due to declaration of  Transmission Emergency in Southern California,864,409000,"8/25/05,  8:00 PM",2005-08-25 20:00:00,2005-08-25 15:51:00
+226,2005-08-29 01:10:00,SPP,East and Southeast Louisiana,Hurricane Katrina,300,143000,"8/29/05, 12:42 PM",2005-08-29 12:42:00,2005-08-29 01:10:00
+227,2005-08-29 06:00:00,SPP,"Buras, Louisiana",Hurricane Katrina,,0,"8/30/05, 6:00 AM",2005-08-30 06:00:00,2005-08-29 06:00:00
+228,2005-08-29 07:10:00,FRCC,"Counties of Alachua, Bay, Citrus, Columbia, Dixie, Franklin, Gilchrist, Gulf, Hamilton, Hardee, Hernando, Highlands, Jefferson, Lafayette, Lake, Levy, Madison, Marion, Orange, Osceola, Pasco, Pinellas, Polk, Seminole, Sumter, Suwannee, Taylor, Volusia and Wakulla",Hurricane Katrina disrupted fuel supply in the Gulf of Mexico. Public appeals for conservation were issued.,0,0,"9/07/05, 3:00 PM",2005-09-07 15:00:00,2005-08-29 07:10:00
+229,2005-08-29 07:10:00,SERC,"Alabama, Florida, Mississippi",Hurricane Katrina ,5120,512049,"8/29/05, 10:00 PM",2005-08-29 22:00:00,2005-08-29 07:10:00
+230,2005-08-29 15:50:00,SERC,"Alabama, Mississippi,  Tennessee",Hurricane Katrina,118.5,323529,"9/10/05, 12:00 PM",2005-09-10 12:00:00,2005-08-29 15:50:00
+231,2005-08-29 17:00:00,FRCC,"City of Lakeland, Florida",Hurricane Katrina  disrupted normal gas allotment through natural gas pipelines (FGT & Gulf stream). Public appeals for conservation were issued.,0,0,,,2005-08-29 17:00:00
+232,2005-08-31 16:00:00,FRCC,Member Service Territory is located in the West coast of Florida from Tallahassee to Fort Myers,Hurricane Katrina disrupted normal gas supplies distribution. Public appeals for conservation were issued.,0,0,"9/12/05, 8:00 AM",2005-09-12 08:00:00,2005-08-31 16:00:00
+233,2005-09-12 12:32:00,WECC," Los Angeles, California",Breaker protection cable accidentally cut,2578,900000,"9/12/05, 1:56 PM",2005-09-12 13:56:00,2005-09-12 12:32:00
+234,2005-09-13 14:14:00,PR,Island of Puerto Rico,Voltage Reduction/Load Shed,249,66480,"9/13/05, 2:29 PM",2005-09-13 14:29:00,2005-09-13 14:14:00
+235,2005-09-13 18:30:00,MAIN,Southeast Wisconsin and Fox Valley,Severe Storm,600,110000,"9/16/05, 8:00 PM",2005-09-16 20:00:00,2005-09-13 18:30:00
+236,2005-09-14 15:00:00,SERC,Eastern North Carolina,Hurricane Ophelia,215,60000,"9/15/05, 3:00 PM",2005-09-15 15:00:00,2005-09-14 15:00:00
+237,2005-09-21 19:00:00,MRO,Minnesota,High Winds/Tornados,,200000,"9/27/05, 11:00 PM",2005-09-27 23:00:00,2005-09-21 19:00:00
+238,2005-09-22 11:00:00,ECAR,Southeast Michigan,Severe Thunderstorm,366,53000,"9/26/05, 11:30 PM",2005-09-26 23:30:00,2005-09-22 11:00:00
+239,2005-09-22 12:00:00,FRCC,"Counties of Alachua, Bay, Citrus, Columbia, Dixie, Franklin, Gilchrist, Gulf, Hamilton, Hardee, Hernando, Highlands, Jefferson, Lafayette, Lake, Levy, Madison, Marion, Orange, Osceola, Pasco, Pinellas, Polk, Seminole, Sumter, Suwannee, Taylor, Volusia and Wakulla",Hurricane Rita disrupted fuel supply in the Gulf of Mexico. Public Appeals for conservation were issued.,0,0,"9/29/05, 12:00 PM",2005-09-29 12:00:00,2005-09-22 12:00:00
+240,2005-09-23 07:00:00,FRCC," Lakeland, Florida",Hurricane Rita  disrupted normal gas allotment through natural gas pipelines (FGT & Gulf stream). Public Appeals for conservation were issued.,0,0,"9/28/05, 11:29 AM",2005-09-28 11:29:00,2005-09-23 07:00:00
+241,2005-09-23 13:06:00,SPP,West and Southwest Louisiana,Hurricane Rita,350,125000,"10/06/05, 2:30 PM",2005-10-06 14:30:00,2005-09-23 13:06:00
+242,2005-09-23 17:00:00,ERCOT,"Houston, Texas and the surrounding suburban areas",Hurricane Rita,1950,715000,"9/24/05, 8:00 PM",2005-09-24 20:00:00,2005-09-23 17:00:00
+243,2005-09-23 21:00:00,SPP,"Texas, Louisiana, Arkansas, and Mississippi",Hurricane Rita,,766000,"9/25/05, 7:30 AM",2005-09-25 07:30:00,2005-09-23 21:00:00
+244,2005-09-24 06:00:00,ERCOT,"Nacogdoches, Lufkin, Tyler, Jacksonville, Rusk, Paris, Commerce, Huntington",Hurricane Rita,260,200000,,,2005-09-24 06:00:00
+245,2005-09-24 10:00:00,ECAR,"Shreveport, Louisiana",Hurricane Rita,700,190000,"9/28/05, 6:00 PM",2005-09-28 18:00:00,2005-09-24 10:00:00
+246,2005-10-02 17:40:00,PR,Island of Puerto Rico,Voltage Reduction/Load Shed,312,71240,"10/02/05, 5:54 PM",2005-10-02 17:54:00,2005-10-02 17:40:00
+247,2005-10-18 15:19:00,PR,Island of Puerto Rico,Voltage Reduction/Load Shed,460,142591,,,2005-10-18 15:19:00
+248,2005-10-22 09:44:00,PR,Island of Puerto Rico,Voltage Reduction/Load Shed,360,85682,"10/22/05, 11:40 AM",2005-10-22 11:40:00,2005-10-22 09:44:00
+249,2005-10-23 20:00:00,FRCC,"South Florida, Naples, Ft. Myers, Miami, Ft. Lauderdale, West Palm Beach and Martin county",Hurricane Wilma,10000,3241437,"10/24/05, 2:00 PM",2005-10-24 14:00:00,2005-10-23 20:00:00
+250,2005-10-24 04:00:00,FRCC,"Florida counties of Collier, Charlotte and Lee",Hurricane Wilma,280,105000,"10/24/05, 4:00 PM",2005-10-24 16:00:00,2005-10-24 04:00:00
+251,2005-10-24 07:00:00,FRCC,"South Florida - Cities of Key West, Clewiston, Lake Worth, and Ft. Pierce",Hurricane Wilma ,148,84900,"11/10/05, 12:00 AM",2005-11-10 00:00:00,2005-10-24 07:00:00
+252,2005-10-24 20:00:00,MAAC,"Maryland, North Central West Virginia, Southwestern Pennsylvania, and Northern Pennsylvania",Hurricane Wilma,400,303795,"11/02/05, 4:30 PM",2005-11-02 16:30:00,2005-10-24 20:00:00
+253,2005-11-03 18:47:00,WECC,"San Francisco Bay area, California",Plant Tripped,136,0,"11/03/05, 7:00 PM",2005-11-03 19:00:00,2005-11-03 18:47:00
+254,2005-11-06 07:30:00,ECAR,Southeast Michigan,Severe Thunderstorm,212,118000,"11/11/05, 11:30  PM",2005-11-11 23:30:00,2005-11-06 07:30:00
+255,2005-11-12 16:00:00,Other,Southeast Wisconsin ,Severe Thunderstorms,10,48000,"11/14/05, 6:00 PM",2005-11-14 18:00:00,2005-11-12 16:00:00
+256,2005-11-12 23:00:00,ECAR,Western and Central portions of Michigan's Lower Peninsula,Severe Thunderstorm,408,272355,"11/14/05, 11:59 PM",2005-11-14 23:59:00,2005-11-12 23:00:00
+257,2005-12-15 04:00:00,SERC,Piedmont North Carolina and South Carolina,Ice Storm,3500,683000,"12/21/05, 5:00 PM",2005-12-21 17:00:00,2005-12-15 04:00:00
+258,2005-12-15 05:05:00,SERC,Northeast Georgia,Ice Storm,75,52659,"12/16/05, 12:10  PM",2005-12-16 12:10:00,2005-12-15 05:05:00
+259,2005-12-31 06:00:00,WECC,Northern and Central California,Severe Storms,800,1667316,"01/05/06, 9:00 AM",2006-01-05 09:00:00,2005-12-31 06:00:00
+260,2006-01-14 15:45:00,RFC,"Chester, Montgomery, Delaware, Philadelphia and Bucks Counties, Pennsylvania",High Winds,0,142315,5:30 PMJanuary 162006,2006-01-16 17:30:00,2006-01-14 15:45:00
+261,2006-01-18 15:16:00,NPCC,Southern and Central Maine,Severe Storm,75,63000,6:34 PMJanuary 182006,2006-01-18 18:34:00,2006-01-18 15:16:00
+262,2006-02-04 01:34:00,WECC,"Snohomish County, Washington",Strong Winds,150,123827,12:01 AMFebruary 062006,2006-02-06 00:01:00,2006-02-04 01:34:00
+263,2006-02-04 04:30:00,WECC,Western Washington,Severe Windstorm,0,140000,8:00  AMFebruary 082006,2006-02-08 08:00:00,2006-02-04 04:30:00
+264,2006-02-11 21:00:00,RFC,Baltimore Metropolitan and Central Maryland,Major Snow Storm,500,180000,11:00 PMFebruary 142006,2006-02-14 23:00:00,2006-02-11 21:00:00
+265,2006-02-12 00:06:00,RFC,"Washington DC, Montgomery and Prince Georges Counties MD",Major Snow Storm,300,60000,5:44 PM  February 142006,2006-02-14 17:44:00,2006-02-12 00:06:00
+266,2006-02-12 02:00:00,RFC,Entire Atlantic City Electric territory Southern New Jersey,Winter Snow/Ice Storm,80,130000,4:00 PMFebruary 142006,2006-02-14 16:00:00,2006-02-12 02:00:00
+267,2006-02-12 02:00:00,RFC,Entire Delmarva Power service territory,Winter Snow/Ice Storm,50,58000,7:00 AMFebruary 132006,2006-02-13 07:00:00,2006-02-12 02:00:00
+268,2006-02-12 05:55:00,RFC,Northern and Northwestern Virginia,Severe Snow Storm,250,126000,2:00 PMFebruary 122006,2006-02-12 14:00:00,2006-02-12 05:55:00
+269,2006-02-16 12:00:00,RFC,"Muskegon, Michigan easterly to Bay City, Michigan",Severe Thunderstorm/ Snow/Ice Storm,100,252089,11:00 PMFebruary 202006,2006-02-20 23:00:00,2006-02-16 12:00:00
+270,2006-02-16 00:00:00,MRO,North Dakota,Fuel Supply - Deficiency Coal Rail Transportation Interruption,1650,0,Ongoing2006,,2006-02-16 00:00:00
+271,2006-02-17 04:32:00,NPCC,Upstate New York,Severe Weather,250,200000,12:00 PMFebruary 172006,2006-02-17 12:00:00,2006-02-17 04:32:00
+272,2006-02-18 08:50:00,WECC,Colorado,Inadequate Electric Resources to Serve Load,428,0,4:09 PMFebruary 182006,2006-02-18 16:09:00,2006-02-18 08:50:00
+273,2006-02-27 18:25:00,WECC,Northern and Central California,Severe Winter Storm,0,160000,2:30 PMMarch 012006,2006-03-01 14:30:00,2006-02-27 18:25:00
+274,2006-03-09 14:00:00,SERC,"Arkansas, Mississippi, Louisiana, Southeast Texas",Severe Weather,,73000,10:00 PMMarch 092006,2006-03-09 22:00:00,2006-03-09 14:00:00
+275,2006-03-12 20:30:00,RFC,"Springfield, Illinois and vicinity",Severe Weather,200,65400,12:00 PMMarch 142006,2006-03-14 12:00:00,2006-03-12 20:30:00
+276,2006-04-02 21:00:00,RFC,Southern half of Indiana,Major Storms/Tornadoes,1000,186000,4:25 AMApril 052006,2006-04-05 04:25:00,2006-04-02 21:00:00
+277,2006-04-07 08:43:00,PR,Island of Puerto Rico,Voltage Reduction/Load Shed,116,54700,9:29 AMApril 072006,2006-04-07 09:29:00,2006-04-07 08:43:00
+278,2006-04-08 04:00:00,SERC,North and Central Alabama and Northern Georgia areas,Severe Weather/ Tornadoes,300,115589,11:00 AMApril 082006,2006-04-08 11:00:00,2006-04-08 04:00:00
+279,2006-04-17 15:25:00,ERCOT,ERCOT Region of Texas,Load Shed/Declared EECP,1000,200000,7:30 PMApril 172006,2006-04-17 19:30:00,2006-04-17 15:25:00
+280,2006-04-17 16:10:00,ERCOT,System-wide greater Houston metro area (and across ERCOT),Load Shed/Made Public Appeals/Rolling Blackouts,260,68000,6:11 PMApril 172006,2006-04-17 18:11:00,2006-04-17 16:10:00
+281,2006-04-17 16:11:00,ERCOT,North and East Texas,Load Shed/ Declared EECP,380,489478,7:20 PMApril 172006,2006-04-17 19:20:00,2006-04-17 16:11:00
+282,2006-04-17 16:20:00,ERCOT,State of Texas (all of Austin Energy),Load Shed/Made Public Appeals/Rolling Blackouts,37,0,6:30 PMApril 172006,2006-04-17 18:30:00,2006-04-17 16:20:00
+283,2006-04-17 16:35:00,ERCOT,AEP Texas Central/Texas North,Load Shed/Declared EECP,108,51404,6:10 PMApril 172006,2006-04-17 18:10:00,2006-04-17 16:35:00
+284,2006-04-21 07:00:00,ERCOT,System-wide greater Houston metro area,Severe Weather,219,82000,10:00 AMApril 212006,2006-04-21 10:00:00,2006-04-21 07:00:00
+285,2006-04-29 14:55:00,PR,Island of Puerto Rico,Lightning Storm,237,164105,3:45 PMApril 292006,2006-04-29 15:45:00,2006-04-29 14:55:00
+286,2006-05-03 15:30:00,WECC,City of Bakersfield area,Transmission Equipment Failure/Fire,300,55655,9:35 PMMay 032006,2006-05-03 21:35:00,2006-05-03 15:30:00
+287,2006-05-04 14:12:00,PR,Island of Puerto Rico,Load Shed,140,94639,2:45 PMMay 042006,2006-05-04 14:45:00,2006-05-04 14:12:00
+288,2006-05-19 15:13:00,WECC,"San Francisco Bay area, California",Lightning Strike,133,0,10:30 PMMay 192006,2006-05-19 22:30:00,2006-05-19 15:13:00
+289,2006-05-25 19:50:00,RFC,"Southwest Ohio, Northern Kentucky, Central Indiana",Severe Weather,800,210000,9:00 AMMay 272006,2006-05-27 09:00:00,2006-05-25 19:50:00
+290,2006-06-01 14:12:00,HECO,Island of Oahu,Load Shed,120,29300,6:09 PMJune 012006,2006-06-01 18:09:00,2006-06-01 14:12:00
+291,2006-06-01 18:00:00,RFC,"Chester, Montgomery, Delaware, Philadelphia and Bucks Counties, Pennsylvania",Severe Weather,,111555,9:00 AMJune 032006,2006-06-03 09:00:00,2006-06-01 18:00:00
+292,2006-06-01 18:30:00,RFC,Central Maryland,Severe Thunderstorms,335,70000,2:00 PMJune 032006,2006-06-03 14:00:00,2006-06-01 18:30:00
+293,2006-06-11 18:00:00,SERC,"Charlotte, North Carolina Metropolitan area",Severe Thunderstorm,70,72000,9:00 PMJune 112006,2006-06-11 21:00:00,2006-06-11 18:00:00
+294,2006-06-22 14:00:00,RFC,Ohio and Indiana,Severe Thunderstorms,750,195000,11:00 PMJune 272006,2006-06-27 23:00:00,2006-06-22 14:00:00
+295,2006-07-02 18:39:00,RFC,Northern Virginia,Severe Thunderstorms,300,75000,12:31 AMJuly 032006,2006-07-03 00:31:00,2006-07-02 18:39:00
+296,2006-07-04 17:30:00,SERC,Northern Virginia,Severe Thunderstorms,335,67000,8:18 PMJuly 042006,2006-07-04 20:18:00,2006-07-04 17:30:00
+297,2006-07-16 14:00:00,RFC,Middle 1/3 of Michigan Lower Peninsula,Severe Lightning Storms,150,315000,12:00 AMJuly 212006,2006-07-21 00:00:00,2006-07-16 14:00:00
+298,2006-07-17 18:50:00,NPCC,"Northwest Queens, New York City",Severe Weather/Public Appeals Made/Voltage Reduction,,25000,3:06 AMJuly 252006,2006-07-25 03:06:00,2006-07-17 18:50:00
+299,2006-07-17 21:00:00,RFC,Northern Counties of Illinois,Severe Lightning Storms,,170519,9:00 AMJuly 182006,2006-07-18 09:00:00,2006-07-17 21:00:00
+300,2006-07-18 18:36:00,RFC,"Chester, Montgomery, Delaware, Philadelphia and Bucks Counties, Pennsylvania",Severe Lightning Storms,,492955,11:59 PMJuly 232006,2006-07-23 23:59:00,2006-07-18 18:36:00
+301,2006-07-18 20:07:00,NPCC,"Norwalk, Stamford, Connecticut",Lightning Storms/Tripped Lines,0,0,10:32 PMJuly 182006,2006-07-18 22:32:00,2006-07-18 20:07:00
+302,2006-07-19 11:00:00,SERC,"Greater Little Rock, Arkansas",Load Reduction/Public Appeals Made,40,8000,5:54 PMJuly 192006,2006-07-19 17:54:00,2006-07-19 11:00:00
+303,2006-07-19 18:00:00,MRO,Greater St. Louis Metropolitan area (Missouri and Illinois),Severe Storms (3) (Many customers experienced multiple outages.),1500,0,8:00 AMJuly 312006,2006-07-31 08:00:00,2006-07-19 18:00:00
+304,2006-07-22 13:09:00,WECC,California,Widespread Heat Wave/Public Appeals Made,200,1271893,4:00 PMJuly 272006,2006-07-27 16:00:00,2006-07-22 13:09:00
+305,2006-07-24 14:33:00,WECC,California,Widespread Heat Wave/CAISO Implementation of Stage 2 Electrical Emergency Plan,414,0,5:33 PMJuly 242006,2006-07-24 17:33:00,2006-07-24 14:33:00
+306,2006-07-24 14:33:00,WECC,California,Widespread Heat Wave/CAISO  Implementation of Stage 2 Electrical Emergency Plan,695,0,5:33 PMJuly 242006,2006-07-24 17:33:00,2006-07-24 14:33:00
+307,2006-07-27 18:38:00,RFC,"Chester, Montgomery, Delaware, Philadelphia and Bucks Counties, Pennsylvania",Severe Thunderstorms,,167564,9:36 PMJuly 292006,2006-07-29 21:36:00,2006-07-27 18:38:00
+308,2006-08-01 12:00:00,RFC,Northern Ohio,Made Public Appeals/Heat Wave,,0,7:00 PMAugust 012006,2006-08-01 19:00:00,2006-08-01 12:00:00
+309,2006-08-01 13:00:00,RFC,"Ohio, Indiana, Kentucky",Made Public Appeals,90,0,8:30 PMAugust 012006,2006-08-01 20:30:00,2006-08-01 13:00:00
+310,2006-08-02 12:00:00,MRO,"Midwest ISO's Market Sub-regions:  AMRN, CIN, CILC, CWLD, CWLP, FE, HE, IP, IPL, LGEE, MECS, NIPS, SIGE, SIPC",Declared Energy Emergency Alert 2/Heat Wave,,0,4:45 PMAugust 022006,2006-08-02 16:45:00,2006-08-02 12:00:00
+311,2006-08-02 13:00:00,NPCC,New England,System Wide Voltage Reduction,,0,4:35 PMAugust 022006,2006-08-02 16:35:00,2006-08-02 13:00:00
+312,2006-08-02 19:00:00,NPCC,New England,Severe Thunderstorms,100,77000,1:00 AMAugust 032006,2006-08-03 01:00:00,2006-08-02 19:00:00
+313,2006-08-03 14:16:00,PR,Island of Puerto Rico,Shed Firm Load,369,227480,2:46 PMAugust 032006,2006-08-03 14:46:00,2006-08-03 14:16:00
+314,2006-08-07 13:00:00,RFC,"Tulsa, Oklahoma",Made Public Appeals,75,0,6:00 PMAugust 072006,2006-08-07 18:00:00,2006-08-07 13:00:00
+315,2006-08-10 20:00:00,WECC,Southwest Idaho and Eastern Oregon,Severe Thunderstorm,80,65000,12:00 PMAugust 122006,2006-08-12 12:00:00,2006-08-10 20:00:00
+316,2006-08-24 21:58:00,PR,Island of Puerto Rico,Shed Firm Load/Reduced Voltage,180,106000,11:25 PMAugust 242006,2006-08-24 23:25:00,2006-08-24 21:58:00
+317,2006-09-01 05:30:00,SERC,Eastern North Carolina,Tropical Storm Ernesto,,61000,10:00 AMSeptember 012006,2006-09-01 10:00:00,2006-09-01 05:30:00
+318,2006-09-01 06:41:00,SERC,Virginia and North Carolina,Tropical Storm Ernesto,500,333000,3:25 PMSeptember 032006,2006-09-03 15:25:00,2006-09-01 06:41:00
+319,2006-09-01 10:00:00,RFC,Southern Delmarva Peninsula,Tropical Storm Ernesto,380,105000,2:00 PMSeptember 042006,2006-09-04 14:00:00,2006-09-01 10:00:00
+320,2006-09-01 15:00:00,RFC,"Chester, Montgomery, Delaware, Philadelphia and Bucks Counties, Pennsylvania",Tropical Storm Ernesto,,146094,11:00 PMSeptember 042006,2006-09-04 23:00:00,2006-09-01 15:00:00
+321,2006-09-01 20:00:00,RFC,Southern New Jersey Counties,Tropical Storm Ernesto,400,100000,5:00 PMSeptember 042006,2006-09-04 17:00:00,2006-09-01 20:00:00
+322,2006-09-14 08:56:00,PR,Island of Puerto Rico,Shed Firm Load/ Reduced Voltage,59,34716,9:08 AMSeptember 142006,2006-09-14 09:08:00,2006-09-14 08:56:00
+323,2006-09-28 20:08:00,SERC,"North, Central and Eastern Virginia and Northern North Carolina",Severe Thunderstorms,84,56500,10:10 PMSeptember 282006,2006-09-28 22:10:00,2006-09-28 20:08:00
+324,2006-10-02 14:00:00,RFC,"Chicago Metro, Northeast Illinois",Severe Thunderstorms,,471932,6:00 PMOctober 032006,2006-10-03 18:00:00,2006-10-02 14:00:00
+325,2006-10-02 15:05:00,WECC,"Newhall, San Frenando, Saugus, and Santa Clarita, California",Shed Firm Load,308,130000,8:39 PMOctober 022006,2006-10-02 20:39:00,2006-10-02 15:05:00
+326,2006-10-03 17:28:00,ERCOT,"Grimes, Robertson, Fort Bend, Brazos, Burleson and Walker Counties",Shed Firm Load,339,0,9:59 PMOctober 032006,2006-10-03 21:59:00,2006-10-03 17:28:00
+327,2006-10-12 17:48:00,NPCC,Western New York State,Snow Storm,600,250000,12:00 AMOctober 232006,2006-10-23 00:00:00,2006-10-12 17:48:00
+328,2006-10-12 20:00:00,NPCC,Western New York State,Snow Storm,353,120000,11:00 PMOctober 212006,2006-10-21 23:00:00,2006-10-12 20:00:00
+329,2006-10-15 07:09:00,Other,Island of Maui,Earthquakes,110,59886,4:12 PMOctober 152006,2006-10-15 16:12:00,2006-10-15 07:09:00
+330,2006-10-15 07:09:00,HECO,Island of Oahu,Earthquakes,1170,291000,2:55 PMOctober 162006,2006-10-16 14:55:00,2006-10-15 07:09:00
+331,2006-10-20 13:00:00,RFC,"Chester, Montgomery, Delaware, Philadelphia and Bucks Counties, Pennsylvania",High Winds,,90000,5:00 PMOctober 222006,2006-10-22 17:00:00,2006-10-20 13:00:00
+332,2006-10-26 05:30:00,MRO,"Metro Denver and Boulder, Colorado",Wet Snow/Winds,,65000,5:10 PMOctober 272006,2006-10-27 17:10:00,2006-10-26 05:30:00
+333,2006-11-15 10:00:00,ERCOT,System-wide greater Houston area,High Winds,221,83000,8:00 PMNovember 152006,2006-11-15 20:00:00,2006-11-15 10:00:00
+334,2006-11-15 13:00:00,WECC,"Whatcom and Skagit Counties, Washington",High Winds,50,50000,2:35 AMNovember 192006,2006-11-19 02:35:00,2006-11-15 13:00:00
+335,2006-11-15 15:00:00,SERC,Georgia,Severe Weather,363,109000,5:00 PMNovember 152006,2006-11-15 17:00:00,2006-11-15 15:00:00
+336,2006-11-26 13:00:00,WECC,"Snohomish County, Washington",Wind/Snow Storm,180,63992,6:00 PMDecember 022006,2006-12-02 18:00:00,2006-11-26 13:00:00
+337,2006-11-30 21:00:00,MRO,Missouri and Illinois,Ice Storm,,550000,6:00 PMDecember 092006,2006-12-09 18:00:00,2006-11-30 21:00:00
+338,2006-12-01 18:20:00,RFC,Ohio,Wind Storm,,59106,6:00 AMDecember 022006,2006-12-02 06:00:00,2006-12-01 18:20:00
+339,2006-12-10 19:35:00,WECC,"San Francisco Bay area, California",Unit Tripped,220,0,10:14 PMDecember 102006,2006-12-10 22:14:00,2006-12-10 19:35:00
+340,2006-12-13 04:30:00,WECC,Western Washington,Wind Storm,,700000,11:59 PMDecember 282006,2006-12-28 23:59:00,2006-12-13 04:30:00
+341,2006-12-14 00:01:00,WECC,"City of Seattle, Washington",Wind Storm,750,175000,8:00 AMDecember 152006,2006-12-15 08:00:00,2006-12-14 00:01:00
+342,2006-12-14 05:30:00,WECC,"Snohomish County, Washington",Wind Storm,360,172060,10:00 PMDecember 202006,2006-12-20 22:00:00,2006-12-14 05:30:00
+343,2006-12-14 09:44:00,WECC,"Oregon, Washington, Idaho, Montana",Wind Storm,258,24,2:34 PMDecember 312006,2006-12-31 14:34:00,2006-12-14 09:44:00
+344,2006-12-14 12:07:00,WECC,State of Oregon Coastal area,HIgh Winds,,0,12:00 PMDecember 172006,2006-12-17 12:00:00,2006-12-14 12:07:00
+345,2006-12-14 17:00:00,WECC,"Greater Tacoma area (City of Fircrest, University Place, City of Lakeland) and portions of South Pierce County in State of Washington",High Winds,280,75000,4:00 PMDecember 162006,2006-12-16 16:00:00,2006-12-14 17:00:00
+346,2006-12-14 19:00:00,WECC,"Oregon Counties: Multnomah, Clackamas, Washington, Marion",High Winds,,249500,8:00 PMDecember 172006,2006-12-17 20:00:00,2006-12-14 19:00:00
+347,2006-12-16 19:30:00,WECC,"Oregon Counties:  Washington, Yamhill",Transmission Equipment/Fire,350,84500,1:00 AMDecember 172006,2006-12-17 01:00:00,2006-12-16 19:30:00
+348,2006-12-26 00:01:00,WECC,Northern California,Severe Weather,420,850068,9:13 AMDecember 312006,2006-12-31 09:13:00,2006-12-26 00:01:00
+349,2006-12-29 16:25:00,PR,North Part of the Island,Main Power Transformer Failure/Voltage Reduction/Fire,50,18386,6:59 PMDecember 312006,2006-12-31 18:59:00,2006-12-29 16:25:00
+350,2006-12-30 22:25:00,MRO,"Gosper, Harlan, Franklin, Webster, Clay, Adams, Kearney, Phelps, Dawson, Buffalo, Hall, Hamilton, Sherman, Custer, Valley, Greeley, Howard, Merrick, York, Fillmore, Nance, Boone, Wheeler, Madison, Antelope, Pierce, Platte and Seward Counties in Central Nebraska",Severe Weather,300,15000,2:25 PMJanuary 062006,2006-01-06 14:25:00,2006-12-30 22:25:00
+351,2007-01-05 10:44:00,PR,Island of Puerto Rico,Voltage Reduction,0,0,11:13 AMJanuary 052007,2007-01-05 11:13:00,2007-01-05 10:44:00
+352,2007-01-13 05:00:00,MRO,Missouri and Illinois,Ice Storm,,225000,12:00 PMJanuary 192007,2007-01-19 12:00:00,2007-01-13 05:00:00
+353,2007-01-13 07:30:00,RFC,Eastern and Lower Michigan,Ice Storm,500,129607,4:00 PMJanuary 192007,2007-01-19 16:00:00,2007-01-13 07:30:00
+354,2007-01-16 02:00:00,WECC,"Snohomish County, Washington",Major Windstorm,260,110433,12:00 AMJanuary 172007,2007-01-17 00:00:00,2007-01-16 02:00:00
+355,2007-02-13 14:00:00,RFC,Indiana and Southwest Ohio,Ice/Wind Storm,250,367500,12:00 AMFebruary 162007,2007-02-16 00:00:00,2007-02-13 14:00:00
+356,2007-02-13 17:00:00,RFC,Central Maryland,Winter Storm,400,155183,5:30 AMFebruary 172007,2007-02-17 05:30:00,2007-02-13 17:00:00
+357,2007-02-24 16:00:00,MRO,"NE quarter of State of Iowa and Rock Island, Illinois",Ice Storm,210,75000,12:57 AMMarch 042007,2007-03-04 00:57:00,2007-02-24 16:00:00
+358,2007-02-24 18:00:00,MRO,Central Iowa and Cedar Rapids areas,Ice Storm,400,140000,11:47 PMFebruary 242007,2007-02-24 23:47:00,2007-02-24 18:00:00
+359,2007-02-24 19:23:00,RFC,"Cedar Rapids, Iowa",Ice Storm,750,215000,12:47 AMFebruary 252007,2007-02-25 00:47:00,2007-02-24 19:23:00
+360,2007-02-28 00:45:00,WECC,Northern California,Winter Storm,110,671189,8:45 PMMarch 022007,2007-03-02 20:45:00,2007-02-28 00:45:00
+361,2007-03-01 21:40:00,SERC,"Parts of Alabama, Mississippi, Georgia, Florida",Major Storm,95,25445,11:30 PMMarch 022007,2007-03-02 23:30:00,2007-03-01 21:40:00
+362,2007-03-31 07:30:00,ERCOT,"Houston, Texas",Severe Thunderstorms,179,67000,7:00 PMMarch 312007,2007-03-31 19:00:00,2007-03-31 07:30:00
+363,2007-04-05 21:20:00,NPCC,Southern and Coastal Maine,Heavy Snow Storm,0,117142,1:10 PMApril 062007,2007-04-06 13:10:00,2007-04-05 21:20:00
+364,2007-04-12 00:32:00,WECC,"City of Los Angeles, California",High Winds,200,158977,9:02 PMApril 122007,2007-04-12 21:02:00,2007-04-12 00:32:00
+365,2007-04-12 09:09:00,WECC,"San Francisco Bay Area, California",Trip of a Unit,130,0,11:23 AMApril 122007,2007-04-12 11:23:00,2007-04-12 09:09:00
+366,2007-04-14 09:00:00,NPCC,"Massachusetts, New Hampshire, Rhode Island",High Winds,65,70000,11:00 AMApril 142007,2007-04-14 11:00:00,2007-04-14 09:00:00
+367,2007-04-16 08:00:00,NPCC,New Hampshire,Severe Thunderstorms,0,102568,7:00 PMApril 162007,2007-04-16 19:00:00,2007-04-16 08:00:00
+368,2007-04-16 10:14:00,NPCC,Southern and Coastal Maine,Heavy Snow Storm,0,127545,10:18 PMApril 182007,2007-04-18 22:18:00,2007-04-16 10:14:00
+369,2007-04-16 11:00:00,SERC,North and South Carolina,HIgh Winds,0,33000,7:00 PMApril 162007,2007-04-16 19:00:00,2007-04-16 11:00:00
+370,2007-04-16 14:00:00,RFC,Central Maryland - Baltimore City and surrounding Counties,Severe Thunderstorms,160,138000,5:00 PMApril 182007,2007-04-18 17:00:00,2007-04-16 14:00:00
+371,2007-04-16 14:04:00,SERC,"North, East and Central Virginia/Parts of Northeast North Carolina",High Winds,90,242000,7:03 PMApril 162007,2007-04-16 19:03:00,2007-04-16 14:04:00
+372,2007-05-02 13:30:00,ERCOT,"North Texas, Dallas Fort Worth Metroplex and Surrounding Counties, South to Waco and North to Red River",Severe Storms,0,300000,8:00 PMMay 032007,2007-05-03 20:00:00,2007-05-02 13:30:00
+373,2007-05-10 09:57:00,WECC,"San Francisco Bay Area, California",Unit Tripped,150,0,1:47 PMMay 102007,2007-05-10 13:47:00,2007-05-10 09:57:00
+374,2007-05-14 11:15:00,WECC,"San Francisco Bay Area, California",Unit Tripped,150,0,1:50 PMMay 142007,2007-05-14 13:50:00,2007-05-14 11:15:00
+375,2007-05-15 15:00:00,RFC,Southeastern Michigan,Severe Thunderstorms,500,66000,7:00 AMMay 172007,2007-05-17 07:00:00,2007-05-15 15:00:00
+376,2007-05-16 18:00:00,NPCC,All of Connecticut,Severe Storm,0,67000,5:00 AMMay 192007,2007-05-19 05:00:00,2007-05-16 18:00:00
+377,2007-05-21 13:48:00,WECC,"San Franscisco Bay Area, California",Unit Tripped,140,0,4:50 PMMay 212007,2007-05-21 16:50:00,2007-05-21 13:48:00
+378,2007-06-01 13:00:00,WECC,Restricted Hydroelectric Capability,Fuel Supply Deficiency,0,0,Ongoing2007,,2007-06-01 13:00:00
+379,2007-06-05 10:56:00,WECC,Southwest Idaho and Eastern Oregon,Load Shedding,424,80000,11:51 AMJune 052007,2007-06-05 11:51:00,2007-06-05 10:56:00
+380,2007-06-27 15:41:00,NPCC,"Northern Manhattan NY (Yorkville) and SW Bronx (Motthaven, Melrose, High Bridge Sections)",Lightning,460,137000,4:30 PMJune 272007,2007-06-27 16:30:00,2007-06-27 15:41:00
+381,2007-06-27 15:42:00,NPCC,New York State,Loss of Load,460,0,4:30 PMJune 272007,2007-06-27 16:30:00,2007-06-27 15:42:00
+382,2007-06-29 09:23:00,WECC,Metropolitan Phoenix Area,Loss of Load,399,98700,10:09 AMJune 292007,2007-06-29 10:09:00,2007-06-29 09:23:00
+383,2007-07-03 10:59:00,WECC,CAISO Controlled Grid,Public Appeal,,0,6:00 PMJuly 052007,2007-07-05 18:00:00,2007-07-03 10:59:00
+384,2007-07-05 19:00:00,RFC,Southeastern Michigan,Severe Storm,0,69000,7:00 AMJuly 082007,2007-07-08 07:00:00,2007-07-05 19:00:00
+385,2007-07-06 17:18:00,WECC,Southeast Idaho and Eastern Oregon,Electrical Separation/Load Shedding/Made Public Appeal,60,0,6:20 PMJuly 062007,2007-07-06 18:20:00,2007-07-06 17:18:00
+386,2007-07-10 11:00:00,NPCC,Eastern New York,Major Storms,650,300000,6:00 AMJuly 122007,2007-07-12 06:00:00,2007-07-10 11:00:00
+387,2007-07-16 16:17:00,WECC,"St. George, Utah",Fire/Load Shedding,306,0,9:00 PMJuly 162007,2007-07-16 21:00:00,2007-07-16 16:17:00
+388,2007-07-18 18:00:00,RFC,Northern Counties of Illinois,Severe Weather,300,135000,2:00 AMJuly 192007,2007-07-19 02:00:00,2007-07-18 18:00:00
+389,2007-07-19 15:00:00,RFC,Southwestern Region of Service Territory,Major Storm,0,60000,11:30 PMJuly 222007,2007-07-22 23:30:00,2007-07-19 15:00:00
+390,2007-07-19 15:50:00,SERC,"North, East and Central Virginia",Major Storms,72,107000,10:15 PMJuly 192007,2007-07-19 22:15:00,2007-07-19 15:50:00
+391,2007-08-08 13:00:00,SERC,Portions of North Carolina and South Carolina,Made Public Appeal,,0,9:00 PMAugust 082007,2007-08-08 21:00:00,2007-08-08 13:00:00
+392,2007-08-08 15:56:00,RFC,Mid-Altantic Region of PJM,Voltage Reduction/Made Public Appeal,,0,5:59 PMAugust 082007,2007-08-08 17:59:00,2007-08-08 15:56:00
+393,2007-08-09 12:45:00,SERC,Portions of North Carolina and South Carolina,Made Public Appeal,,0,9:00 PMAugust 092007,2007-08-09 21:00:00,2007-08-09 12:45:00
+394,2007-08-09 14:53:00,RFC,"Highland Area of Pittsburgh, Pennsylvania",Severe Thunderstorms,90,55000,4:11 PMAugust 092007,2007-08-09 16:11:00,2007-08-09 14:53:00
+395,2007-08-10 12:20:00,SERC,Portions of North Carolina and South Carolina,Made Public Appeal,,0,9:00 PMAugust 102007,2007-08-10 21:00:00,2007-08-10 12:20:00
+396,2007-08-13 01:30:00,SERC,State of Missouri,Severe Thunderstorm,,63000,12:00 AMAugust 142007,2007-08-14 00:00:00,2007-08-13 01:30:00
+397,2007-08-14 14:00:00,SPP,"CSWS Control Area of Southwest Power Pool Parts of Oklahoma, Texas, Louisiana, Arkansas",Declared Energy Emergency Alert2/Heat Wave,20,0,6:00 PMAugust 142007,2007-08-14 18:00:00,2007-08-14 14:00:00
+398,2007-08-16 21:30:00,SERC,Virginia and Eastern North Carolina - Primarily in Central Virginia,Severe Weather,200,93300,10:49 PMAugust 172007,2007-08-17 22:49:00,2007-08-16 21:30:00
+399,2007-08-19 23:34:00,SERC,Central and Eastern Virginia,Severe Thunderstorms,100,58500,1:10 AMAugust 202007,2007-08-20 01:10:00,2007-08-19 23:34:00
+400,2007-08-23 16:00:00,RFC,Northern Illinois,Severe Storms,,629590,10:49 PMAugust 282007,2007-08-28 22:49:00,2007-08-23 16:00:00
+401,2007-08-24 18:00:00,RFC,Southeastern Michigan,Severe Storm,,75000,6:30 AMAugust 282007,2007-08-28 06:30:00,2007-08-24 18:00:00
+402,2007-08-29 13:53:00,WECC,Modesto California and the Surrounding Areas,Shed Load,180,26000,2:57 PMAugust 292007,2007-08-29 14:57:00,2007-08-29 13:53:00
+403,2007-08-29 16:00:00,WECC,CAISO Controlled Grid,Made Public Appeal,,0,6:00 PMAugust 302007,2007-08-30 18:00:00,2007-08-29 16:00:00
+404,2007-08-31 12:45:00,WECC,CAISO Controlled Grid,Declared Energy Emergency Alert 1/Heat wave,,0,8:00 PMAugust 312007,2007-08-31 20:00:00,2007-08-31 12:45:00
+405,2007-09-03 12:30:00,WECC,"San Diego County, Southern Orange County, California",High Temperatures/Made Public Appeals,,0,5:30 PMSeptember 032007,2007-09-03 17:30:00,2007-09-03 12:30:00
+406,2007-09-04 08:30:00,WECC,"San Diego County, Southern Orange County, California",High Temperatures/Made Public Appeals,,0,3:30 PMSeptember 042007,2007-09-04 15:30:00,2007-09-04 08:30:00
+407,2007-09-05 07:53:00,ERCOT,"Central Texas, ERCOT Grid",Severe Weather/Transmission Fault-Units Tripped,1084,0,1:11 PMSeptember 052007,2007-09-05 13:11:00,2007-09-05 07:53:00
+408,2007-09-06 20:00:00,WECC,Hydro Electric System,Fuel Supply Deficiency,,0,Ongoing2007,,2007-09-06 20:00:00
+409,2007-09-13 04:00:00,SPP,"Between Galveston and Beaumont, Texas",Hurricane Humberto,,118000,7:00 AMSeptember 142007,2007-09-14 07:00:00,2007-09-13 04:00:00
+410,2007-09-17 19:01:00,RFC,"City of Crawfordsville, Indiana",Electrical System Separation,50,9600,7:48 PMSeptember 172007,2007-09-17 19:48:00,2007-09-17 19:01:00
+411,2007-09-18 05:14:00,MRO,"Minnesota, Wisconsin, North Dakota, South Dakota and Michigan",Electrical System Separation/Load Shedding/ Implemented Emergency Alert/Severe Storms,16,6000,6:10 AMSeptember 182007,2007-09-18 06:10:00,2007-09-18 05:14:00
+412,2007-09-18 05:15:00,MRO,"Minnesota, North Dakota, Manitoba",Electrical System Separation/Load Shedding/ Implemented Emergency Alert/Severe Storms,8000,0,6:30 AMSeptember 182007,2007-09-18 06:30:00,2007-09-18 05:15:00
+413,2007-09-18 05:15:00,RFC,"Manitoba, Minnesota, North Dakota, Portions of South Dakota and Wisconsin.  Midwest ISO's Market subregions: OTP, NSP, GRE, ALTW, MP",Electrical System Separation/Load Shedding/ Implemented Emergency Alert/ Severe Storms,8000,11175,12:00 AMSeptember 182007,2007-09-18 00:00:00,2007-09-18 05:15:00
+414,2007-09-24 13:38:00,RFC,Southwest Michigan,Unit Tripped,320,0,4:26 PMSeptember 242007,2007-09-24 16:26:00,2007-09-24 13:38:00
+415,2007-10-18 15:00:00,WECC,Western Washington,High Winds,,160000,11:36 AMOctober 222007,2007-10-22 11:36:00,2007-10-18 15:00:00
+416,2007-10-22 14:01:00,WECC,Southern California,Brush Fire/Load Shedding/Implemented Emergency Alert,451,90323,2:22 PMOctober 222007,2007-10-22 14:22:00,2007-10-22 14:01:00
+417,2007-10-22 14:05:00,WECC,Southern California,Brush Fire/Load Shedding,700,300000,2:22 PMOctober 222007,2007-10-22 14:22:00,2007-10-22 14:05:00
+418,2007-10-22 14:06:00,WECC,"San Diego County, California",Brush Fire/Load Shedding,199,68780,2:43 PMOctober 222007,2007-10-22 14:43:00,2007-10-22 14:06:00
+419,2007-10-26 06:44:00,WECC,Southern Califonia,Brush Fire/Load Shedding,280,20345,10:46 AMOctober 262007,2007-10-26 10:46:00,2007-10-26 06:44:00
+420,2007-10-26 06:44:00,WECC,"Riverside, California",Load Shedding,240,104000,10:43 AMOctober 262007,2007-10-26 10:43:00,2007-10-26 06:44:00
+421,2007-11-03 18:00:00,NPCC,"Eastern Massachusetts, Rhode Island, Cape Cod",Tropical Storm,100,62843,6:00 AMNovember 042007,2007-11-04 06:00:00,2007-11-03 18:00:00
+422,2007-12-01 18:04:00,NPCC,State of Maine,Voltage Reduction/Made Public Appeal/Fuel Deficiency,0,0,10:00 PMDecember 022007,2007-12-02 22:00:00,2007-12-01 18:04:00
+423,2007-12-04 14:16:00,PR,Island of Puerto Rico,Voltage Reduction,0,0,5:53 PMDecember 042007,2007-12-04 17:53:00,2007-12-04 14:16:00
+424,2007-12-10 03:08:00,SPP,"Tulsa, Oklahoma",Ice Storm,,256663,8:00 AMDecember 192007,2007-12-19 08:00:00,2007-12-10 03:08:00
+425,2007-12-11 04:00:00,MRO,Eastern half of the State of Kansas,Ice Storm,500,95000,3:30 PMDecember 202007,2007-12-20 15:30:00,2007-12-11 04:00:00
+426,2007-12-11 20:57:00,PR,Island of Puerto Rico,Voltage Reduction,0,0,9:22 PMDecember 112007,2007-12-11 21:22:00,2007-12-11 20:57:00
+427,2007-12-23 01:00:00,RFC,The Entire ComEd Service Territory,Severe Storm,,237000,9:00 PMDecember 232007,2007-12-23 21:00:00,2007-12-23 01:00:00
+428,2007-12-23 05:30:00,RFC,Lower 2/3 of Michigan Lower Peninsula,Winter Storm,50,134288,6:07 PMDecember 252007,2007-12-25 18:07:00,2007-12-23 05:30:00
+429,2008-01-04 04:00:00,WECC,Northern California,Winter Storm,500,2606931,5:00 PMJanuary 142008,2008-01-14 17:00:00,2008-01-04 04:00:00
+430,2008-01-04 07:47:00,WECC,Sacramento County,Severe Storm,300,150000,4:30 PMJanuary 042008,2008-01-04 16:30:00,2008-01-04 07:47:00
+431,2008-01-29 05:00:00,WECC,"San Francisco Bay Area, California",Exciter Faulted,,0,12:17 PMJanuary 292008,2008-01-29 12:17:00,2008-01-29 05:00:00
+432,2008-01-29 16:00:00,SERC,"Arkansas, Mississippi, North Louisiana",Severe Thunderstorms,,110000,8:00 AMFebruary 032008,2008-02-03 08:00:00,2008-01-29 16:00:00
+433,2008-01-29 22:00:00,RFC,Southeastern Michigan,Wind/Ice Storm,,86915,6:30 PMFebruary 012008,2008-02-01 18:30:00,2008-01-29 22:00:00
+434,2008-01-29 23:23:00,RFC,"South Metropolitan Areas of Dayton, OHio",High Winds,380,45000,12:48 AMJanuary 302008,2008-01-30 00:48:00,2008-01-29 23:23:00
+435,2008-01-30 03:06:00,NPCC,"Western, New York",High Winds,50,54316,2:50 PMFebruary 012008,2008-02-01 14:50:00,2008-01-30 03:06:00
+436,2008-02-01 06:00:00,WECC,"San Francisco Bay Area, California",Equipment Faulted,,0,7:49 AMFebruary 012008,2008-02-01 07:49:00,2008-02-01 06:00:00
+437,2008-02-02 03:58:00,WECC,"San Francisco Bay Area, California",Equipment Faulted,,0,4:27 PMFebruary 022008,2008-02-02 16:27:00,2008-02-02 03:58:00
+438,2008-02-05 22:00:00,SERC,State of Kentucky,Severe Weather,,76000,3:00 AMFebruary 062008,2008-02-06 03:00:00,2008-02-05 22:00:00
+439,2008-02-06 09:00:00,SERC,Mid to West Tennessee,Severe Weather,,57000,11:00 AMFebruary 062008,2008-02-06 11:00:00,2008-02-06 09:00:00
+440,2008-02-09 11:59:00,WECC,"Near Arnold, California",Electrical System Separation,0,0,3:33 PMFebruary 092008,2008-02-09 15:33:00,2008-02-09 11:59:00
+441,2008-02-10 04:00:00,RFC,"Southwestern Pennsylvania, West Virginia, Virginia, Maryland",Severe Weather,412,100969,8:43 PMFebruary 122008,2008-02-12 20:43:00,2008-02-10 04:00:00
+442,2008-02-10 11:00:00,RFC,"Virginia, West Virginia, Ohio, Pennsylvania",High Winds,,212560,11:36 PMFebruary 102008,2008-02-10 23:36:00,2008-02-10 11:00:00
+443,2008-02-10 11:00:00,RFC,Virginia and West Virginia Area of AEP,High Winds,,97342,5:05 PMFebruary 142008,2008-02-14 17:05:00,2008-02-10 11:00:00
+444,2008-02-10 14:06:00,SERC,Dominion Service Territory,High Winds,170,114618,11:36 PMFebruary 102008,2008-02-10 23:36:00,2008-02-10 14:06:00
+445,2008-02-10 18:02:00,SERC,"Greenboro, North Carolina and I-40 Corridor",High Winds,300,50718,4:00 AMFebruary 112008,2008-02-11 04:00:00,2008-02-10 18:02:00
+446,2008-02-12 15:00:00,SERC,"Arkansas, Mississippi, Louisiana",Severe Weather,,54000,5:00 PMFebruary 152008,2008-02-15 17:00:00,2008-02-12 15:00:00
+447,2008-02-13 18:43:00,NPCC,State of Maine,Ice Storm,50,50462,12:00 PMFebruary 142008,2008-02-14 12:00:00,2008-02-13 18:43:00
+448,2008-02-14 08:15:00,WECC,Utah,Load Shedding,2818,74031,10:46 AMFebruary 142008,2008-02-14 10:46:00,2008-02-14 08:15:00
+449,2008-02-15 15:06:00,WECC,"Antioch, California",Electrical System Separation,10,10008,7:36 PMFebruary 152008,2008-02-15 19:36:00,2008-02-15 15:06:00
+450,2008-02-25 08:00:00,RFC,Restricted Coal Capability,Fuel Supply Deficiency,,0,8:00 AMMarch 122008,2008-03-12 08:00:00,2008-02-25 08:00:00
+451,2008-02-26 05:00:00,SERC,Southern Service Area/Alabama and Georgia,Thunderstorms,484,145380,3:00 PMFebruary 262008,2008-02-26 15:00:00,2008-02-26 05:00:00
+452,2008-02-26 13:09:00,FRCC,Various Cities in Florida,Under Frequency/Load Shedding,140,47661,2:10 PMFebruary 262008,2008-02-26 14:10:00,2008-02-26 13:09:00
+453,2008-02-26 13:09:00,FRCC,Tampa Electric Service Territory,Under Frequency/Load Shedding,318,53965,2:40 PMFebruary 262008,2008-02-26 14:40:00,2008-02-26 13:09:00
+454,2008-02-26 13:09:00,FRCC,Primary Dade County Florida,Transmission Equipment Failure,3200,584384,4:11 PMFebruary 262008,2008-02-26 16:11:00,2008-02-26 13:09:00
+455,2008-02-26 13:09:00,FRCC,FRCC Region-West Coast Florida,Shed Firm Load,120,56000,1:47 PMFebruary 262008,2008-02-26 13:47:00,2008-02-26 13:09:00
+456,2008-02-26 13:10:00,FRCC,"The entire PEF system was affected, including the following counties: Alachua, Bay, Citrus, Columbia, Dixie, Franklin, Gilchrist, Gulf, Hamilton, Hardee, Hernando, Highlands, Jefferson, Lafayette, Lake, Levy, Madison, Marion, Orange, Osecola, Pasco, Pinellas, Polk, Seminole, Sumter, Suwannee, Taylor, Volusia, Wakulla.",Under Frequency/Load Shedding,500,150000,3:45 PMFebruary 262008,2008-02-26 15:45:00,2008-02-26 13:10:00
+457,2008-03-04 21:30:00,SERC,North and South Carolina,Thunderstorms,300,55267,10:45 PMMarch 042008,2008-03-04 22:45:00,2008-03-04 21:30:00
+458,2008-03-08 14:14:00,SERC,Virginia and Eastern Part of North Carolina,Windstorm,210,141130,9:59 PMMarch 082008,2008-03-08 21:59:00,2008-03-08 14:14:00
+459,2008-03-08 16:00:00,RFC,"Chester, Montgomery, Delaware, Philadelphia and Bucks County, Pennsylvania",Severe Weather,,168449,1:44 PMMarch 102008,2008-03-10 13:44:00,2008-03-08 16:00:00
+460,2008-03-15 20:55:00,SERC,Parts of Alabama and Georgia,Major Storm,200,157744,8:30 PMMarch 162008,2008-03-16 20:30:00,2008-03-15 20:55:00
+461,2008-04-04 12:31:00,SERC,"Arkansas, North Louisiana, Mississippi",Severe Thunderstorms,,122600,5:00 PMApril 042008,2008-04-04 17:00:00,2008-04-04 12:31:00
+462,2008-04-09 16:00:00,TRE,"North, Central and East Texas",Severe Weather,,488689,1:15 AMApril 132008,2008-04-13 01:15:00,2008-04-09 16:00:00
+463,2008-05-08 10:21:00,WECC,California,Load Shedding,483,0,12:56 AMMay 082008,2008-05-08 00:56:00,2008-05-08 10:21:00
+464,2008-05-11 06:00:00,SERC,Georgia,Severe Thunderstorms,100,80539,2:30 PMMay 122008,2008-05-12 14:30:00,2008-05-11 06:00:00
+465,2008-05-11 16:50:00,RFC,"City of Crawfordsville, Indiana",Electric System Separation,47,9700,8:43 PMMay 112008,2008-05-11 20:43:00,2008-05-11 16:50:00
+466,2008-05-12 00:01:00,RFC,"Cape May, Cumberland, Gloucester, Salem, Camden, Atlantic, Burliington  Counties, New Jersey",Severe Storm,55,135000,12:00 AMMay 142008,2008-05-14 00:00:00,2008-05-12 00:01:00
+467,2008-05-27 14:02:00,NPCC,South West Connecticut,Lightning Storm,130,56400,3:52 PMMay 272008,2008-05-27 15:52:00,2008-05-27 14:02:00
+468,2008-05-30 09:30:00,RFC,Northern and Western Counties of Illinois,Severe Storms,,109000,11:00 PMMay 302008,2008-05-30 23:00:00,2008-05-30 09:30:00
+469,2008-05-30 14:05:00,SERC,South Louisiana,"Load Shedding, Inadequate Electric Resources to Serve Load",200,0,8:00 PMMay 302008,2008-05-30 20:00:00,2008-05-30 14:05:00
+470,2008-05-30 22:00:00,RFC,"Northeastern Marion County, Indiana",Severe Thunderstorms,,70000,11:59 PMJune 042008,2008-06-04 23:59:00,2008-05-30 22:00:00
+471,2008-06-03 17:00:00,RFC,"Maryland, West Virginia, Virginia",Severe Weather,634,157168,11:00 PMJune 072008,2008-06-07 23:00:00,2008-06-03 17:00:00
+472,2008-06-04 15:00:00,RFC,"Montgomery, Prince Georges,  Maryland, Washington, D.C.",Lightning Storm,,249408,1:00 AMJune 052008,2008-06-05 01:00:00,2008-06-04 15:00:00
+473,2008-06-04 15:00:00,RFC,Entire BGE Service Territory,Severe Storms,,108000,5:30 AMJune 072008,2008-06-07 05:30:00,2008-06-04 15:00:00
+474,2008-06-04 15:04:00,SERC,Northern Virginia,Thunderstorms,850,253800,9:30 PMJune 052008,2008-06-05 21:30:00,2008-06-04 15:04:00
+475,2008-06-04 15:14:00,PR,Island of Puerto Rico,Load Shedding/Voltage Reduction,90,100948,,,2008-06-04 15:14:00
+476,2008-06-06 15:18:00,RFC,Lower 2/3 of Michigan's Lower Peninsula,Lightning Storm,100,358000,8:00 AMJune 122008,2008-06-12 08:00:00,2008-06-06 15:18:00
+477,2008-06-08 09:30:00,RFC,The Entire ComEd Territory,Severe Weather,,125000,7:00 AMJune 092008,2008-06-09 07:00:00,2008-06-08 09:30:00
+478,2008-06-08 18:00:00,RFC,Southwestern Michigan (DECO Service Territory),Severe Storm,500,150000,11:30 PMJune 162008,2008-06-16 23:30:00,2008-06-08 18:00:00
+479,2008-06-09 14:00:00,SERC,Entergy System,Indequate Electric Resources to Serve Load,300,19,7:00 PMJune 092008,2008-06-09 19:00:00,2008-06-09 14:00:00
+480,2008-06-09 14:52:00,RFC,"Area Around West Orange Switching Station, New Jersey",Fire/Breaker Failure,215,75654,8:25 PMJune 092008,2008-06-09 20:25:00,2008-06-09 14:52:00
+481,2008-06-10 11:00:00,NPCC,Upstate New York,Severe Storm,400,68000,5:30 PMJune 132008,2008-06-13 17:30:00,2008-06-10 11:00:00
+482,2008-06-10 14:00:00,SERC,Entergy System,Inadequate Electric Resources to Serve Load,300,19,6:00 PMJune 102008,2008-06-10 18:00:00,2008-06-10 14:00:00
+483,2008-06-10 18:00:00,RFC,"Bergen, Essex and Hudson Counties, New Jersey",Severe Storms,,248800,11:30 AMJune 142008,2008-06-14 11:30:00,2008-06-10 18:00:00
+484,2008-06-10 19:00:00,RFC,"Chester, Montgomery, Delaware, Philadelphia and Bucks County, Pennsylvania",Severe Thunderstorms,,198000,3:59 PMJune 142008,2008-06-14 15:59:00,2008-06-10 19:00:00
+485,2008-06-10 23:00:00,NPCC,All Six New England States,Storm,50,60000,9:00 AMJune 112008,2008-06-11 09:00:00,2008-06-10 23:00:00
+486,2008-06-11 13:15:00,NPCC,New York State,Uncontrolled Loss,200,61000,2:05 PMJune 112008,2008-06-11 14:05:00,2008-06-11 13:15:00
+487,2008-06-12 15:30:00,RFC,East Central Iowa,Flooding and Uncontrolled Loss,200,21000,4:00 PMJune 182008,2008-06-18 16:00:00,2008-06-12 15:30:00
+488,2008-06-15 08:00:00,RFC,The Entire ComEd Territory,Severe Weather,,165000,8:00 PMJune 152008,2008-06-15 20:00:00,2008-06-15 08:00:00
+489,2008-06-15 19:06:00,RFC,"City of Crawfordsville, Indiana",Electrical System Separation,57,9700,8:42 PMJune 152008,2008-06-15 20:42:00,2008-06-15 19:06:00
+490,2008-06-16 16:15:00,SERC,Northern Virginia,Thunderstorms,800,115000,11:19 PMJune 162008,2008-06-16 23:19:00,2008-06-16 16:15:00
+491,2008-06-17 09:01:00,TRE,"North, Central and East Texas",Severe Thunderstorms,,234393,8:30 PMJune 192008,2008-06-19 20:30:00,2008-06-17 09:01:00
+492,2008-06-17 20:35:00,SPP,Southwestern Public Service Company Operating in the Panhandle of Texas and New Mexico,Electrical System Separation/Severe Thunderstorms,560,18000,1:55 AMJune 182008,2008-06-18 01:55:00,2008-06-17 20:35:00
+493,2008-06-17 20:40:00,TRE,"Texas Panhandle and Texas South Plains Regions, and Oklahoma Panhandle",Thunderstorms/Uncontrolled Loss of Load,276,37330,11:00 PMJune 172008,2008-06-17 23:00:00,2008-06-17 20:40:00
+494,2008-06-21 15:09:00,WECC,"Near Rogers Flat, California",Electrical System Separation/Severe Lightning Storms,3,477,6:53 PMJune 212008,2008-06-21 18:53:00,2008-06-21 15:09:00
+495,2008-06-22 16:55:00,RFC,Northwest Indiana,Lightning Stirke/Uncontrolled Loss of Load,650,0,5:05 PMJune 222008,2008-06-22 17:05:00,2008-06-22 16:55:00
+496,2008-06-23 13:44:00,RFC,Northcentral Indiana,Fire/Breaker Failure,425,0,1:45 PMJune 232008,2008-06-23 13:45:00,2008-06-23 13:44:00
+497,2008-06-23 16:52:00,FRCC,"Pinellas County, Florida",Transmission Equipment Failure/Load Shedding,113,32593,11:28 PMJune 232008,2008-06-23 23:28:00,2008-06-23 16:52:00
+498,2008-06-26 17:00:00,RFC,Southeastern Michigan (DTE Service Territory),Thunderstorms,,53000,9:30 PMJune 262008,2008-06-26 21:30:00,2008-06-26 17:00:00
+499,2008-06-27 16:30:00,MRO,"Omaha, Nebraska (Metro Area)",Severe Wind Storm,650,126000,5:30 PMJune 272008,2008-06-27 17:30:00,2008-06-27 16:30:00
+500,2008-07-01 07:31:00,WECC,"San Francisco Bay Area, California",Unit Tripped,160,0,12:00 PMJuly 012008,2008-07-01 12:00:00,2008-07-01 07:31:00
+501,2008-07-02 15:00:00,RFC,Lower 2/3 of Michigan's Lower Peninsula,Severe Weather,125,239663,12:00 PMJuly 062008,2008-07-06 12:00:00,2008-07-02 15:00:00
+502,2008-07-02 16:00:00,WECC,Restricted Hydroelectric Capability,Fuel Supply Deficiency,0,0,Ongoing2008,,2008-07-02 16:00:00
+503,2008-07-02 19:16:00,WECC,"Santa Barbara County, California, near Goleta",Wild Land Fire,208,200000,11:28 PMJuly 022008,2008-07-02 23:28:00,2008-07-02 19:16:00
+504,2008-07-02 19:36:00,WECC,Goleta and Santa Barbara Areas of Southern California,Brush Fire/Lines Loss/Transmission Emergency Declared,119,37784,1:10 AMJuly 032008,2008-07-03 01:10:00,2008-07-02 19:36:00
+505,2008-07-02 20:00:00,RFC,Southeastern Michigan (DTE Service Territory),Thunderstorms,,56000,3:00 AMJuly 032008,2008-07-03 03:00:00,2008-07-02 20:00:00
+506,2008-07-07 12:15:00,WECC,ISO Balancing Area,Heat Wave/Potential Fire Threat/Made Public Appeals,0,0,5:00 PMJuly 102008,2008-07-10 17:00:00,2008-07-07 12:15:00
+507,2008-07-10 14:22:00,WECC,"San Francisco Bay Area, California",Unit Tripped,240,0,5:21 PMJuly 102008,2008-07-10 17:21:00,2008-07-10 14:22:00
+508,2008-07-21 00:49:00,MRO,"Sioux City, Carroll, Des Moines, Iowa City, and Davenport Iowa, Rock Island, Moline, and Surrounding Area of Illinois",Storm,170,185000,6:00 PMJuly 222008,2008-07-22 18:00:00,2008-07-21 00:49:00
+509,2008-07-22 03:00:00,RFC,Indiana,Severe Thunderstorms,,58000,7:32 PMJuly 242008,2008-07-24 19:32:00,2008-07-22 03:00:00
+510,2008-07-22 03:00:00,RFC,Southwest Ohio,Severe Thunderstorms,,56000,3:30 AMJuly 232008,2008-07-23 03:30:00,2008-07-22 03:00:00
+511,2008-07-22 14:00:00,SPP,Texas Panhandle and Southeastern New Mexico,Indequate Electric Resources to Serve Load/Public Appeal,,0,5:09 AMJuly 242008,2008-07-24 05:09:00,2008-07-22 14:00:00
+512,2008-07-23 05:56:00,TRE,"Port Isabel, Harlingen, Weslaco, Pharr, San Benito, Mission, McAllen, Edinburg, Texas",Hurricane Dolly,703,211266,4:00 AMJuly 312008,2008-07-31 04:00:00,2008-07-23 05:56:00
+513,2008-07-24 07:23:00,NPCC,"Bangor Hydro System, northern Maine",Electric System Separation/Severe Lightning Storms,180,110000,5:41 PMJuly 242008,2008-07-24 17:41:00,2008-07-24 07:23:00
+514,2008-08-02 20:00:00,SERC,Georgia and Alabama,Severe Thunderstorms,400,131115,5:30 AMAugust 032008,2008-08-03 05:30:00,2008-08-02 20:00:00
+515,2008-08-03 01:30:00,SERC,"Mississippi, Louisiana, Texas",Severe Thunderstorms,,59500,4:15 AMAugust 032008,2008-08-03 04:15:00,2008-08-03 01:30:00
+516,2008-08-04 18:00:00,RFC,The ComEd Territory,Severe Weather,,653000,8:00 AMAugust 062008,2008-08-06 08:00:00,2008-08-04 18:00:00
+517,2008-08-05 03:00:00,RFC,Northwest Indiana,Severe Storms,0,63000,9:50 AMAugust 052008,2008-08-05 09:50:00,2008-08-05 03:00:00
+518,2008-08-09 12:00:00,SPP,Texas Panhandle and Eastern New Mexico,Declared Energy Emergency Alert 1/Made Public Appeals,0,0,8:46 PMAugust 092008,2008-08-09 20:46:00,2008-08-09 12:00:00
+519,2008-08-15 12:52:00,WECC,Part of Seattle's Downtown,Made Public Appeals,100,8000,5:00 PMAugust 152008,2008-08-15 17:00:00,2008-08-15 12:52:00
+520,2008-08-16 05:23:00,TRE,City of Lubbock,Lightning/Transmission Equipment Damage,153,71823,7:30 AMAugust 162008,2008-08-16 07:30:00,2008-08-16 05:23:00
+521,2008-08-16 08:14:00,PR,Island of Puerto Rico,Shed Firm Load/Voltage Reduction,300,200000,3:00 PMAugust 162008,2008-08-16 15:00:00,2008-08-16 08:14:00
+522,2008-08-18 19:22:00,PR,North Part of Island,Shed Firm Load,225,100000,6:44 PMAugust 192008,2008-08-19 18:44:00,2008-08-18 19:22:00
+523,2008-08-19 09:29:00,FRCC,Florida,Tropical Storm Fay,,101950,10:00 PMAugust 222008,2008-08-22 22:00:00,2008-08-19 09:29:00
+524,2008-08-21 19:00:00,FRCC,"Alachua, Bay, Brevard, Citrus, Columbia, Dixie, Flagler, Franklin, Gilchrist, Gulf, Hamilton, Hardee, Hernando, Highlands, Jefferson, Lafayette, Lake, Leon, Levy, Madison, Marion, Orange, Osceola, Pasco, Pinellas, Polk, Seminole, Sumter,  Suwannee, Taylor, Volusia and Wakulla Counties in Florida",Tropical Storm Fay,,430000,8:00 AMAugust 252008,2008-08-25 08:00:00,2008-08-21 19:00:00
+525,2008-08-22 12:00:00,RFC,-,Fuel Supply Emergency-Low Coal Inventory Levels,0,0,12:00 PMAugust 232008,2008-08-23 12:00:00,2008-08-22 12:00:00
+526,2008-08-24 04:30:00,SERC,Georgia and Alabama,Tropical Storm Fay,110,87390,2:00 PMAugust 242008,2008-08-24 14:00:00,2008-08-24 04:30:00
+527,2008-08-31 07:30:00,SERC,"Plaquemine, Louisiana",Fuel Supply Curtailed,200,0,9:00 AMSeptember 192008,2008-09-19 09:00:00,2008-08-31 07:30:00
+528,2008-08-31 19:00:00,SERC,"Louisiana, Mississippi, Arkansas",Hurricane Gustav,,964000,9:00 AMSeptember 032008,2008-09-03 09:00:00,2008-08-31 19:00:00
+529,2008-09-01 10:30:00,SERC,Primarily South and Central Louisiana,Hurricane Gustav,400,150000,7:22 PMSeptember 132008,2008-09-13 19:22:00,2008-09-01 10:30:00
+530,2008-09-01 11:45:00,SERC,"Bayou Division and North Lake Division, Louisiana",Hurricane Gustav,,246092,4:00 PMSeptember 102008,2008-09-10 16:00:00,2008-09-01 11:45:00
+531,2008-09-06 07:45:00,SERC,Eastern North Carolina,Tropical Storm Hanna,,57000,10:30 AMSeptember 062008,2008-09-06 10:30:00,2008-09-06 07:45:00
+532,2008-09-06 14:15:00,SERC,North East North Carolina and Virginia,Tropical Storm Hanna,220,64463,4:06 PMSeptember 062008,2008-09-06 16:06:00,2008-09-06 14:15:00
+533,2008-09-08 22:03:00,WECC,A.D. Edmonston Pumping Plant,Fuel Supply Deficiency,300,0,12:28 AMSeptember 092008,2008-09-09 00:28:00,2008-09-08 22:03:00
+534,2008-09-12 05:45:00,SERC,"Primarily Southeast Texas, Louisiana, and Arkansas",Hurricane Ike,,705000,1:00 PMSeptember 142008,2008-09-14 13:00:00,2008-09-12 05:45:00
+535,2008-09-12 18:21:00,TRE,Greater Houston-Galveston Metro Area,Hurricane Ike,8087,2142678,11:59 PMOctober 012008,2008-10-01 23:59:00,2008-09-12 18:21:00
+536,2008-09-12 18:21:00,TRE,Greater Houston Area-Eastern Region of ERCOT,Hurricane Ike,,2504366,11:59 PMOctober 012008,2008-10-01 23:59:00,2008-09-12 18:21:00
+537,2008-09-12 20:00:00,TRE,Galveston and Brazoria Counties,Hurricane Ike,650,113247,7:00 PMSeptember 272008,2008-09-27 19:00:00,2008-09-12 20:00:00
+538,2008-09-13 10:24:00,SERC,Southwest Louisiana,Hurricane Ike,40,50000,2:40 PMSeptember 272008,2008-09-27 14:40:00,2008-09-13 10:24:00
+539,2008-09-13 12:00:00,TRE,"North, Central and East Texas",Hurricane Ike,,238392,8:00 AMSeptember 152008,2008-09-15 08:00:00,2008-09-13 12:00:00
+540,2008-09-13 16:00:00,SPP,Texas and Louisana,Hurricane Ike,,184501,7:44 PMSeptember 162008,2008-09-16 19:44:00,2008-09-13 16:00:00
+541,2008-09-14 06:30:00,RFC,"Ohio, Kentucky, Indiana",Tropical Depression Ike,,875000,2:38 PMSeptember 142008,2008-09-14 14:38:00,2008-09-14 06:30:00
+542,2008-09-14 07:30:00,MRO,Missouri and Illinois,Hurricane Ike,,107000,3:00 PMSeptember 182008,2008-09-18 15:00:00,2008-09-14 07:30:00
+543,2008-09-14 10:01:00,RFC,"City of Owensboro, Kentucky",High Winds,70,18000,5:00 PMSeptember 212008,2008-09-21 17:00:00,2008-09-14 10:01:00
+544,2008-09-14 11:30:00,RFC,State of Kentucky,Tropical Depression Ike,,375000,4:30 PMSeptember 142008,2008-09-14 16:30:00,2008-09-14 11:30:00
+545,2008-09-14 14:00:00,RFC,Dayton Ohio Area,Hurricane Ike,1000,95000,12:00 PMSeptember 172008,2008-09-17 12:00:00,2008-09-14 14:00:00
+546,2008-09-14 16:00:00,RFC,"Northern Indiana, Central and Central Southern Ohio",Wind Storm,,650000,11:00 PMSeptember 202008,2008-09-20 23:00:00,2008-09-14 16:00:00
+547,2008-09-14 17:00:00,RFC,Western Pennsylvania,Wind Storm,72,124596,12:38 PMSeptember 192008,2008-09-19 12:38:00,2008-09-14 17:00:00
+548,2008-09-14 17:00:00,RFC,"Southern, Eastern, and Central Ohio",Wind Storm,469,564728,5:11 PMSeptember 222008,2008-09-22 17:11:00,2008-09-14 17:00:00
+549,2008-09-14 17:00:00,RFC,Northeast Ohio,Wind Storm,430,245164,3:20 AMSeptember 222008,2008-09-22 03:20:00,2008-09-14 17:00:00
+550,2008-09-14 19:00:00,RFC,Allegheny and Beaver Counties in Pennsylvania,Tropical Depression Ike,600,105000,11:59 PMSeptember 142008,2008-09-14 23:59:00,2008-09-14 19:00:00
+551,2008-09-15 00:37:00,RFC,Western Pennsylvania,Tropical Depression Ike,546,160875,4:30 PMSeptember 192008,2008-09-19 16:30:00,2008-09-15 00:37:00
+552,2008-09-22 17:49:00,PR,Island of Puerto Rico,Shed Firm Load,125,43600,6:39 AMSeptember 222008,2008-09-22 06:39:00,2008-09-22 17:49:00
+553,2008-09-30 14:02:00,WECC,"Plumas County, California",Electrical System Separation,30,10000,2:05 PMSeptember 302008,2008-09-30 14:05:00,2008-09-30 14:02:00
+554,2008-10-02 14:50:00,SERC,Louisiana,Load Shedding,200,0,9:50 AMOctober 022008,2008-10-02 09:50:00,2008-10-02 14:50:00
+555,2008-10-25 23:00:00,NPCC,Connecticut,Severe Storm,,52000,7:00 AMOctober 272008,2008-10-27 07:00:00,2008-10-25 23:00:00
+556,2008-11-07 11:13:00,WECC,Goleta and Santa Barbara Areas of Southern California,Load Shedding,250,140000,11:54 AMNovember 072008,2008-11-07 11:54:00,2008-11-07 11:13:00
+557,2008-11-07 11:15:00,WECC,Southern California,Load Shedding,430,400000,11:54 AMNovember 072008,2008-11-07 11:54:00,2008-11-07 11:15:00
+558,2008-11-11 08:30:00,PR,Island of Puerto Rico,Shed Firm Load,250,261000,12:19 AMNovember 112008,2008-11-11 00:19:00,2008-11-11 08:30:00
+559,2008-11-15 09:39:00,WECC,City of Los Angeles,Brush Fire/Shed Firm Load,211,115500,10:10 AMNovember 152008,2008-11-15 10:10:00,2008-11-15 09:39:00
+560,2008-12-02 04:30:00,Other,"St. Louis, Missouri",Fire/Load Shedding,135,53000,7:00 AMDecember 022008,2008-12-02 07:00:00,2008-12-02 04:30:00
+561,2008-12-09 17:27:00,RFC,Central New Jersey,Lines Loss/Transmission,438,156729,4:12 AMDecember 102008,2008-12-10 04:12:00,2008-12-09 17:27:00
+562,2008-12-10 17:09:00,WECC,Southern Oregon,Equipment Failure/Made Public Appeal,32,3,8:29 PMDecember 102008,2008-12-10 20:29:00,2008-12-10 17:09:00
+563,2008-12-11 09:00:00,SERC,"Southern Louisiana, Southern and Central Mississippi",Snow Storm,,91300,11:59 PMDecember 132008,2008-12-13 23:59:00,2008-12-11 09:00:00
+564,2008-12-11 18:00:00,NPCC,Northern Dutchess County and Western Ulster County in the Mid-Hudson Region of New York State,Ice Storm,,60000,12:00 AMDecember 152008,2008-12-15 00:00:00,2008-12-11 18:00:00
+565,2008-12-12 01:00:00,NPCC,New England,Ice Storm,,970000,12:00 AMDecember 222008,2008-12-22 00:00:00,2008-12-12 01:00:00
+566,2008-12-12 02:38:00,NPCC,Eastern New York,Ice Storm,200,190000,1:24 PMDecember 192008,2008-12-19 13:24:00,2008-12-12 02:38:00
+567,2008-12-12 08:45:00,NPCC,Southern and Central Maine,Ice Storm,,169757,9:52 AMDecember 142008,2008-12-14 09:52:00,2008-12-12 08:45:00
+568,2008-12-13 15:30:00,WECC,Humboldt Area of California,Declared Stage 1 Electric Emergency/Made Public Appeal,5,0,9:17 AMDecember 212008,2008-12-21 09:17:00,2008-12-13 15:30:00
+569,2008-12-19 01:02:00,WECC,"East of Oroville, California",Electrical System Separation,1,638,6:17 AMDecember 192008,2008-12-19 06:17:00,2008-12-19 01:02:00
+570,2008-12-19 08:30:00,RFC,"Indiana, Michigan and Northwest Ohio",Ice Storm,,140000,12:00 PMDecember 222008,2008-12-22 12:00:00,2008-12-19 08:30:00
+571,2008-12-19 09:00:00,RFC,Northwest Indiana,Ice Storm,,50000,8:20 AMDecember 202008,2008-12-20 08:20:00,2008-12-19 09:00:00
+572,2008-12-26 11:40:00,WECC,"Orangevale Area of Sacramento, California",Load Shedding,110,50000,3:34 PMDecember 262008,2008-12-26 15:34:00,2008-12-26 11:40:00
+573,2008-12-26 18:13:00,Other,"Island of Oahu, Hawaii",Lightning,1060,294000,5:00 PMDecember 272008,2008-12-27 17:00:00,2008-12-26 18:13:00
+574,2008-12-27 16:00:00,RFC,Southeastern Michigan,Wind Storm,,247847,11:30 PMJanuary 012008,2008-01-01 23:30:00,2008-12-27 16:00:00
+575,2008-12-28 04:45:00,RFC,Michigan Lower Peninsula,Wind Storm,,210517,6:00 PMDecember 312008,2008-12-31 18:00:00,2008-12-28 04:45:00
+576,2008-12-28 11:45:00,RFC,Michigan Lower Peninsula,Wind Storm,,230000,11:30 PMDecember 282008,2008-12-28 23:30:00,2008-12-28 11:45:00
+577,2008-12-30 16:02:00,RFC,"Crawfordsville, Indiana",Shed Firm Load,41,9700,4:37 PMDecember 302008,2008-12-30 16:37:00,2008-12-30 16:02:00
+578,2009-01-05 05:00:00,TRE,North and Central Texas,Severe Storm,,157019,6:00 PMJanuary 062009,2009-01-06 18:00:00,2009-01-05 05:00:00
+579,2009-01-07 17:00:00,SERC,Piedmont of North and South Carolina,High Winds,300,70000,8:05 PMJanuary 072009,2009-01-07 20:05:00,2009-01-07 17:00:00
+580,2009-01-08 23:46:00,FRCC,Florida Keys,Transmission Equipment Failure,55,31000,11:25 AMJanuary 092009,2009-01-09 11:25:00,2009-01-08 23:46:00
+581,2009-01-17 08:00:00,RFC,"PJM, Indiana",Fuel Supply Deficiency,,0,8:00 AMJanuary 252009,2009-01-25 08:00:00,2009-01-17 08:00:00
+582,2009-01-22 16:00:00,RFC,"Crawfordsville, Indiana",Shed Load,50,9700,5:05 PMJanuary 222009,2009-01-22 17:05:00,2009-01-22 16:00:00
+583,2009-01-27 05:00:00,RFC,State of Kentucky,Ice Storm,,383000,4:30 PMJanuary 292009,2009-01-29 16:30:00,2009-01-27 05:00:00
+584,2009-01-27 05:03:00,SERC,Central and Eastern Kentrucky,Ice Storm,600,190000,5:15 PMJanuary 312009,2009-01-31 17:15:00,2009-01-27 05:03:00
+585,2009-01-27 07:10:00,SERC,Western Kentucky and Southern Indiana,Ice Storm,350,3,7:30 PMFebruary 042009,2009-02-04 19:30:00,2009-01-27 07:10:00
+586,2009-01-27 11:00:00,SERC,South Central and Southeast Missouri,Winter Storm,200,62500,6:00 PMJanuary 302009,2009-01-30 18:00:00,2009-01-27 11:00:00
+587,2009-01-27 13:46:00,SERC,Northern Arkansas,Ice Storm,,111818,5:00 PMFebruary 032009,2009-02-03 17:00:00,2009-01-27 13:46:00
+588,2009-01-27 15:43:00,RFC,CSWS-AEP West,Ice/Snow Storm,,59402,9:00 AMJanuary 292009,2009-01-29 09:00:00,2009-01-27 15:43:00
+589,2009-01-27 21:00:00,SERC,Northern Arkansas,Ice Storm,600,215700,6:00 AMJanuary 292009,2009-01-29 06:00:00,2009-01-27 21:00:00
+590,2009-01-27 21:45:00,SERC,TVA Service Territory,Ice Storm,850,1,10:17 PMJanuary 272009,2009-01-27 22:17:00,2009-01-27 21:45:00
+591,2009-01-28 00:10:00,RFC,East Central Missouri,Winter Storm,300,1,9:20 PMJanuary 302009,2009-01-30 21:20:00,2009-01-28 00:10:00
+592,2009-01-28 03:00:00,RFC,"Illinois, Indiana, Ohio and Kentucky",Winter Storm,,230300,8:03 AMFebruary 132009,2009-02-13 08:03:00,2009-01-28 03:00:00
+593,2009-01-28 04:00:00,RFC,"City of Henderson, Kentucky and Portions of Henderson County, Kentucky",Ice Storm,21,3500,5:00 PMFebruary 072009,2009-02-07 17:00:00,2009-01-28 04:00:00
+594,2009-01-28 06:00:00,RFC,"Indiana, Evansville, Metro Area",Ice Storm,506,75000,6:00 PMFebruary 052009,2009-02-05 18:00:00,2009-01-28 06:00:00
+595,2009-01-28 07:50:00,RFC,Southern Indiana,Ice/Snow Storm,,53700,8:03 AMFebruary 132009,2009-02-13 08:03:00,2009-01-28 07:50:00
+596,2009-01-28 09:00:00,SERC,Northeast Tennessee and Southwest Kentucky,Ice Storm,,109527,8:00 AMFebruary 052009,2009-02-05 08:00:00,2009-01-28 09:00:00
+597,2009-01-28 10:00:00,RFC,Northern Kentucky and Southwest Ohio,Ice/Snow Storm,,53600,9:20 PMJanuary 302009,2009-01-30 21:20:00,2009-01-28 10:00:00
+598,2009-02-11 02:30:00,TRE,"Houston, Texas",High Winds,350,64801,12:00 PMFebruary 112009,2009-02-11 12:00:00,2009-02-11 02:30:00
+599,2009-02-11 18:00:00,RFC,"Kentucky, West Virginia and Ohio",Severe Thunderstorms,,279813,5:00 PMFebruary 132009,2009-02-13 17:00:00,2009-02-11 18:00:00
+600,2009-02-11 18:18:00,RFC,"Maryland, Virginia, West Virginia and Pennsylvania",Severe Thunderstorms,,374644,8:10 PMFebruary 162009,2009-02-16 20:10:00,2009-02-11 18:18:00
+601,2009-02-11 19:00:00,RFC,State of Kentucky,Severe Thunderstorms,,78000,11:00 AMFebruary 122009,2009-02-12 11:00:00,2009-02-11 19:00:00
+602,2009-02-11 21:00:00,RFC,Northern Kentucky and Southwest Ohio,Severe Thunderstorms,350,63000,12:00 PMFebruary 122009,2009-02-12 12:00:00,2009-02-11 21:00:00
+603,2009-02-12 02:30:00,RFC,Central and Eastern Ohio,High Winds,168,184000,6:00 AMFebruary 122009,2009-02-12 06:00:00,2009-02-12 02:30:00
+604,2009-02-12 08:00:00,RFC,Western and North Eastern Pennsylvania,High Winds,130,132000,10:00 PMFebruary 152009,2009-02-15 22:00:00,2009-02-12 08:00:00
+605,2009-02-13 02:30:00,RFC,Central and Eastern Ohio,High Winds,168,184000,3:00 AMFebruary 152009,2009-02-15 03:00:00,2009-02-13 02:30:00
+606,2009-02-23 02:38:00,NPCC,Southern Central and Western Maine,Ice/Snow Storm,,131000,1:46 PMFebruary 242009,2009-02-24 13:46:00,2009-02-23 02:38:00
+607,2009-03-01 00:15:00,WECC,"City of El Paso, Texas, County of El Paso",Transmission Equipment Failure,250,132000,3:00 AMMarch 012009,2009-03-01 03:00:00,2009-03-01 00:15:00
+608,2009-03-01 16:00:00,SERC,Southern Balancing Area,Severe Weather,75,60000,11:25 PMMarch 012009,2009-03-01 23:25:00,2009-03-01 16:00:00
+609,2009-03-01 20:54:00,SERC,Duke Energy Carolinas Balance Authority,Ice/Snow Storm,1000,180000,4:06 PMMarch 032009,2009-03-03 16:06:00,2009-03-01 20:54:00
+610,2009-03-01 22:00:00,SERC,Central Virginia - Spotsylvania County,Winter Storm,210,217000,6:00 PMMarch 032009,2009-03-03 18:00:00,2009-03-01 22:00:00
+611,2009-03-03 06:48:00,RFC,Southwest Michigan,Transformer Faulted/Unit Tripped,378,0,6:05 AMApril 262009,2009-04-26 06:05:00,2009-03-03 06:48:00
+612,2009-03-03 22:00:00,Other,"Roanoke, Virginia",Made Public Appeals,350,0,8:17 PMMarch 042009,2009-03-04 20:17:00,2009-03-03 22:00:00
+613,2009-03-08 22:16:00,WECC,"San Francisco Bay Area, California",Unit Shut Down,150,0,11:45 PMMarch 082009,2009-03-08 23:45:00,2009-03-08 22:16:00
+614,2009-04-06 01:00:00,RFC,"Michigan, Lower Peninsula",Winter Storm,75,70793,12:00 PMApril 082009,2009-04-08 12:00:00,2009-04-06 01:00:00
+615,2009-04-10 22:00:00,SERC,Alabama and Georgia,Severe Thunderstorms,162,56679,2:30 AMApril 112009,2009-04-11 02:30:00,2009-04-10 22:00:00
+616,2009-04-23 00:00:00,WECC,Restricted Hydro Electric Capability,Fuel Supply Deficiency,0,0,Ongoing2009,,2009-04-23 00:00:00
+617,2009-04-23 16:25:00,WECC,"Skagit County, Washington",Transmission Tripped,244,93300,12:29 AMApril 242009,2009-04-24 00:29:00,2009-04-23 16:25:00
+618,2009-04-23 17:54:00,WECC,"Communities of Elsinore, Hemet, Moreno Valley, Perris, San Jacinto and Temecula in the southeastern area of Riverside County in California",Substation Load Interruption,512,280000,7:58 PMApril 232009,2009-04-23 19:58:00,2009-04-23 17:54:00
+619,2009-04-24 11:09:00,SERC,"Ruston, Louisiana",Complete Electric System Failure,32,11000,11:21 AMApril 242009,2009-04-24 11:21:00,2009-04-24 11:09:00
+620,2009-04-25 14:30:00,RFC,Western Region of Service Territory,High Winds/Rain,,125000,1:00 AMApril 292009,2009-04-29 01:00:00,2009-04-25 14:30:00
+621,2009-04-27 15:30:00,TRE,Greater Houston/Galveston Area,High Winds,176,158000,11:30 AMApril 282009,2009-04-28 11:30:00,2009-04-27 15:30:00
+622,2009-05-08 07:30:00,SERC,SW Missouri,Severe Thunderstorm,266,83000,9:00 AMMay 082009,2009-05-08 09:00:00,2009-05-08 07:30:00
+623,2009-05-08 13:30:00,SERC,Southern Illinois,Severe Thunderstorm,300,68800,11:20 PMMay 142009,2009-05-14 23:20:00,2009-05-08 13:30:00
+624,2009-05-29 09:05:00,SERC,"Henderson County, Kentucky",Transmission Equipment Failure,342,1,7:57 PMMay 292009,2009-05-29 19:57:00,2009-05-29 09:05:00
+625,2009-06-05 13:38:00,WECC,East of Fresno California,Electrical System Separation,1,70,8:18 PMJune 052009,2009-06-05 20:18:00,2009-06-05 13:38:00
+626,2009-06-09 17:25:00,RFC,Central Maryland,Severe Thunderstorms,60,85091,5:00 AMJune 112009,2009-06-11 05:00:00,2009-06-09 17:25:00
+627,2009-06-10 18:00:00,TRE,North and Central Texas,Severe Storms,,800000,10:00 AMJune 142009,2009-06-14 10:00:00,2009-06-10 18:00:00
+628,2009-06-12 16:37:00,SERC,"Chattanooga, Tennessee",Severe Storm,860,136000,6:53 PMJune 122009,2009-06-12 18:53:00,2009-06-12 16:37:00
+629,2009-06-12 17:45:00,SERC,"Arkansas, North Mississippi",Severe Thunderstorms,,81645,11:59 PMJune 152009,2009-06-15 23:59:00,2009-06-12 17:45:00
+630,2009-06-12 22:00:00,SERC,Georgia,Severe Thunderstorm,290,102000,6:00 PMJune 132009,2009-06-13 18:00:00,2009-06-12 22:00:00
+631,2009-06-16 23:00:00,WECC,A.D. Edmonston Pumping Plant,Fuel Supply Deficiency,300,0,2:00 AMJune 172009,2009-06-17 02:00:00,2009-06-16 23:00:00
+632,2009-06-19 00:01:00,RFC,Michigan Lower Peninsula,Severe Storm,75,99000,11:00 PMJune 212009,2009-06-21 23:00:00,2009-06-19 00:01:00
+633,2009-06-19 13:00:00,SERC,The Entire ComEd Service Territory,Severe Storm,,245000,11:59 PMJune 192009,2009-06-19 23:59:00,2009-06-19 13:00:00
+634,2009-06-24 13:30:00,SERC,Southwest Louisiana,Made Public Appeals,,0,10:00 PMJune 242009,2009-06-24 22:00:00,2009-06-24 13:30:00
+635,2009-06-25 15:16:00,TRE,ERCOT Region,Made Public Appeals,,0,7:00 PMJune 252009,2009-06-25 19:00:00,2009-06-25 15:16:00
+636,2009-06-25 15:30:00,RFC,Western Region of Service Territory,High Winds/Rain,,118000,8:00 PMJune 282009,2009-06-28 20:00:00,2009-06-25 15:30:00
+637,2009-06-26 01:00:00,RFC,"Southwest Ohio, Northern Kentudky, Central and Southern Indiana",Severe Thunderstorms,327,85000,9:00 AMJune 272009,2009-06-27 09:00:00,2009-06-26 01:00:00
+638,2009-06-26 17:00:00,NPCC,Central Connecticut,Severe Thunderstorms,,50752,9:00 AMJune 292009,2009-06-29 09:00:00,2009-06-26 17:00:00
+639,2009-07-02 22:44:00,NPCC,Northern Maine,Electrical System Separation,0,0,1:25 AMJuly 032009,2009-07-03 01:25:00,2009-07-02 22:44:00
+640,2009-07-07 15:30:00,TRE,"San Antonio, Texas",Made Public Appeals,,0,7:00 PMJuly 072009,2009-07-07 19:00:00,2009-07-07 15:30:00
+641,2009-07-08 13:30:00,TRE,ERCOT Region,Made Public Appeals,,0,7:00 PMJuly 082009,2009-07-08 19:00:00,2009-07-08 13:30:00
+642,2009-07-14 13:00:00,SPP,AEP SWEPCO/Louisiana Area,Made Public Appeals,,0,6:00 PMJuly 142009,2009-07-14 18:00:00,2009-07-14 13:00:00
+643,2009-07-15 13:00:00,SPP,AEP SWEPCO/Louisiana Area,Made Public Appeals,,0,6:00 PMJuly 152009,2009-07-15 18:00:00,2009-07-15 13:00:00
+644,2009-07-16 13:00:00,SPP,AEP SWEPCO/Louisiana Area,Made Public Appeals,,0,6:00 PMJuly 162009,2009-07-16 18:00:00,2009-07-16 13:00:00
+645,2009-07-18 19:00:00,TRE,Houston/Galveston Area,Thunderstorms,51,73000,9:00 PMJuly 192009,2009-07-19 21:00:00,2009-07-18 19:00:00
+646,2009-07-20 21:50:00,WECC,"Metro Denver (Jefferson, Adams, and Arapahoe Counties)",Severe Thunderstorm,150,86058,7:00 PMJuly 222009,2009-07-22 19:00:00,2009-07-20 21:50:00
+647,2009-07-21 05:34:00,WECC,"San Francisco Bay Area, California",Unit Tripped,136,1,8:43 AMJuly 212009,2009-07-21 08:43:00,2009-07-21 05:34:00
+648,2009-07-27 05:05:00,SERC,"Chattanooga, Tennessee",Failure of Computer Hardware Used for Monitoring,,0,5:47 AMJuly 272009,2009-07-27 05:47:00,2009-07-27 05:05:00
+649,2009-07-28 20:18:00,WECC,Salt Lake City Utah and Northern Utah,Loss of Part of Substation,316,0,8:33 PMJuly 282009,2009-07-28 20:33:00,2009-07-28 20:18:00
+650,2009-08-02 02:17:00,RFC,"Chester, Montgomery, Delaware, Philadelphia and Bucks Counties, Pennsyvania",Highwinds,,70264,1:09 PMAugust 032009,2009-08-03 13:09:00,2009-08-02 02:17:00
+651,2009-08-04 13:45:00,RFC,"Northern Kentucky, Southwest Ohio and Central and South Indiana",Thunderstorms,50,63700,9:00 PMAugust 082009,2009-08-08 21:00:00,2009-08-04 13:45:00
+652,2009-08-05 15:00:00,TRE,ERCOT Region,Made Public Appeals,,0,7:00 PMAugust 052009,2009-08-05 19:00:00,2009-08-05 15:00:00
+653,2009-08-07 23:00:00,RFC,Western Region of Service Territory,High Winds and Rain,,137000,10:00 PMAugust 112009,2009-08-11 22:00:00,2009-08-07 23:00:00
+654,2009-08-09 19:31:00,RFC,"Michigan, Lower Peninsula",Severe Thunderstorms,,58156,9:59 AMAugust 102009,2009-08-10 09:59:00,2009-08-09 19:31:00
+655,2009-08-12 18:25:00,TRE,South Houston Service Area,Thunderstorms,491,73000,10:00 AMAugust 122009,2009-08-12 10:00:00,2009-08-12 18:25:00
+656,2009-08-21 19:00:00,TRE,Houston Metropolitan Service Area,Thunderstorms,544,80000,8:00 AMAugust 222009,2009-08-22 08:00:00,2009-08-21 19:00:00
+657,2009-08-29 11:00:00,MRO,Western South Dakota,Electrical System Separation,373,18,2:01 PMAugust 292009,2009-08-29 14:01:00,2009-08-29 11:00:00
+658,2009-08-29 22:54:00,RFC,Western South Dakota,Electrical System Separation,84,0,11:53 PMAugust 292009,2009-08-29 23:53:00,2009-08-29 22:54:00
+659,2009-08-31 10:31:00,WECC,"City of Los Angeles, California",Made Public Appeals,,0,12:00 AMAugust 312009,2009-08-31 00:00:00,2009-08-31 10:31:00
+660,2009-10-07 05:45:00,RFC,Southeast Michigan,Severe Storms,,75000,11:00 PMOctober 092009,2009-10-09 23:00:00,2009-10-07 05:45:00
+661,2009-10-09 18:30:00,WECC,"Central Valley, CA (Bakersfield, CA)",Transmission System Interruption,180,0,7:10 PMOctober 092009,2009-10-09 19:10:00,2009-10-09 18:30:00
+662,2009-10-09 22:45:00,SERC,Arkansas and North Louisiana,Winter Storm,,56000,4:00 PMOctober 112009,2009-10-11 16:00:00,2009-10-09 22:45:00
+663,2009-10-13 12:48:00,WECC,Southeastern Wyoming,Ice,101,35500,2:34 PMOctober 132009,2009-10-13 14:34:00,2009-10-13 12:48:00
+664,2009-10-13 15:45:00,WECC,Sacramento County,High Winds,90,94000,5:50 PMOctober 132009,2009-10-13 17:50:00,2009-10-13 15:45:00
+665,2009-10-13 16:00:00,WECC,Northern California,High Winds and Rain,350,859554,10:30 PMOctober 132009,2009-10-13 22:30:00,2009-10-13 16:00:00
+666,2009-11-12 18:45:00,SERC,"Southeastern Virginia, Northeastern North Carolina",Tropical Storm Ida,400,335000,4:25 AMNovember 142009,2009-11-14 04:25:00,2009-11-12 18:45:00
+667,2009-11-18 06:15:00,WECC,"Central Valley, CA",Switching Failure,630,0,10:00 AMNovember 182009,2009-11-18 10:00:00,2009-11-18 06:15:00
+668,2009-12-07 22:00:00,WECC,California,Forced Outage Equipment Failure,400,0,4:00 AMDecember 082009,2009-12-08 04:00:00,2009-12-07 22:00:00
+669,2009-12-08 01:00:00,WECC,Arizona,Severe Weather,,140000,11:00 AMDecember 102009,2009-12-10 11:00:00,2009-12-08 01:00:00
+670,2009-12-08 06:34:00,WECC,California,Load Shed/Made Public Appeals,,0,12:00 PMDecember 082009,2009-12-08 12:00:00,2009-12-08 06:34:00
+671,2009-12-09 13:37:00,RFC,Ohio,Severe Weather,,48102,6:30 AMDecember 102009,2009-12-10 06:30:00,2009-12-09 13:37:00
+672,2009-12-10 17:45:00,RFC,Michigan,Severe Weather,,65562,8:00 AMDecember 122009,2009-12-12 08:00:00,2009-12-10 17:45:00
+673,2009-12-18 20:00:00,RFC,"West Virginia, Kentucky, Ohio",Severe Weather,,403913,9:30 PMDecember 252009,2009-12-25 21:30:00,2009-12-18 20:00:00
+674,2009-12-18 22:55:00,SERC,Western North Carolina,Severe Weather,,47000,11:15 PMDecember 192009,2009-12-19 23:15:00,2009-12-18 22:55:00
+675,2010-01-06 18:00:00,SERC,Southwest Louisiana,Made Public Appeals,,0,6:00 PMJanuary 082010,2010-01-08 18:00:00,2010-01-06 18:00:00
+676,2010-01-11 03:45:00,FRCC/SERC,Northern and Central Florida,Interruptible Load Shed/Made Public Appeals,,0,9:57 AMJanuary 112010,2010-01-11 09:57:00,2010-01-11 03:45:00
+677,2010-01-18 11:30:00,WECC,Northern and Central California,Severe Storm,290,1700000,8:00 AMJanuary 282010,2010-01-28 08:00:00,2010-01-18 11:30:00
+678,2010-01-19 07:30:00,WECC,San Francisco,Severe Storm,300,30000,12:24 PMJanuary 192010,2010-01-19 12:24:00,2010-01-19 07:30:00
+679,2010-01-19 14:30:00,WECC,San Diego and Orange Counties,Severe Storm,2650,50000,3:00 PMJanuary 202010,2010-01-20 15:00:00,2010-01-19 14:30:00
+680,2010-01-20 13:00:00,WECC,"City of Los Angeles, California",Severe Storm,,147223,6:10 PMJanuary 242010,2010-01-24 18:10:00,2010-01-20 13:00:00
+681,2010-01-28 12:00:00,SPP,Oklahoma,Ice Storm,,68705,12:00 PMFebruary 022010,2010-02-02 12:00:00,2010-01-28 12:00:00
+682,2010-02-01 14:32:00,SPP,Oklahoma,Ice Storm/Electrical System Separation,30,0,5:00 PMFebruary 012010,2010-02-01 17:00:00,2010-02-01 14:32:00
+683,2010-02-05 15:00:00,RFC,Southern NJ,Winter Storm,,221000,4:00 PMFebruary 132010,2010-02-13 16:00:00,2010-02-05 15:00:00
+684,2010-02-05 18:48:00,SERC,North and South Carolina,Winter Storm,500,74000,5:00 PMFebruary 072010,2010-02-07 17:00:00,2010-02-05 18:48:00
+685,2010-02-05 19:00:00,RFC,"District of Columbia, Prince Georges and Montgomery Co. MD",Winter Storm,,97651,3:46 PMFebruary 122010,2010-02-12 15:46:00,2010-02-05 19:00:00
+686,2010-02-05 22:30:00,RFC,Southwestern Pennsylvania,Winter Storm,,57000,12:00 PMFebruary 122010,2010-02-12 12:00:00,2010-02-05 22:30:00
+687,2010-02-05 23:30:00,RFC,"Indiana, Ohio, W. Virginia and Virginia",Winter Storm,,102225,2:38 AMFebruary 072010,2010-02-07 02:38:00,2010-02-05 23:30:00
+688,2010-02-06 02:30:00,SERC,"Virginia, North Carolina",Winter Storm,600,104736,7:00 AMFebruary 072010,2010-02-07 07:00:00,2010-02-06 02:30:00
+689,2010-02-06 08:00:00,RFC,Delmarva Peninsula,Winter Storm,,58491,9:00 AMFebruary 062010,2010-02-06 09:00:00,2010-02-06 08:00:00
+690,2010-02-09 18:00:00,RFC,Southeastern Pennsylvania,Winter Storm,,223000,4:00 PMFebruary 142010,2010-02-14 16:00:00,2010-02-09 18:00:00
+691,2010-02-11 12:00:00,TRE,Dallas/Fort Worth and East Texas,Winter Storm,,500000,9:00 PMFebruary 152010,2010-02-15 21:00:00,2010-02-11 12:00:00
+692,2010-02-12 05:00:00,SPP,"East Texas, Western Arkansas, Northern Lousiania",Winter Storm,,52999,5:00 PMFebruary 122010,2010-02-12 17:00:00,2010-02-12 05:00:00
+693,2010-02-14 10:00:00,RFC,Western Pennsylvania nd Northeast Central WV,Winter Storm,900,190000,12:00 PMFebruary 142010,2010-02-14 12:00:00,2010-02-14 10:00:00
+694,2010-02-19 20:30:00,WECC,"San Joaquin Field Division/Bakersfield, CA",Firm System Load Shed,1000,0,4:01 AMFebruary 202010,2010-02-20 04:01:00,2010-02-19 20:30:00
+695,2010-02-23 22:00:00,NPCC,Upstate New York,Winter Storm,,150000,4:00 PMFebruary 252010,2010-02-25 16:00:00,2010-02-23 22:00:00
+696,2010-02-25 00:01:00,NPCC,"Southeastern New York, Northern New Jersey",Winter Storm,,65000,9:00 PMFebruary 262010,2010-02-26 21:00:00,2010-02-25 00:01:00
+697,2010-02-25 17:00:00,NPCC,New York City,Winter Storm,,55000,7:00 PMMarch 022010,2010-03-02 19:00:00,2010-02-25 17:00:00
+698,2010-02-25 23:53:00,NPCC,Southern Maine and New Hampshire,Winter Storm,510,509606,4:40 PMMarch 012010,2010-03-01 16:40:00,2010-02-25 23:53:00
+699,2010-03-13 01:00:00,RFC,Southeasten Pennsylvania,High Winds and rain,,177528,6:40 PMMarch 162010,2010-03-16 18:40:00,2010-03-13 01:00:00
+700,2010-03-13 12:00:00,NPCC,Connecticut,High Winds and Rain,50,50246,8:05 PMMarch 152010,2010-03-15 20:05:00,2010-03-13 12:00:00
+701,2010-03-13 15:00:00,NPCC,Long Island,High Winds and Rain,,153000,4:00 PMMarch 172010,2010-03-17 16:00:00,2010-03-13 15:00:00
+702,2010-03-13 16:00:00,RFC,Central New Jersey and Northern New Jersey,High Winds and Flooding,,180000,12:00 AMMarch 162010,2010-03-16 00:00:00,2010-03-13 16:00:00
+703,2010-03-13 18:00:00,RFC,"Southern, Central and Northern New Jersey",High Winds and Rain,100,360000,12:59 PMMarch 202010,2010-03-20 12:59:00,2010-03-13 18:00:00
+704,2010-03-13 18:00:00,NPCC,New York City and Westchester County,High Winds and Rain,,173000,9:00 AMMarch 202010,2010-03-20 09:00:00,2010-03-13 18:00:00
+705,2010-03-31 23:59:00,WECC,San Diego and Orange Counties,Shed Firm Load,324,290000,12:55 AMApril 012010,2010-04-01 00:55:00,2010-03-31 23:59:00
+706,2010-03-31 23:59:00,WECC,San Diego,Shed Firm Load,324,0,12:38 AMApril 012010,2010-04-01 00:38:00,2010-03-31 23:59:00
+707,2010-04-16 17:15:00,RFC,Southwestern Pennsylvania,Severe Thunderstorms,15,120000,5:00 PMApril 182010,2010-04-18 17:00:00,2010-04-16 17:15:00
+708,2010-04-21 15:05:00,SERC,"Iberville, Parish, Louisiana",Generator Tripped,,0,8:00 PMApril 212010,2010-04-21 20:00:00,2010-04-21 15:05:00
+709,2010-04-27 14:55:00,SERC,"Rocky Mount, NC",Transmission System Interruption,,29376,2:55 PMApril 272010,2010-04-27 14:55:00,2010-04-27 14:55:00
+710,2010-05-02 14:40:00,SERC,Tennessee and Mississippi,Thunderstorms,,50500,7:30 PMMay 092010,2010-05-09 19:30:00,2010-05-02 14:40:00
+711,2010-05-18 08:15:00,WECC,Central California,Breakers Tripped,318,0,10:46 PMMay 182010,2010-05-18 22:46:00,2010-05-18 08:15:00
+712,2010-05-26 11:45:00,SERC/RFC,"Maryland, Pennsylvania, West Virginia, Virginia",Made Public Appeal - System Drill,,0,3:00 PMMay 262010,2010-05-26 15:00:00,2010-05-26 11:45:00
+713,2010-06-01 22:03:00,RFC,Southwestern Indiana,Firm Load Shed,500,1,12:30 AMJune 182010,2010-06-18 00:30:00,2010-06-01 22:03:00
+714,2010-06-02 20:18:00,TRE,"San Antonio, TX",Severe Weather,,126000,8:00 AMJune 042010,2010-06-04 08:00:00,2010-06-02 20:18:00
+715,2010-06-06 04:45:00,WECC,Northern California,Electric System Separation,3,2650,5:35 AMJune 062010,2010-06-06 05:35:00,2010-06-06 04:45:00
+716,2010-06-07 18:29:00,WECC,Denver Metropolitan Area,Firm Load Shed,300,31000,1:00 AMJune 082010,2010-06-08 01:00:00,2010-06-07 18:29:00
+717,2010-06-08 11:00:00,TRE,Southeastern Texas,Thunderstorms,,79741,5:00 PMJune 082010,2010-06-08 17:00:00,2010-06-08 11:00:00
+718,2010-06-09 14:18:00,SERC,"Edenton, NC",Transmission System Interruption,,4196,3:00 PMJune 092010,2010-06-09 15:00:00,2010-06-09 14:18:00
+719,2010-06-16 11:11:00,NPCC,New York (Rockland and Orange Counties),Voltage Reduction (System Test),,0,11:32 AMJune 162010,2010-06-16 11:32:00,2010-06-16 11:11:00
+720,2010-06-17 08:30:00,SPP,"Morgan City, LA",Made Public Appeal,,0,5:47 PMJune 172010,2010-06-17 17:47:00,2010-06-17 08:30:00
+721,2010-06-17 09:30:00,SERC,Southern Louisiana,Made Public Appeal,,0,5:17 PMJune 172010,2010-06-17 17:17:00,2010-06-17 09:30:00
+722,2010-06-17 09:30:00,SERC,Southern Louisiana,Made Public Appeal,,0,4:40 PMJune 172010,2010-06-17 16:40:00,2010-06-17 09:30:00
+723,2010-06-17 09:30:00,SPP,Southwestern Louisiana,Made Public Appeal,,0,4:40 PMJune 172010,2010-06-17 16:40:00,2010-06-17 09:30:00
+724,2010-06-17 10:49:00,MRO,Eastern Montana,Electrical System Separation,,0,11:02 AMJune 172010,2010-06-17 11:02:00,2010-06-17 10:49:00
+725,2010-06-18 15:30:00,RFC,Northwest Indiana,Thunderstorms,,94345,12:30 AMJune 202010,2010-06-20 00:30:00,2010-06-18 15:30:00
+726,2010-06-18 16:00:00,RFC,"Chicago, IL",Severe Weather,,400000,1:00 PMJune 202010,2010-06-20 13:00:00,2010-06-18 16:00:00
+727,2010-06-18 19:00:00,RFC,Southern Portion of Lower Michigan,Thunderstorms,,100000,5:00 AMJune 192010,2010-06-19 05:00:00,2010-06-18 19:00:00
+728,2010-06-18 20:00:00,RFC,"Indiana, Michigan",Severe Weather,,79000,10:45 AMJune 212010,2010-06-21 10:45:00,2010-06-18 20:00:00
+729,2010-06-18 20:00:00,RFC,"Detroit, MI",Severe Weather,,150000,7:30 PMJune 222010,2010-06-22 19:30:00,2010-06-18 20:00:00
+730,2010-06-21 13:48:00,RFC,"Cincinnati, OH",Thunderstorms,400,50636,8:31 PMJune 222010,2010-06-22 20:31:00,2010-06-21 13:48:00
+731,2010-06-22 15:34:00,SERC,West/Central Arkansas,Made Public Appeal/Transmission Equipment Failure,84,25159,7:00 PMJune 222010,2010-06-22 19:00:00,2010-06-22 15:34:00
+732,2010-06-23 17:00:00,RFC,"Chicago, IL",Severe Weather,,300000,1:40 PMJune 252010,2010-06-25 13:40:00,2010-06-23 17:00:00
+733,2010-06-23 17:48:00,RFC,Northwest Indiana,Thunderstorms,,53000,2:21 AMJune 242010,2010-06-24 02:21:00,2010-06-23 17:48:00
+734,2010-06-24 15:00:00,RFC,Southwestern New Jersey,Thunderstorms,,150000,12:00 PMJune 292010,2010-06-29 12:00:00,2010-06-24 15:00:00
+735,2010-06-24 15:30:00,RFC,Southeastern Pennsylvania,Thunderstorms,,355000,11:59 PMJune 292010,2010-06-29 23:59:00,2010-06-24 15:30:00
+736,2010-06-25 23:36:00,WECC,Northern California,Electrical System Separation,,0,1:38 AMJune 262010,2010-06-26 01:38:00,2010-06-25 23:36:00
+737,2010-07-06 03:47:00,RFC,"Newark, DE",Transformer Outage,95,18400,4:37 AMJuly 062010,2010-07-06 04:37:00,2010-07-06 03:47:00
+738,2010-07-07 16:13:00,RFC,"York, South Central Pennsylvania",Loss of Transmission Equipment,,43903,10:29 PMJuly 072010,2010-07-07 22:29:00,2010-07-07 16:13:00
+739,2010-07-15 19:00:00,RFC,Southeastern Michigan,Severe Weather,540,127534,11:30 PMJuly 192010,2010-07-19 23:30:00,2010-07-15 19:00:00
+740,2010-07-17 20:30:00,MRO,Minnesota,"Strong Winds, Tornadoes",,63000,10:00 PMJuly 192010,2010-07-19 22:00:00,2010-07-17 20:30:00
+741,2010-07-21 18:44:00,NPCC,Connecticut,Thunderstorms,,50100,8:00 PMJuly 212010,2010-07-21 20:00:00,2010-07-21 18:44:00
+742,2010-07-23 10:00:00,WECC,Northern Utah,Made Public Appeals,0,0,11:55 PMJuly 242010,2010-07-24 23:55:00,2010-07-23 10:00:00
+743,2010-07-23 19:30:00,RFC,Southeastern Michigan,Severe Weather,400,82000,6:30 PMJuly 262010,2010-07-26 18:30:00,2010-07-23 19:30:00
+744,2010-07-25 15:10:00,RFC,"Washington, DC Region",Severe Weather,,297700,11:30 PMJuly 302010,2010-07-30 23:30:00,2010-07-25 15:10:00
+745,2010-07-25 15:20:00,RFC,Central Maryland,Severe Weather,480,124000,6:00 PMJuly 272010,2010-07-27 18:00:00,2010-07-25 15:20:00
+746,2010-07-25 16:11:00,SERC,Northern Virginia,Severe Weather,900,81000,8:06 PMJuly 252010,2010-07-25 20:06:00,2010-07-25 16:11:00
+747,2010-07-29 17:43:00,SERC,Virginia,Thunderstorms,,55000,8:07 PMJuly 292010,2010-07-29 20:07:00,2010-07-29 17:43:00
+748,2010-07-29 18:39:00,WECC,Southern California,"Shed Interruptible Load, Wildfire",522,0,7:26 PMJuly 292010,2010-07-29 19:26:00,2010-07-29 18:39:00
+749,2010-07-29 18:39:00,WECC,Southern California,"Shed Interruptible Load, Wildfire",522,0,7:26 PMJuly 292010,2010-07-29 19:26:00,2010-07-29 18:39:00
+750,2010-08-02 12:00:00,WECC,Central California,Fuel Supply Deficiency (Hydro),,0,11:00 PMAugust 022010,2010-08-02 23:00:00,2010-08-02 12:00:00
+751,2010-08-02 12:45:00,SERC,Southern Louisiana,Made Public Appeals,,0,11:00 AMAugust 042010,2010-08-04 11:00:00,2010-08-02 12:45:00
+752,2010-08-02 12:45:00,SERC,Southern Louisiana,Made Public Appeals,,0,11:00 AMAugust 042010,2010-08-04 11:00:00,2010-08-02 12:45:00
+753,2010-08-02 12:45:00,SERC,Southwestern Louisiana,Made Public Appeals,,0,11:00 AMAugust 042010,2010-08-04 11:00:00,2010-08-02 12:45:00
+754,2010-08-02 12:45:00,SPP,Southern Louisiana,Made Public Appeals,,0,11:00 AMAugust 042010,2010-08-04 11:00:00,2010-08-02 12:45:00
+755,2010-08-04 12:00:00,SPP,"Northern Texas, Eastern New Mexico",Made Public Appeals,,0,10:00 PMAugust 042010,2010-08-04 22:00:00,2010-08-04 12:00:00
+756,2010-08-04 16:45:00,RFC,"Western Pennsylvania, Northwestern and Central West Virginia",Thunderstorms,60,11186,12:00 AMAugust 072010,2010-08-07 00:00:00,2010-08-04 16:45:00
+757,2010-08-04 17:00:00,RFC,"Ohio, West Virginia, Kentucky",Severe Weather,,37000,4:00 AMAugust 062010,2010-08-06 04:00:00,2010-08-04 17:00:00
+758,2010-08-05 15:30:00,RFC,"District of Columbia, Maryland",Thunderstorms,,76729,10:00 PMAugust 052010,2010-08-05 22:00:00,2010-08-05 15:30:00
+759,2010-08-05 15:54:00,RFC,Northern Virginia,Thunderstorms,,145157,12:00 AMAugust 082010,2010-08-08 00:00:00,2010-08-05 15:54:00
+760,2010-08-09 12:00:00,RFC,Upstate New York,Fuel Supply Defiency,,0,12:00 PMAugust 162010,2010-08-16 12:00:00,2010-08-09 12:00:00
+761,2010-08-11 15:21:00,RFC,Ohio,Severe Weather,,57000,12:12 PMAugust 112010,2010-08-11 12:12:00,2010-08-11 15:21:00
+762,2010-08-12 06:45:00,RFC,"District of Columbia, Maryland",Severe Weather,,101003,9:00 PMAugust 122010,2010-08-12 21:00:00,2010-08-12 06:45:00
+763,2010-08-12 08:21:00,SPP,Central Nebraska,Made Public Appeals,65,0,11:00 AMAugust 122010,2010-08-12 11:00:00,2010-08-12 08:21:00
+764,2010-08-12 15:42:00,MRO,"City of Oshkosh, Wisconsin",Made Public Appeals,30,7600,10:10 PMAugust 122010,2010-08-12 22:10:00,2010-08-12 15:42:00
+765,2010-08-19 18:00:00,RFC,Southeastern Michigan,Severe Weather,340,80000,3:30 PMAugust 232010,2010-08-23 15:30:00,2010-08-19 18:00:00
+766,2010-08-23 17:50:00,TRE,"Houston, Texas",Severe Weather,746,81586,9:30 AMAugust 242010,2010-08-24 09:30:00,2010-08-23 17:50:00
+767,2010-09-01 10:20:00,WECC,"Pittsburg (Bay Area), California",Electrical System Separation (Islanding),31,15000,12:44 PMSeptember 012010,2010-09-01 12:44:00,2010-09-01 10:20:00
+768,2010-09-07 14:02:00,TRE,"San Antonio, Texas",Tropical Storm,,340350,1:27 AMSeptember 082010,2010-09-08 01:27:00,2010-09-07 14:02:00
+769,2010-09-20 17:00:00,SERC,"King George County, Virginia",Low Flying Helicopter,,0,5:30 PMSeptember 202010,2010-09-20 17:30:00,2010-09-20 17:00:00
+770,2010-09-21 21:31:00,RFC,Central and Southern Michigan,Thunderstorms,,138000,2:30 PMSeptember 222010,2010-09-22 14:30:00,2010-09-21 21:31:00
+771,2010-09-22 06:12:00,WECC,"Bakersfield, California",Firm Load Shed,526,0,11:00 PMSeptember 222010,2010-09-22 23:00:00,2010-09-22 06:12:00
+772,2010-09-22 16:08:00,RFC,"City of Pittsburgh, Pennsylvania",Thunderstorms,156,52000,12:00 AMSeptember 262010,2010-09-26 00:00:00,2010-09-22 16:08:00
+773,2010-09-22 17:38:00,RFC,Western Pennsylvania,Thunderstorms,389,82861,11:30 PMSeptember 242010,2010-09-24 23:30:00,2010-09-22 17:38:00
+774,2010-09-27 15:15:00,WECC,Central and Southern California,Interruptible Load Shed,595,0,6:12 PMSeptember 272010,2010-09-27 18:12:00,2010-09-27 15:15:00
+775,2010-10-05 05:45:00,WECC,"City of Los Angeles, California",Rain and High Winds,,73514,6:00AMOctober 072010,2010-10-07 06:00:00,2010-10-05 05:45:00
+776,2010-10-26 09:00:00,RFC,Northern Illinois,Thunderstorms,,192106,11:00 AMOctober 282010,2010-10-28 11:00:00,2010-10-26 09:00:00
+777,2010-10-26 20:00:00,MRO,Minnesota,High Winds,,70000,10:00 PMOctober 282010,2010-10-28 22:00:00,2010-10-26 20:00:00
+778,2010-10-27 04:00:00,MRO,Northeast and North Central Wisconsin,High Winds,,63000,12:00 PMOctober 272010,2010-10-27 12:00:00,2010-10-27 04:00:00
+779,2010-10-27 08:00:00,RFC,Michigan's Northerly Lower Peninsula,High Winds,240,285000,7:00 AMOctober 292010,2010-10-29 07:00:00,2010-10-27 08:00:00
+780,2010-10-27 17:00:00,RFC,Northern Illinois,High Winds,,127000,4:00 AMOctober 292010,2010-10-29 04:00:00,2010-10-27 17:00:00
+781,2010-10-27 17:16:00,WECC,Northern California,Electrical System Separation-Islanding,16,2674,5:27 PMOctober 272010,2010-10-27 17:27:00,2010-10-27 17:16:00
+782,2010-10-31 22:26:00,WECC,"Bakersfield, California",Firm System Load Loss,500,0,1:45 AMNovember 012010,2010-11-01 01:45:00,2010-10-31 22:26:00
+783,2010-11-04 09:46:00,WECC,"Rock Springs, Wyoming",Transmission Equipment Failure/Interruptible Load Shed,,0,10:47 AMNovember 042010,2010-11-04 10:47:00,2010-11-04 09:46:00
+784,2010-11-06 15:53:00,WECC,Northern California,Electrical System Separation - Islanding,20,4,6:08 PMNovember 062010,2010-11-06 18:08:00,2010-11-06 15:53:00
+785,2010-11-08 06:47:00,NPCC,Maine,Snow and High Winds,,60863,6:00 PMNovember 082010,2010-11-08 18:00:00,2010-11-08 06:47:00
+786,2010-11-13 15:00:00,MRO,Minnesota,Winter Storm,,60000,10:00 PMNovember 142010,2010-11-14 22:00:00,2010-11-13 15:00:00
+787,2010-11-15 23:00:00,WECC,Puget Sound Region,High Winds,391,149256,2:14 AMNovember 162010,2010-11-16 02:14:00,2010-11-15 23:00:00
+788,2010-11-21 01:39:00,WECC,Northern and Central California,Winter Storm,75,60000,4:46 PMNovember 242010,2010-11-24 16:46:00,2010-11-21 01:39:00
+789,2010-11-22 23:00:00,WECC,"Puget Sound Region, Washington",Winter Storm,420,123535,8:00 PMNovember 242010,2010-11-24 20:00:00,2010-11-22 23:00:00
+790,2010-11-23 14:01:00,WECC,Northern California,Electrical System Separation - Islanding,22,7077,6:12 PMNovember 232010,2010-11-23 18:12:00,2010-11-23 14:01:00
+791,2010-12-03 21:32:00,WECC,California,Electrical System Separation - Islanding,22,7077,2:00 AMDecember 042010,2010-12-04 02:00:00,2010-12-03 21:32:00
+792,2010-12-12 16:30:00,RFC,Southeastern Michigan,Severe Weather,210,60175,2:00 PMDecember 152010,2010-12-15 14:00:00,2010-12-12 16:30:00
+793,2010-12-14 07:20:00,WECC,California,Electrical System Separation - Islanding,9,6635,7:25 AMDecember 142010,2010-12-14 07:25:00,2010-12-14 07:20:00
+794,2010-12-14 07:36:00,WECC,Southern California,Transmission Equipment/Firm System Load,464,0,9:00 AMDecember 152010,2010-12-15 09:00:00,2010-12-14 07:36:00
+795,2010-12-18 05:00:00,WECC,"Redmond, Washington",Severe Weather,184,92090,10:00 PMDecember 192010,2010-12-19 22:00:00,2010-12-18 05:00:00
+796,2010-12-26 08:15:00,SERC,Carolina,Severe Weather,,42000,4:15 PMDecember 262010,2010-12-26 16:15:00,2010-12-26 08:15:00
+797,2010-12-30 14:00:00,RFC,New York,Fuel Supply Deficiency,300,0,6:00 AMJanuary 122010,2010-01-12 06:00:00,2010-12-30 14:00:00
+798,2011-01-11 23:08:00,NPCC,"Athens, New York",Electrical Fault at Generator,0,0,2023-12-05 23:08:00,2023-12-05 23:08:00,2011-01-11 23:08:00
+799,2011-01-12 06:00:00,NPCC,Massachusetts,Winter Storm,,80000,2023-12-05 14:00:00,2023-12-05 14:00:00,2011-01-12 06:00:00
+800,2011-01-13 07:21:00,FRCC,North Florida,Firm System Load Shed,150,20900,2023-12-05 08:13:00,2023-12-05 08:13:00,2011-01-13 07:21:00
+801,2011-01-18 14:00:00,NPCC,"Whitman, Auburn St Substation, Massachusetts",Vandalism,0,0,2023-12-05 14:00:00,2023-12-05 14:00:00,2011-01-18 14:00:00
+802,2011-01-23 07:00:00,WECC,"Franklin County, Idaho",Vandalism,0,0,2023-12-05 13:00:00,2023-12-05 13:00:00,2011-01-23 07:00:00
+803,2011-01-24 13:20:00,WECC,"Newman Power Plant, Texas",Suspicious Activity,0,0,2023-12-05 13:30:00,2023-12-05 13:30:00,2011-01-24 13:20:00
+804,2011-01-25 03:23:00,RFC,"Newark, Delaware",Vandalism,0,0,2023-12-05 11:00:00,2023-12-05 11:00:00,2011-01-25 03:23:00
+805,2011-01-26 09:25:00,WECC,"Carson City, Nevada",Suspected Telecommunications Attack,0,0,2023-12-05 17:00:00,2023-12-05 17:00:00,2011-01-26 09:25:00
+806,2011-01-26 09:33:00,RFC,Michigan,Vandalism,0,0,2023-12-05 15:03:00,2023-12-05 15:03:00,2011-01-26 09:33:00
+807,2011-01-26 17:00:00,RFC,"Montgomery and Prince George's County, Maryland and District of Columbia",Winter Storm,,210000,2023-12-05 08:00:00,2023-12-05 08:00:00,2011-01-26 17:00:00
+808,2011-01-26 18:28:00,RFC,Maryland,Winter Storm,,234326,2023-12-05 17:00:00,2023-12-05 17:00:00,2011-01-26 18:28:00
+809,2011-01-26 19:43:00,SERC,Northern Virginia,Winter Storm,600,150084,2023-12-05 18:18:00,2023-12-05 18:18:00,2011-01-26 19:43:00
+810,2011-01-27 09:30:00,RFC,"Hockessin, Delaware",Vandalism,0,0,2023-12-05 09:30:00,2023-12-05 09:30:00,2011-01-27 09:30:00
+811,2011-01-27 17:00:00,NPCC,Central New York,Fuel Supply Deficiency (Coal),108,0,2023-12-05 05:00:00,2023-12-05 05:00:00,2011-01-27 17:00:00
+812,2011-01-31 22:00:00,RFC,Southwestern Ohio and Indiana,Ice Storm,996,272880,2023-12-05 12:00:00,2023-12-05 12:00:00,2011-01-31 22:00:00
+813,2011-02-01 15:00:00,RFC,"Indiana, Ohio",Winter Storm,0,158013,2023-12-05 12:00:00,2023-12-05 12:00:00,2011-02-01 15:00:00
+814,2011-02-01 21:00:00,RFC,Northern Illinois,Winter Storm,0,190000,2023-12-05 14:00:00,2023-12-05 14:00:00,2011-02-01 21:00:00
+815,2011-02-02 03:00:00,RFC,"Philadelphia area, Pennsylvania",Winter Storm,0,213000,2023-12-05 23:59:00,2023-12-05 23:59:00,2011-02-02 03:00:00
+816,2011-02-02 05:43:00,TRE,Texas,Generation Inadequacy/Load Shed,4000,1069730,2023-12-05 10:00:00,2023-12-05 10:00:00,2011-02-02 05:43:00
+817,2011-02-02 06:22:00,WECC,Central Arizona,Generation Inadequacy/Load Shed,3963,69000,2023-12-05 09:57:00,2023-12-05 09:57:00,2011-02-02 06:22:00
+818,2011-02-02 07:24:00,WECC,"Dona Ana and El Paso Counties, Texas and Hudspeth County, New Mexico",Generation Inadequacy/Load Shed,280,178000,2023-12-05 22:23:00,2023-12-05 22:23:00,2011-02-02 07:24:00
+819,2011-02-02 17:00:00,SPP,"Texas Panhandle, Southeastern New Mexico",Fuel Supply Deficiency (Natural Gas),0,0,2023-12-05 22:00:00,2023-12-05 22:00:00,2011-02-02 17:00:00
+820,2011-02-03 15:00:00,WECC,"San Diego area, California",Fuel Supply Deficiency (Natural Gas),,0,2023-12-05 12:00:00,2023-12-05 12:00:00,2011-02-03 15:00:00
+821,2011-02-03 14:30:00,RFC,"Bowie, Maryland",Suspected Cyber Attack,,0,2023-12-05 14:30:00,2023-12-05 14:30:00,2011-02-03 14:30:00
+822,2011-02-03 22:04:00,TRE,Texas,Generation Inadequacy/Load Shed,400,86013,2023-12-05 12:32:00,2023-12-05 12:32:00,2011-02-03 22:04:00
+823,2011-02-09 03:45:00,TRE,"Western Houston, Texas",Winter Storm,399,60000,2023-12-05 09:12:00,2023-12-05 09:12:00,2011-02-09 03:45:00
+824,2011-02-09 14:54:00,WECC,"University Place, Washington",Vandalism,0,0,2023-12-05 17:00:00,2023-12-05 17:00:00,2011-02-09 14:54:00
+825,2011-02-09 16:30:00,TRE,Texas,Cold Weather Event,,0,2023-12-05 12:33:00,2023-12-05 12:33:00,2011-02-09 16:30:00
+826,2011-02-10 13:00:00,WECC,"LaGrande, Washington",Vandalism,0,0,2023-12-05 13:00:00,2023-12-05 13:00:00,2011-02-10 13:00:00
+827,2011-02-17 01:25:00,WECC,Northern and Central California,Major Storm,91,80000,2023-12-05 10:13:00,2023-12-05 10:13:00,2011-02-17 01:25:00
+828,2011-02-17 13:00:00,WECC,"Roseville, California",Suspected Cyber Attack,0,0,2023-12-05 16:53:00,2023-12-05 16:53:00,2011-02-17 13:00:00
+829,2011-02-19 12:30:00,RFC,"Philadelphia area, Pennsylvania",Major Storm,0,118000,2023-12-05 04:00:00,2023-12-05 04:00:00,2011-02-19 12:30:00
+830,2011-02-19 16:34:00,RFC,"Harrington, Delaware",Vandalism,0,0,2023-12-05 16:34:00,2023-12-05 16:34:00,2011-02-19 16:34:00
+831,2011-02-20 16:00:00,RFC,"Southern Lower Peninsula, Michigan",Winter Storm,262,160000,2023-12-05 16:00:00,2023-12-05 16:00:00,2011-02-20 16:00:00
+832,2011-02-24 16:51:00,SPP,Arkansas,Electrical System Separation (Islanding),4,0,2023-12-05 16:54:00,2023-12-05 16:54:00,2011-02-24 16:51:00
+833,2011-02-25 15:20:00,SERC,Virginia,Severe Weather,0,50000,2023-12-05 18:00:00,2023-12-05 18:00:00,2011-02-25 15:20:00
+834,2011-02-25 15:23:00,RFC,Maryland,Severe Weather,0,93000,2023-12-05 18:00:00,2023-12-05 18:00:00,2011-02-25 15:23:00
+835,2011-02-25 08:00:00,WECC,Northern and Central California,Winter Storm,91,80000,2023-12-05 17:30:00,2023-12-05 17:30:00,2011-02-25 08:00:00
+836,2011-02-25 10:30:00,WECC,"Salt Lake City, Utah",Vandalism,0,0,2023-12-05 10:45:00,2023-12-05 10:45:00,2011-02-25 10:30:00
+837,2011-03-01 08:00:00,NPCC,Western New York,Fuel Supply Deficiency (Coal),675,0,2023-12-05 09:30:00,2023-12-05 09:30:00,2011-03-01 08:00:00
+838,2011-03-06 02:54:00,WECC,"Salt Lake City Region, Utah",Vandalism,0,0,2023-12-05 08:00:00,2023-12-05 08:00:00,2011-03-06 02:54:00
+839,2011-03-08 08:00:00,NPCC,Western New York,Fuel Supply Deficiency (Coal),676,0,2023-12-05 09:00:00,2023-12-05 09:00:00,2011-03-08 08:00:00
+840,2011-03-10 12:03:00,TRE,Texas,Suspected Physical Attack,,0,2023-12-05 06:00:00,2023-12-05 06:00:00,2011-03-10 12:03:00
+841,2011-03-11 07:02:00,WECC,"Humboldt and Eureka, California",Generation Inadequacy/Load Shed,15,6800,2023-12-05 09:15:00,2023-12-05 09:15:00,2011-03-11 07:02:00
+842,2011-03-13 14:20:00,WECC,Oregon,Severe Weather,0,9000,2023-12-05 15:46:00,2023-12-05 15:46:00,2011-03-13 14:20:00
+843,2011-03-14 07:30:00,RFC,"Baltimore, Maryland",Suspected Cyber Attack,,0,2023-12-05 16:55:00,2023-12-05 16:55:00,2011-03-14 07:30:00
+844,2011-03-15 18:00:00,TRE,"The Woodlands, Texas",Suspected Physical Attack,,0,2023-12-05 19:14:00,2023-12-05 19:14:00,2011-03-15 18:00:00
+845,2011-03-17 07:40:00,NPCC,"Deerfield, New Hampshire",Vandalism,,0,2023-12-05 11:00:00,2023-12-05 11:00:00,2011-03-17 07:40:00
+846,2011-03-18 09:54:00,RFC,"Greene County, Ohio",Vandalism,,0,2023-12-05 15:34:00,2023-12-05 15:34:00,2011-03-18 09:54:00
+847,2011-03-19 23:56:00,WECC,Northern and Central California,Major Storm,91,128000,2023-12-05 19:10:00,2023-12-05 19:10:00,2011-03-19 23:56:00
+848,2011-03-20 09:44:00,WECC,"Los Angeles, California",Major Storm,0,79000,2023-12-05 10:00:00,2023-12-05 10:00:00,2011-03-20 09:44:00
+849,2011-03-21 12:35:00,WECC,Southern California,Major Storm,150,54332,2023-12-05 14:45:00,2023-12-05 14:45:00,2011-03-21 12:35:00
+850,2011-03-21 00:57:00,NPCC,"Deerfield, New Hampshire",Vandalism,,0,2023-12-05 02:29:00,2023-12-05 02:29:00,2011-03-21 00:57:00
+851,2011-03-23 18:30:00,RFC,"Indiana. Kentucky, Michigan, Ohio, Tennessee, Virginia, West Virginia",Major Storm,0,60596,2023-12-05 04:55:00,2023-12-05 04:55:00,2011-03-23 18:30:00
+852,2011-03-27 13:27:00,WECC,"Sonoma and Central Valley, California",Transmission Level Outage,295,165000,2023-12-05 17:00:00,2023-12-05 17:00:00,2011-03-27 13:27:00
+853,2011-03-31 14:30:00,FRCC,Central and Western Florida,Severe Weather,0,50000,2023-12-05 23:59:00,2023-12-05 23:59:00,2011-03-31 14:30:00
+854,2011-03-31 11:30:00,FRCC,"Greater Tampa Bay, Florida",Severe Weather,206,87000,2023-12-05 20:30:00,2023-12-05 20:30:00,2011-03-31 11:30:00
+855,2011-04-03 20:23:00,SERC,Unknown,Suspected Cyber Attack,0,0,2023-12-05 15:00:00,2023-12-05 15:00:00,2011-04-03 20:23:00
+856,2011-04-04 11:47:00,SERC,"Memphis, Tennessee",Severe Weather,359,63000,2023-12-05 00:01:00,2023-12-05 00:01:00,2011-04-04 11:47:00
+857,2011-04-04 13:00:00,SERC,"Shelby County, Tennessee",Severe Weather,300,63000,2023-12-05 00:00:00,2023-12-05 00:00:00,2011-04-04 13:00:00
+858,2011-04-04 14:00:00,SERC,"Davidson County, Tennessee",Severe Weather,300,73000,2023-12-05 00:01:00,2023-12-05 00:01:00,2011-04-04 14:00:00
+859,2011-04-04 19:00:00,SERC,"Southeast Arkansas, Southeast Louisiana, Western Mississippi, Eastern Texas",Severe Weather,0,74645,2023-12-05 20:00:00,2023-12-05 20:00:00,2011-04-04 19:00:00
+860,2011-04-04 19:00:00,RFC,"Kentucky, West Virginia",Severe Weather,0,52920,2023-12-05 12:00:00,2023-12-05 12:00:00,2011-04-04 19:00:00
+861,2011-04-04 21:00:00,SERC,"Alabama, Florida, Georgia, Mississippi",Severe Weather,674,303434,2023-12-05 23:30:00,2023-12-05 23:30:00,2011-04-04 21:00:00
+862,2011-04-05 02:00:00,SERC,"North Carolina, South Carolina",Severe Weather,1200,256000,2023-12-05 23:00:00,2023-12-05 23:00:00,2011-04-05 02:00:00
+863,2011-04-06 10:50:00,RFC,"Felton, Delaware",Vandalism,0,0,2023-12-05 10:50:00,2023-12-05 10:50:00,2011-04-06 10:50:00
+864,2011-04-11 17:40:00,WECC,"Salt Lake City, Utah",Suspicious Activity,0,0,2023-12-05 17:51:00,2023-12-05 17:51:00,2011-04-11 17:40:00
+865,2011-04-16 14:16:00,SERC,Central and Eastern North Carolina,Severe Weather,0,220000,2023-12-05 16:30:00,2023-12-05 16:30:00,2011-04-16 14:16:00
+866,2011-04-19 20:00:00,SERC,Illinois,Severe Weather,0,80000,2023-12-05 22:00:00,2023-12-05 22:00:00,2011-04-19 20:00:00
+867,2011-04-19 14:01:00,WECC,"Graham, Washington",Vandalism,0,0,2023-12-05 16:04:00,2023-12-05 16:04:00,2011-04-19 14:01:00
+868,2011-04-19 22:44:00,SERC,"Memphis, Tennessee",Severe Weather,100,64000,2023-12-05 02:00:00,2023-12-05 02:00:00,2011-04-19 22:44:00
+869,2011-04-19 23:02:00,SERC,"Memphis, Tennessee",Severe Weather,300,105000,2023-12-05 17:32:00,2023-12-05 17:32:00,2011-04-19 23:02:00
+870,2011-04-19 23:13:00,SERC,"Osceola, Arkansas",Severe Weather,22,0,2023-12-05 19:14:00,2023-12-05 19:14:00,2011-04-19 23:13:00
+871,2011-04-20 02:00:00,RFC,"Indiana, Kentucky, Ohio",Severe Weather - High Winds,0,165711,2023-12-05 12:00:00,2023-12-05 12:00:00,2011-04-20 02:00:00
+872,2011-04-20 08:07:00,SERC,"Ruston, Louisiana",Equipment Malfunction,33,11000,2023-12-05 08:14:00,2023-12-05 08:14:00,2011-04-20 08:07:00
+873,2011-04-21 07:15:00,WECC,"Oquirrh Substation, Salt Lake City, Utah",Vandalism,0,0,2023-12-05 16:50:00,2023-12-05 16:50:00,2011-04-21 07:15:00
+874,2011-04-21 19:00:00,RFC,"Trenton, Michigan",Suspicious Activity,0,0,2023-12-05 19:05:00,2023-12-05 19:05:00,2011-04-21 19:00:00
+875,2011-04-22 21:00:00,SERC,"Metro St. Louis area, Missouri",Severe Weather,0,55000,2023-12-05 23:00:00,2023-12-05 23:00:00,2011-04-22 21:00:00
+876,2011-04-25 16:33:00,SERC,Northeast Tennessee,Equipment Malfunction,140,0,2023-12-05 17:19:00,2023-12-05 17:19:00,2011-04-25 16:33:00
+877,2011-04-25 17:30:00,SPP,"Arkansas, Louisiana, Mississippi",Severe Weather,0,141700,2023-12-05 18:00:00,2023-12-05 18:00:00,2011-04-25 17:30:00
+878,2011-04-26 05:49:00,SPP,Southern Louisiana,Severe Weather,120,0,2023-12-05 09:59:00,2023-12-05 09:59:00,2011-04-26 05:49:00
+879,2011-04-26 09:51:00,SERC,"Alabama, Georgia, Mississippi, Tennessee",Severe Weather,0,55000,2023-12-05 09:51:00,2023-12-05 09:51:00,2011-04-26 09:51:00
+880,2011-04-26 13:04:00,WECC,"Salt Lake City, Utah",Vandalism,0,0,2023-12-05 14:00:00,2023-12-05 14:00:00,2011-04-26 13:04:00
+881,2011-04-26 18:14:00,SPP,Eastern Arkansas,Severe Weather,50,13000,2023-12-05 17:00:00,2023-12-05 17:00:00,2011-04-26 18:14:00
+882,2011-04-27 08:00:00,SERC,"Alabama, Florida, Georgia, Mississippi",Severe Weather,1422,426640,2023-12-05 16:03:00,2023-12-05 16:03:00,2011-04-27 08:00:00
+883,2011-04-27 10:00:00,SERC,"Alabama, Georgia, Mississippi, Tennessee",Severe Weather,0,612000,2023-12-05 16:29:00,2023-12-05 16:29:00,2011-04-27 10:00:00
+884,2011-04-27 22:00:00,SERC,"Ohio, Tennessee, Virginia",Severe Weather,0,69000,2023-12-05 10:00:00,2023-12-05 10:00:00,2011-04-27 22:00:00
+885,2011-04-28 05:00:00,RFC,"Cleveland area, Ohio",Severe Weather,0,86000,2023-12-05 18:30:00,2023-12-05 18:30:00,2011-04-28 05:00:00
+886,2011-04-28 16:09:00,WECC,"Phoenix, Arizona",Equipment Malfunction,960,0,2023-12-05 16:10:00,2023-12-05 16:10:00,2011-04-28 16:09:00
+887,2011-05-02 17:06:00,,Hawaii,Severe Weather,220,62000,2023-12-05 20:00:00,2023-12-05 20:00:00,2011-05-02 17:06:00
+888,2011-05-02 14:00:00,NPCC,"West River Substation, New Haven, Connecticut",Suspected Physical Attack,0,0,2023-12-05 14:00:00,2023-12-05 14:00:00,2011-05-02 14:00:00
+889,2011-05-02 08:52:00,WECC,"N. Ogden Substation, Ogden, Utah",Vandalism,0,0,2023-12-05 10:46:00,2023-12-05 10:46:00,2011-05-02 08:52:00
+890,2011-05-03 12:00:00,NPCC,"St. Lawrence Power Dam, New York",Suspected Physical Attack,0,0,2023-12-05 12:00:00,2023-12-05 12:00:00,2011-05-03 12:00:00
+891,2011-05-04 13:08:00,RFC,Maryland,Suspected Physical Attack,0,0,2023-12-05 13:25:00,2023-12-05 13:25:00,2011-05-04 13:08:00
+892,2011-05-04 12:20:00,RFC,Michigan,Suspected Sabotage,0,0,2023-12-05 15:40:00,2023-12-05 15:40:00,2011-05-04 12:20:00
+893,2011-05-05 09:15:00,NPCC,New Hampshire,Vandalism,0,0,2023-12-05 09:15:00,2023-12-05 09:15:00,2011-05-05 09:15:00
+894,2011-05-06 06:56:00,WECC,"Alderwood Substation, Portland, Oregon",Vandalism,0,0,2023-12-05 10:30:00,2023-12-05 10:30:00,2011-05-06 06:56:00
+895,2011-05-08 19:35:00,NPCC,New York,Vandalism,0,0,2023-12-05 19:35:00,2023-12-05 19:35:00,2011-05-08 19:35:00
+896,2011-05-09 13:11:00,NPCC,"Milton, New Hampshire",Vandalism,0,0,2023-12-05 13:11:00,2023-12-05 13:11:00,2011-05-09 13:11:00
+897,2011-05-09 04:08:00,RFC,"Holtwood, Pennsylvania",Suspected Physical Attack,630,0,2023-12-05 06:40:00,2023-12-05 06:40:00,2011-05-09 04:08:00
+898,2011-05-10 22:21:00,RFC,"Kentucky, West Virginia",Severe Weather,0,58000,2023-12-05 14:25:00,2023-12-05 14:25:00,2011-05-10 22:21:00
+899,2011-05-10 13:45:00,NPCC,New Hampshire,Vandalism,0,0,2023-12-05 15:00:00,2023-12-05 15:00:00,2011-05-10 13:45:00
+900,2011-05-10 03:25:00,RFC,"Upper Peninsula, Michigan",Generation Inadequacy; Load Shed; Electrical System Separation (Islanding),585,78213,2023-12-05 14:10:00,2023-12-05 14:10:00,2011-05-10 03:25:00
+901,2011-05-11 15:55:00,MRO,"Colbyville, Haines Road and Arrowhead Substations, Minnesota",Vandalism,0,0,2023-12-05 13:57:00,2023-12-05 13:57:00,2011-05-11 15:55:00
+902,2011-05-11 13:35:00,WECC,"Green River, Wyoming",Vandalism,0,0,2023-12-05 13:35:00,2023-12-05 13:35:00,2011-05-11 13:35:00
+903,2011-05-11 11:00:00,NPCC,"North Chelsea Substation, New York",Vandalism,0,0,2023-12-05 11:30:00,2023-12-05 11:30:00,2011-05-11 11:00:00
+904,2011-05-11 00:15:00,SERC,"Charlotte, North Carolina",Severe Weather,300,71000,2023-12-05 17:20:00,2023-12-05 17:20:00,2011-05-11 00:15:00
+905,2011-05-13 06:00:00,WECC,"Salt Lake, Utah",Vandalism,0,0,2023-12-05 06:00:00,2023-12-05 06:00:00,2011-05-13 06:00:00
+906,2011-05-21 17:00:00,WECC,"Dixie Valley Area, Nevada",Physical Attack,56,0,2023-12-05 18:34:00,2023-12-05 18:34:00,2011-05-21 17:00:00
+907,2011-05-22 17:09:00,SPP,"Joplin, Sarcoxie, and Wentworth, Missouri",Severe Weather,200,20000,2023-12-05 12:01:00,2023-12-05 12:01:00,2011-05-22 17:09:00
+908,2011-05-23 16:45:00,RFC,"Central, Indiana",Severe Weather,1024,215387,2023-12-05 23:59:00,2023-12-05 23:59:00,2011-05-23 16:45:00
+909,2011-05-23 12:30:00,SERC,"St. Louis County, Missouri",Severe Weather,0,70000,2023-12-05 12:30:00,2023-12-05 12:30:00,2011-05-23 12:30:00
+910,2011-05-24 16:45:00,SPP,Central Oklahoma,Severe Weather,0,54000,2023-12-05 17:00:00,2023-12-05 17:00:00,2011-05-24 16:45:00
+911,2011-05-24 16:35:00,SERC,Eastern Virginia,Severe Weather,790,175000,2023-12-05 12:40:00,2023-12-05 12:40:00,2011-05-24 16:35:00
+912,2011-05-24 09:00:00,RFC,"Chicago, Illinois",Physical Attack,0,0,2023-12-05 09:10:00,2023-12-05 09:10:00,2011-05-24 09:00:00
+913,2011-05-25 22:14:00,RFC,Central Indiana,Severe Weather,200,141000,2023-12-05 11:00:00,2023-12-05 11:00:00,2011-05-25 22:14:00
+914,2011-05-26 19:56:00,RFC,Central Pennsylvania,Severe Weather,150,120001,2023-12-05 18:00:00,2023-12-05 18:00:00,2011-05-26 19:56:00
+915,2011-05-26 18:30:00,SERC,"Southern Balancing Area, Georgia",Severe Weather,729,218783,2023-12-05 04:44:00,2023-12-05 04:44:00,2011-05-26 18:30:00
+916,2011-05-26 01:00:00,SERC,"Greenwood, Mississippi",Transmission Level Interruption,30,10000,2023-12-05 06:00:00,2023-12-05 06:00:00,2011-05-26 01:00:00
+917,2011-05-29 18:30:00,RFC,"Mid and Southern Lower Peninsula, Michigan",Severe Weather,250,113000,2023-12-05 22:00:00,2023-12-05 22:00:00,2011-05-29 18:30:00
+918,2011-06-02 23:45:00,SERC,"Greater Columbia, South Carolina",Severe Weather,0,50465,2023-12-05 16:00:00,2023-12-05 16:00:00,2011-06-02 23:45:00
+919,2011-06-04 01:17:00,WECC,"Midway, California",Vandalism,0,420,2023-12-05 03:25:00,2023-12-05 03:25:00,2011-06-04 01:17:00
+920,2011-06-05 05:30:00,TRE,"Houston Metro-Area, Texas",Severe Thunderstorms,473,78000,2023-12-05 01:30:00,2023-12-05 01:30:00,2011-06-05 05:30:00
+921,2011-06-05 20:02:00,WECC,"Melones, California",Electrical System Separation (Islanding),10,5314,2023-12-05 20:55:00,2023-12-05 20:55:00,2011-06-05 20:02:00
+922,2011-06-06 00:13:00,SPP,"El Paso County, Texas; Dona Ana County, New Mexico",Load Shed/ Automatic undervoltage relay action,450,162000,2023-12-05 03:15:00,2023-12-05 03:15:00,2011-06-06 00:13:00
+923,2011-06-06 15:00:00,SPP,"Eastern, Arkansas",Public Appeal to Reduce Electricity Usage,0,13000,2023-12-05 15:00:00,2023-12-05 15:00:00,2011-06-06 15:00:00
+924,2011-06-07 14:00:00,RFC,Ohio,Severe Weather,0,52747,2023-12-05 06:00:00,2023-12-05 06:00:00,2011-06-07 14:00:00
+925,2011-06-08 12:58:00,WECC,"Fredrickson Substation, Washington",Vandalism,,0,2023-12-05 12:58:00,2023-12-05 12:58:00,2011-06-08 12:58:00
+926,2011-06-09 04:30:00,RFC,Illinois,Severe Thunderstorms,0,169000,2023-12-05 12:00:00,2023-12-05 12:00:00,2011-06-09 04:30:00
+927,2011-06-09 14:15:00,WECC,"San Antonio Dam Area, Los Angeles County, California",Suspected Physical Attack,0,0,2023-12-05 14:15:00,2023-12-05 14:15:00,2011-06-09 14:15:00
+928,2011-06-09 17:51:00,NPCC,"Western, Massachusetts; Connecticut",Severe Thunderstorms,0,100000,2023-12-05 12:00:00,2023-12-05 12:00:00,2011-06-09 17:51:00
+929,2011-06-12 19:00:00,RFC,Virginia,Severe Thunderstorms,250,56000,2023-12-05 20:30:00,2023-12-05 20:30:00,2011-06-12 19:00:00
+930,2011-06-15 16:00:00,WECC,"Bingham County, Idaho",Vandalism,,0,2023-12-05 06:30:00,2023-12-05 06:30:00,2011-06-15 16:00:00
+931,2011-06-15 19:15:00,SERC,Georgia,Severe Thunderstorms,563,169000,2023-12-05 06:00:00,2023-12-05 06:00:00,2011-06-15 19:15:00
+932,2011-06-15 19:17:00,SERC,"Piedmont, North Carolina",Severe Thunderstorms,300,70135,2023-12-05 01:45:00,2023-12-05 01:45:00,2011-06-15 19:17:00
+933,2011-06-18 15:30:00,SERC,"Northern, Georgia",Severe Thunderstorms,312,93828,2023-12-05 15:42:00,2023-12-05 15:42:00,2011-06-18 15:30:00
+934,2011-06-18 16:45:00,SPP,"Eastern, Arkansas",Public Appeal to Reduce Electricity Usage,0,0,2023-12-05 23:59:00,2023-12-05 23:59:00,2011-06-18 16:45:00
+935,2011-06-18 17:00:00,SERC,North Carolina; South Carolina,Severe Thunderstorms,300,70000,2023-12-05 21:33:00,2023-12-05 21:33:00,2011-06-18 17:00:00
+936,2011-06-20 10:36:00,WECC,"Collins Substation, Washington",Vandalism,0,0,2023-12-05 10:36:00,2023-12-05 10:36:00,2011-06-20 10:36:00
+937,2011-06-21 18:30:00,RFC,AEP Region,Severe Weather,0,56000,2023-12-05 07:00:00,2023-12-05 07:00:00,2011-06-21 18:30:00
+938,2011-06-21 21:45:00,RFC,Illinois,Severe Thunderstorms,0,300000,2023-12-05 02:00:00,2023-12-05 02:00:00,2011-06-21 21:45:00
+939,2011-06-22 09:46:00,SERC,"Knoxville, Tennessee",Severe Weather,0,106300,2023-12-05 09:46:00,2023-12-05 09:46:00,2011-06-22 09:46:00
+940,2011-06-22 19:00:00,SERC,Alabama; Georgia,Severe Thunderstorms,316,75101,2023-12-05 01:00:00,2023-12-05 01:00:00,2011-06-22 19:00:00
+941,2011-06-22 20:12:00,WECC,"Knoble Substation, Spanaway, Washington",Vandalism,0,0,2023-12-05 20:12:00,2023-12-05 20:12:00,2011-06-22 20:12:00
+942,2011-06-23 08:10:00,NPCC,"Highgate, Vermont",Vandalism,0,0,2023-12-05 09:00:00,2023-12-05 09:00:00,2011-06-23 08:10:00
+943,2011-06-24 18:30:00,SERC,North/North Central Alabama; Georgia,Severe Thunderstorms,340,102275,2023-12-05 01:30:00,2023-12-05 01:30:00,2011-06-24 18:30:00
+944,2011-06-26 16:46:00,SPP,Southwest Kansas,Public Appeal to Reduce Electricity Usage,0,0,2023-12-05 07:59:00,2023-12-05 07:59:00,2011-06-26 16:46:00
+945,2011-06-26 18:00:00,SERC,Alabama; Georgia,Severe Thunderstorms,300,90160,2023-12-05 13:00:00,2023-12-05 13:00:00,2011-06-26 18:00:00
+946,2011-06-27 00:00:00,SERC,Illinois; Missouri,Severe Thunderstorms,0,80000,2023-12-05 01:00:00,2023-12-05 01:00:00,2011-06-27 00:00:00
+947,2011-06-27 15:00:00,TRE,Texas,Public Appeal to Reduce Electricity Usage,0,0,2023-12-05 19:00:00,2023-12-05 19:00:00,2011-06-27 15:00:00
+948,2011-06-27 18:55:00,WECC,"Olympic Pipeline Substation, Washington",Vandalism,0,0,2023-12-05 18:55:00,2023-12-05 18:55:00,2011-06-27 18:55:00
+949,2011-06-29 11:30:00,SPP,"Panhandle and Muleshoe, Texas",Public Appeal to Reduce Electricity Usage,0,0,2023-12-05 18:04:00,2023-12-05 18:04:00,2011-06-29 11:30:00
+950,2011-06-30 14:11:00,WECC,"Phoenix, Arizona",Major System Interruption/Load Shed,5299,160000,2023-12-05 23:25:00,2023-12-05 23:25:00,2011-06-30 14:11:00
+951,2011-06-30 22:30:00,RFC,Illinois,Severe Weather,0,121000,2023-12-05 17:00:00,2023-12-05 17:00:00,2011-06-30 22:30:00
+952,2011-06-30 22:31:00,WECC,"Olympic Pipeline Substation, Washington",Vandalism,0,0,2023-12-05 22:31:00,2023-12-05 22:31:00,2011-06-30 22:31:00
+953,2011-07-01 08:00:00,NPCC,"CONVEX Local Control Center, Connecticut",Vandalism,0,0,2023-12-05 08:01:00,2023-12-05 08:01:00,2011-07-01 08:00:00
+954,2011-07-01 16:38:00,RFC,Greene County Ohio,Vandalism,,0,2023-12-05 22:38:00,2023-12-05 22:38:00,2011-07-01 16:38:00
+955,2011-07-01 17:00:00,MRO,Southwest and South Central Minnesota,Severe Weather,0,70000,2023-12-05 20:00:00,2023-12-05 20:00:00,2011-07-01 17:00:00
+956,2011-07-02 20:15:00,RFC,"South East, Lower Peninsula, Michigan",Severe Weather,0,182000,2023-12-05 22:00:00,2023-12-05 22:00:00,2011-07-02 20:15:00
+957,2011-07-04 18:00:00,SERC,Virginia,Severe Weather,150,51580,2023-12-05 21:00:00,2023-12-05 21:00:00,2011-07-04 18:00:00
+958,2011-07-05 10:40:00,WECC,West Valley Substation Utah,Vandalism,0,0,2023-12-05 11:37:00,2023-12-05 11:37:00,2011-07-05 10:40:00
+959,2011-07-06 09:51:00,NPCC,Vermont,Vandalism,,0,2023-12-05 09:52:00,2023-12-05 09:52:00,2011-07-06 09:51:00
+960,2011-07-08 10:00:00,MRO,"Saginaw, Minnesota",Vandalism,0,0,2023-12-05 10:00:00,2023-12-05 10:00:00,2011-07-08 10:00:00
+961,2011-07-08 10:00:00,RFC,"PJM Corporate Office, Pennsylvania",Suspected Cyber Attack,0,0,2023-12-05 09:00:00,2023-12-05 09:00:00,2011-07-08 10:00:00
+962,2011-07-11 09:00:00,RFC,Illinois,Severe Weather,0,500000,2023-12-05 09:00:00,2023-12-05 09:00:00,2011-07-11 09:00:00
+963,2011-07-11 09:00:00,RFC,Michigan,Severe Weather,254,103000,2023-12-05 10:25:00,2023-12-05 10:25:00,2011-07-11 09:00:00
+964,2011-07-11 11:15:00,RFC,Western and Southern Lower Peninsula Michigan,Severe Weather,0,85000,2023-12-05 08:15:00,2023-12-05 08:15:00,2011-07-11 11:15:00
+965,2011-07-11 13:13:00,RFC,Southwest Ohio,Vandalism,0,0,2023-12-05 13:13:00,2023-12-05 13:13:00,2011-07-11 13:13:00
+966,2011-07-11 13:30:00,NPCC,Maine,Vandalism,,0,2023-12-05 13:30:00,2023-12-05 13:30:00,2011-07-11 13:30:00
+967,2011-07-11 14:27:00,RFC,"Indiana, Michigan, Ohio",Severe Weather,0,120000,2023-12-05 15:50:00,2023-12-05 15:50:00,2011-07-11 14:27:00
+968,2011-07-12 12:00:00,NPCC,Maine,Vandalism,,0,2023-12-05 12:00:00,2023-12-05 12:00:00,2011-07-12 12:00:00
+969,2011-07-12 20:20:00,WECC,California,Suspected Physical Attack,0,0,2023-12-05 21:30:00,2023-12-05 21:30:00,2011-07-12 20:20:00
+970,2011-07-13 17:19:00,WECC,"Pueblo, Colorado",Load Shed,580,0,2023-12-05 22:03:00,2023-12-05 22:03:00,2011-07-13 17:19:00
+971,2011-07-14 11:00:00,TRE,Texas,Public Appeal to Reduce Electricity Usage,0,0,2023-12-05 19:00:00,2023-12-05 19:00:00,2011-07-14 11:00:00
+972,2011-07-18 17:00:00,RFC,Southeast Michigan,Severe Weather,,197166,2023-12-05 13:30:00,2023-12-05 13:30:00,2011-07-18 17:00:00
+973,2011-07-19 11:45:00,NPCC,Maine,Vandalism,,0,2023-12-05 15:00:00,2023-12-05 15:00:00,2011-07-19 11:45:00
+974,2011-07-20 09:10:00,WECC,"Frederickson Substation, Washington",Vandalism,,0,2023-12-05 16:30:00,2023-12-05 16:30:00,2011-07-20 09:10:00
+975,2011-07-21 12:32:00,RFC,"Lower Peninsula, Michigan",Public Appeal to Reduce Electricity Usage,8881,0,2023-12-05 06:30:00,2023-12-05 06:30:00,2011-07-21 12:32:00
+976,2011-07-21 13:00:00,SERC,"Springfield, Illinois",Public Appeal to Reduce Electricity Usage,,0,2023-12-05 15:00:00,2023-12-05 15:00:00,2011-07-21 13:00:00
+977,2011-07-22 11:00:00,NPCC,"Upstate, New York",Public Appeal to Reduce Electricity Usage,,0,2023-12-05 18:00:00,2023-12-05 18:00:00,2011-07-22 11:00:00
+978,2011-07-22 11:34:00,RFC,Ohio,Load Shed,206,23000,2023-12-05 17:26:00,2023-12-05 17:26:00,2011-07-22 11:34:00
+979,2011-07-23 02:30:00,RFC,Illinois,Severe Weather,0,169000,2023-12-05 09:00:00,2023-12-05 09:00:00,2011-07-23 02:30:00
+980,2011-07-24 14:34:00,NPCC,"Southern, New Hampshire",Vandalism,0,0,2023-12-05 15:47:00,2023-12-05 15:47:00,2011-07-24 14:34:00
+981,2011-07-26 12:01:00,SPP,"Backup Control Center, Oklahoma",Vandalism,0,0,2023-12-05 12:01:00,2023-12-05 12:01:00,2011-07-26 12:01:00
+982,2011-07-27 12:07:00,WECC,"Fife, Washington",Vandalism,,0,2023-12-05 12:08:00,2023-12-05 12:08:00,2011-07-27 12:07:00
+983,2011-07-28 07:26:00,SERC,"Daviess County, Kentucky",Fuel Supply Deficiency (Coal),,0,2023-12-05 07:26:00,2023-12-05 07:26:00,2011-07-28 07:26:00
+984,2011-07-28 00:14:00,RFC,"Entire ComEd Territory, Indiana",Severe Weather,0,201000,2023-12-05 12:00:00,2023-12-05 12:00:00,2011-07-28 00:14:00
+985,2011-07-28 13:32:00,RFC,Indiana  ,Vandalism,,0,2023-12-05 13:32:00,2023-12-05 13:32:00,2011-07-28 13:32:00
+986,2011-07-28 19:25:00,WECC,"Spanaway, Washington",Vandalism,,0,2023-12-05 19:25:00,2023-12-05 19:25:00,2011-07-28 19:25:00
+987,2011-07-29 11:46:00,WECC,"Fredrickson, Washington",Vandalism,,0,2023-12-05 17:00:00,2023-12-05 17:00:00,2011-07-29 11:46:00
+988,2011-07-29 20:45:00,RFC,Central New Jersey,Severe Weather,,67900,2023-12-05 04:24:00,2023-12-05 04:24:00,2011-07-29 20:45:00
+989,2011-08-01 15:00:00,TRE,Texas,Public Appeal to Reduce Electricity Usage,0,0,2023-12-05 19:00:00,2023-12-05 19:00:00,2011-08-01 15:00:00
+990,2011-08-01 14:18:00,WECC,"Jefferson, Oregon",Vandalism,,0,2023-12-05 14:18:00,2023-12-05 14:18:00,2011-08-01 14:18:00
+991,2011-08-02 21:30:00,RFC,"Northeast, Illinois",Severe Weather,0,71500,2023-12-05 19:00:00,2023-12-05 19:00:00,2011-08-02 21:30:00
+992,2011-08-02 10:15:00,SPP,Oklahoma,Public Appeal to Reduce Electricity Usage,,0,2023-12-05 09:16:00,2023-12-05 09:16:00,2011-08-02 10:15:00
+993,2011-08-03 10:00:00,NPCC,Western New York,Fuel Supply Deficiency (Coal),675,0,2023-12-05 10:00:00,2023-12-05 10:00:00,2011-08-03 10:00:00
+994,2011-08-03 16:30:00,SPP,Central Arkansas,Public Appeal to Reduce Electricity Usage,0,0,2023-12-05 21:00:00,2023-12-05 21:00:00,2011-08-03 16:30:00
+995,2011-08-03 16:29:00,SPP,Northeast Oklahoma,Public Appeal to Reduce Electricity Usage,300,0,2023-12-05 23:40:00,2023-12-05 23:40:00,2011-08-03 16:29:00
+996,2011-08-04 10:30:00,SPP,"Arkansas, Oklahoma, Texas",Public Appeal to Reduce Electricity Usage,,0,2023-12-05 16:00:00,2023-12-05 16:00:00,2011-08-04 10:30:00
+997,2011-08-08 09:30:00,RFC,"Greene County, Ohio",Suspected Physical Attack,0,0,2023-12-05 09:30:00,2023-12-05 09:30:00,2011-08-08 09:30:00
+998,2011-08-08 20:58:00,SPP,Northern and Central Oklahoma,Severe Weather,,54000,2023-12-05 16:30:00,2023-12-05 16:30:00,2011-08-08 20:58:00
+999,2011-08-08 19:36:00,SPP,Oklahoma,Electrical System Separation (Islanding),92,14500,2023-12-05 12:00:00,2023-12-05 12:00:00,2011-08-08 19:36:00
+1000,2011-08-08 09:35:00,WECC,"Collins Substation, Washington",Vandalism,,0,2023-12-05 16:00:00,2023-12-05 16:00:00,2011-08-08 09:35:00
+1001,2011-08-09 10:26:00,WECC,"Polk Substation, Tacoma, Washington",Vandalism,,0,2023-12-05 17:00:00,2023-12-05 17:00:00,2011-08-09 10:26:00
+1002,2011-08-13 16:41:00,SERC,Kentucky,Severe Weather,0,181700,2023-12-05 19:00:00,2023-12-05 19:00:00,2011-08-13 16:41:00
+1003,2011-08-15 02:05:00,WECC,Utah,Vandalism,0,0,2023-12-05 03:40:00,2023-12-05 03:40:00,2011-08-15 02:05:00
+1004,2011-08-18 09:51:00,WECC,"Collins Substation, Washington",Suspected Physical Attack,,0,2023-12-05 16:00:00,2023-12-05 16:00:00,2011-08-18 09:51:00
+1005,2011-08-20 17:42:00,RFC,Southeastern Michigan,Severe Weather,254,65000,2023-12-05 20:00:00,2023-12-05 20:00:00,2011-08-20 17:42:00
+1006,2011-08-21 22:45:00,,Puerto Rico,Severe Weather,2200,931000,2023-12-05 22:45:00,2023-12-05 22:45:00,2011-08-21 22:45:00
+1007,2011-08-22 10:05:00,WECC,"Collins Substation, Washington",Suspected Physical Attack,,0,2023-12-05 16:00:00,2023-12-05 16:00:00,2011-08-22 10:05:00
+1008,2011-08-23 13:51:00,RFC,Virginia,Earthquake,0,0,2023-12-05 13:51:00,2023-12-05 13:51:00,2011-08-23 13:51:00
+1009,2011-08-23 10:30:00,SPP,"Southeastern New Mexico,  Texas Panhandle",Public Appeal to Reduce Electricity Usage,0,0,2023-12-05 16:54:00,2023-12-05 16:54:00,2011-08-23 10:30:00
+1010,2011-08-23 15:43:00,TRE,Texas,Public Appeal to Reduce Electricity Usage,0,0,2023-12-05 19:00:00,2023-12-05 19:00:00,2011-08-23 15:43:00
+1011,2011-08-24 13:20:00,TRE,Texas,Public Appeal to Reduce Electricity Usage,0,0,2023-12-05 19:00:00,2023-12-05 19:00:00,2011-08-24 13:20:00
+1012,2011-08-24 07:45:00,TRE,"Houston area, Texas",Severe Weather,485,79000,2023-12-05 06:00:00,2023-12-05 06:00:00,2011-08-24 07:45:00
+1013,2011-08-24 14:51:00,SPP,"Arkansas, Louisiana, Texas",Severe Weather,,53064,2023-12-05 22:00:00,2023-12-05 22:00:00,2011-08-24 14:51:00
+1014,2011-08-25 00:01:00,NPCC,Maine,Suspected Physical Attack,0,0,2023-12-05 00:01:00,2023-12-05 00:01:00,2011-08-25 00:01:00
+1015,2011-08-25 00:30:00,RFC,"Cleveland area, Ohio",Severe Weather,,107833,2023-12-05 20:00:00,2023-12-05 20:00:00,2011-08-25 00:30:00
+1016,2011-08-26 00:30:00,RFC,Pennsylvania,Severe Weather,,200717,2023-12-05 00:30:00,2023-12-05 00:30:00,2011-08-26 00:30:00
+1017,2011-08-27 23:05:00,RFC,District of Columbia; Maryland,Severe Weather,,220000,2023-12-05 15:30:00,2023-12-05 15:30:00,2011-08-27 23:05:00
+1018,2011-08-27 23:00:00,RFC,Maryland,Severe Weather,0,108000,2023-12-05 08:00:00,2023-12-05 08:00:00,2011-08-27 23:00:00
+1019,2011-08-27 22:00:00,RFC,Southern New Jersey,Severe Weather,320,140000,2023-12-05 16:00:00,2023-12-05 16:00:00,2011-08-27 22:00:00
+1020,2011-08-27 22:00:00,RFC,Pennsylvania,Severe Weather,,264000,2023-12-05 22:00:00,2023-12-05 22:00:00,2011-08-27 22:00:00
+1021,2011-08-27 20:30:00,RFC,Maryland,Severe Weather,1114,760113,2023-12-05 23:30:00,2023-12-05 23:30:00,2011-08-27 20:30:00
+1022,2011-08-27 13:00:00,RFC,Delaware; Maryland,Severe Weather,,165000,2023-12-05 13:00:00,2023-12-05 13:00:00,2011-08-27 13:00:00
+1023,2011-08-27 19:00:00,SERC,Eastern North Carolina,Severe Weather,200,136000,2023-12-05 13:31:00,2023-12-05 13:31:00,2011-08-27 19:00:00
+1024,2011-08-27 10:33:00,SERC,North Carolina; Virginia,Severe Weather,0,1000000,2023-12-05 14:00:00,2023-12-05 14:00:00,2011-08-27 10:33:00
+1025,2011-08-27 02:57:00,SERC,Eastern North Carolina,Severe Weather,0,285465,2023-12-05 23:30:00,2023-12-05 23:30:00,2011-08-27 02:57:00
+1026,2011-08-27 02:00:00,SERC,Wilson County North Carolina,Distribution System Interruption,2,1200,2023-12-05 05:15:00,2023-12-05 05:15:00,2011-08-27 02:00:00
+1027,2011-08-28 12:30:00,NPCC,New York,Severe Weather,,116000,2023-12-05 12:31:00,2023-12-05 12:31:00,2011-08-28 12:30:00
+1028,2011-08-28 12:10:00,NPCC,Eastern Massachusetts,Severe Weather,,50000,2023-12-05 12:11:00,2023-12-05 12:11:00,2011-08-28 12:10:00
+1029,2011-08-28 09:42:00,NPCC,Eastern New York,Severe Weather,,100000,2023-12-05 00:01:00,2023-12-05 00:01:00,2011-08-28 09:42:00
+1030,2011-08-28 07:40:00,NPCC,Southwest Connecticut,Severe Weather,,158000,2023-12-05 07:40:00,2023-12-05 07:40:00,2011-08-28 07:40:00
+1031,2011-08-28 07:00:00,NPCC,New York,Severe Weather,0,99700,2023-12-05 00:01:00,2023-12-05 00:01:00,2011-08-28 07:00:00
+1032,2011-08-28 05:01:00,NPCC,Borough's and Westshester County New York,Severe Weather,,50000,2023-12-05 05:01:00,2023-12-05 05:01:00,2011-08-28 05:01:00
+1033,2011-08-28 05:00:00,NPCC,"Long Island, New York",Severe Weather,0,152261,2023-12-05 05:00:00,2023-12-05 05:00:00,2011-08-28 05:00:00
+1034,2011-08-28 00:01:00,NPCC,"Mid-Hudson, New York",Severe Weather,,180000,2023-12-05 00:01:00,2023-12-05 00:01:00,2011-08-28 00:01:00
+1035,2011-08-28 02:58:00,RFC,Eastern and Northeastern Pennsylvania,Severe Weather,110,284000,2023-12-05 02:58:00,2023-12-05 02:58:00,2011-08-28 02:58:00
+1036,2011-08-28 00:30:00,RFC,Northern and Central New Jersey,Severe Weather,,650000,2023-12-05 00:30:00,2023-12-05 00:30:00,2011-08-28 00:30:00
+1037,2011-08-28 00:23:00,RFC,New Jersey,Severe Weather,500,665000,2023-12-05 00:23:00,2023-12-05 00:23:00,2011-08-28 00:23:00
+1038,2011-08-28 20:55:00,WECC,"Calapooya Substation, Oregon",Suspected Physical Attack,0,0,2023-12-05 23:39:00,2023-12-05 23:39:00,2011-08-28 20:55:00
+1039,2011-08-31 12:52:00,RFC,Southwest Ohio,Suspected Physical Attack,0,0,2023-12-05 12:52:00,2023-12-05 12:52:00,2011-08-31 12:52:00
+1040,2011-09-01 08:13:00,WECC,"Graham Substaion, Washington",Vandalism,,0,2023-12-05 16:00:00,2023-12-05 16:00:00,2011-09-01 08:13:00
+1041,2011-09-03 14:00:00,RFC,"Southeast Lower Peninsula, Michigan",Severe Weather,0,105000,2023-12-05 18:00:00,2023-12-05 18:00:00,2011-09-03 14:00:00
+1042,2011-09-05 16:30:00,SERC,Alabama; Georgia,Severe Weather,177,53295,2023-12-05 15:45:00,2023-12-05 15:45:00,2011-09-05 16:30:00
+1043,2011-09-07 00:08:00,NPCC,Western Connecticut; New York,Actual Physical Attack,0,0,2023-12-05 10:50:00,2023-12-05 10:50:00,2011-09-07 00:08:00
+1044,2011-09-08 15:28:00,WECC,Arizona; California,Transmission/Distribution Interruption; Load Shed; Generation Inadequacy,7000,2000000,2023-12-05 15:30:00,2023-12-05 15:30:00,2011-09-08 15:28:00
+1045,2011-09-08 19:53:00,WECC,"Collins Substation, Tacoma, Washington",Vandalism,,0,2023-12-05 16:00:00,2023-12-05 16:00:00,2011-09-08 19:53:00
+1046,2011-09-12 09:15:00,RFC,"English Creek, New Jersey",Vandalism,0,0,2023-12-05 15:30:00,2023-12-05 15:30:00,2011-09-12 09:15:00
+1047,2011-09-13 11:43:00,WECC,"Lacamas Substation, Roy, Washington",Vandalism,,0,2023-12-05 16:00:00,2023-12-05 16:00:00,2011-09-13 11:43:00
+1048,2011-09-13 14:03:00,NPCC,"Saranac, New York",Vandalism,,0,2023-12-05 18:21:00,2023-12-05 18:21:00,2011-09-13 14:03:00
+1049,2011-09-14 09:00:00,WECC,"Salt Lake County, Utah",Vandalism,0,0,2023-12-05 14:00:00,2023-12-05 14:00:00,2011-09-14 09:00:00
+1050,2011-09-20 12:55:00,WECC,"Lacamas Substaion, Washington",Vandalism,,0,2023-12-05 17:00:00,2023-12-05 17:00:00,2011-09-20 12:55:00
+1051,2011-09-21 10:30:00,RFC,"Hockessin, Delaware",Suspected Physical Attack,0,0,2023-12-05 10:30:00,2023-12-05 10:30:00,2011-09-21 10:30:00
+1052,2011-09-21 14:37:00,,Puerto Rico,Generation Inadequacy; Load Shed,600,319616,2023-12-05 15:47:00,2023-12-05 15:47:00,2011-09-21 14:37:00
+1053,2011-09-22 14:50:00,RFC,"Montgomery County, Ohio",Vandalism,,0,2023-12-05 14:51:00,2023-12-05 14:51:00,2011-09-22 14:50:00
+1054,2011-09-23 09:04:00,NPCC,"North Haven, Connecticut",Vandalism,0,0,2023-12-05 09:04:00,2023-12-05 09:04:00,2011-09-23 09:04:00
+1055,2011-09-24 16:17:00,WECC,"Collins Substation, Tacoma, Washington",Vandalism,,0,2023-12-05 16:00:00,2023-12-05 16:00:00,2011-09-24 16:17:00
+1056,2011-09-26 10:15:00,RFC,"McKee City, New Jersey",Vandalism,0,0,2023-12-05 10:15:00,2023-12-05 10:15:00,2011-09-26 10:15:00
+1057,2011-09-29 05:00:00,TRE,"Houston metro area, Texas",Severe Weather,,65000,2023-12-05 06:00:00,2023-12-05 06:00:00,2011-09-29 05:00:00
+1058,2011-09-28 09:30:00,NPCC,"Watertown, Connecticut",Vandalism,,0,2023-12-05 13:00:00,2023-12-05 13:00:00,2011-09-28 09:30:00
+1059,2011-09-28 14:59:00,RFC,"Dorothy, New Jersey",Vandalism,0,0,2023-12-05 14:59:00,2023-12-05 14:59:00,2011-09-28 14:59:00
+1060,2011-09-28 16:41:00,RFC,"Bethany Beach, Delaware",Suspected Physical Attack,0,0,2023-12-05 16:41:00,2023-12-05 16:41:00,2011-09-28 16:41:00
+1061,2011-09-29 18:44:00,WECC,"Collins Substation, Tacoma, Washington",Vandalism,,0,2023-12-05 16:00:00,2023-12-05 16:00:00,2011-09-29 18:44:00
+1062,2011-09-30 08:22:00,RFC,"Wilmington, Delaware",Suspected Physical Attack,0,0,2023-12-05 08:22:00,2023-12-05 08:22:00,2011-09-30 08:22:00
+1063,2011-10-06 11:07:00,WECC,"Oquirrh Substation, Utah",Vandalism,0,0,2023-12-05 11:07:00,2023-12-05 11:07:00,2011-10-06 11:07:00
+1064,2011-10-07 08:04:00,WECC,"Olympic Pipeline, Spanaway, Washington",Suspected Physical Attack,,0,2023-12-05 16:00:00,2023-12-05 16:00:00,2011-10-07 08:04:00
+1065,2011-10-14 14:20:00,RFC,"English Creek, New Jersey",Vandalism,0,0,2023-12-05 14:20:00,2023-12-05 14:20:00,2011-10-14 14:20:00
+1066,2011-10-17 03:34:00,RFC,"Seat Pleasant, Maryland",Vandalism,0,0,2023-12-05 10:42:00,2023-12-05 10:42:00,2011-10-17 03:34:00
+1067,2011-10-17 15:44:00,RFC,Southwest Ohio,Vandalism,7,2000,2023-12-05 15:44:00,2023-12-05 15:44:00,2011-10-17 15:44:00
+1068,2011-10-18 03:45:00,RFC,"Holmesburg Substation, Philadelphia, Pennsylvania",Suspected Physical Attack,0,0,2023-12-05 05:25:00,2023-12-05 05:25:00,2011-10-18 03:45:00
+1069,2011-10-20 07:15:00,RFC,"McKee, New Jersey",Vandalism,0,0,2023-12-05 07:15:00,2023-12-05 07:15:00,2011-10-20 07:15:00
+1070,2011-10-24 23:37:00,RFC,"Holmesburg Substation, Philadelphia, Pennsylvania",Suspected Physical Attack,0,0,2023-12-05 23:00:00,2023-12-05 23:00:00,2011-10-24 23:37:00
+1071,2011-10-26 05:00:00,WECC,"Denver; Ft. Collins, Colorado",Severe Weather,0,204000,2023-12-05 15:00:00,2023-12-05 15:00:00,2011-10-26 05:00:00
+1072,2011-10-27 01:00:00,RFC,"Munster, Indiana",Vandalism,,0,2023-12-05 02:36:00,2023-12-05 02:36:00,2011-10-27 01:00:00
+1073,2011-10-29 08:59:00,RFC,Pennsylvania,Severe Weather,0,312359,2023-12-05 19:58:00,2023-12-05 19:58:00,2011-10-29 08:59:00
+1074,2011-10-29 08:59:00,RFC,Pennsylvania,Severe Weather,0,50000,2023-12-05 15:00:00,2023-12-05 15:00:00,2011-10-29 08:59:00
+1075,2011-10-29 09:59:00,RFC,Northwest and Central New Jersey,Severe Weather,0,379000,2023-12-05 13:00:00,2023-12-05 13:00:00,2011-10-29 09:59:00
+1076,2011-10-29 11:18:00,NPCC,Southeast New York,Severe Weather,0,161151,2023-12-05 00:00:00,2023-12-05 00:00:00,2011-10-29 11:18:00
+1077,2011-10-29 12:57:00,RFC,"Harrisburg, Lehigh Valley, Lancaster Region Pennsylvania",Severe Weather,0,146721,2023-12-05 23:00:00,2023-12-05 23:00:00,2011-10-29 12:57:00
+1078,2011-10-29 14:00:00,RFC,Southeast Pennsylvania,Severe Weather,0,109335,2023-12-05 14:00:00,2023-12-05 14:00:00,2011-10-29 14:00:00
+1079,2011-10-29 14:30:00,RFC,New Jersey,Severe Weather,125,197000,2023-12-05 12:00:00,2023-12-05 12:00:00,2011-10-29 14:30:00
+1080,2011-10-29 15:00:00,NPCC,"Mid-Hudson Valley Region, New York",Severe Weather,,145000,2023-12-05 08:15:00,2023-12-05 08:15:00,2011-10-29 15:00:00
+1081,2011-10-29 16:14:00,NPCC,Connecticut; Maine; Massachusetts; New Hampshire; Rhode Island,Severe Weather,0,1418100,2023-12-05 16:00:00,2023-12-05 16:00:00,2011-10-29 16:14:00
+1082,2011-10-29 16:16:00,NPCC,New York City area,Severe Weather,0,50000,2023-12-05 21:30:00,2023-12-05 21:30:00,2011-10-29 16:16:00
+1083,2011-10-29 20:00:00,NPCC/RFC,New Jersey; New York,Severe Weather,,74000,2023-12-05 20:00:00,2023-12-05 20:00:00,2011-10-29 20:00:00
+1084,2011-11-04 10:46:00,WECC,"Sweetwater County, Wyoming",Vandalism,0,0,2023-12-05 10:46:00,2023-12-05 10:46:00,2011-11-04 10:46:00
+1085,2011-11-13 11:30:00,NPCC,"Cate Road, Deerfield, New Hampshire",Vandalism,0,0,2023-12-05 12:00:00,2023-12-05 12:00:00,2011-11-13 11:30:00
+1086,2011-11-14 14:24:00,RFC,"McKee, New Jersey",Vandalism,0,0,2023-12-05 14:24:00,2023-12-05 14:24:00,2011-11-14 14:24:00
+1087,2011-11-22 23:16:00,RFC,Indiana,Suspected Physical Attack,0,0,2023-12-05 23:16:00,2023-12-05 23:16:00,2011-11-22 23:16:00
+1088,2011-11-30 10:00:00,WECC,"Orchard Substation, Washington",Vandalism,0,0,2023-12-05 11:00:00,2023-12-05 11:00:00,2011-11-30 10:00:00
+1089,2011-11-30 16:56:00,WECC,"City of Los Angeles, California",Severe Weather,0,150000,2023-12-05 10:00:00,2023-12-05 10:00:00,2011-11-30 16:56:00
+1090,2011-12-01 00:45:00,WECC,Southern California,Severe Weather,0,91690,2023-12-05 21:00:00,2023-12-05 21:00:00,2011-12-01 00:45:00
+1091,2011-12-01 03:29:00,WECC,Northern California,Severe Weather,300,100000,2023-12-05 13:05:00,2023-12-05 13:05:00,2011-12-01 03:29:00
+1092,2011-12-01 10:00:00,WECC,Wasatch Front Area Utah,Severe Weather,0,60000,2023-12-05 13:11:00,2023-12-05 13:11:00,2011-12-01 10:00:00
+1093,2011-12-02 16:15:00,TRE,Rusk County Texas,Suspected Physical Attack,,0,2023-12-05 20:30:00,2023-12-05 20:30:00,2011-12-02 16:15:00
+1094,2011-12-05 14:00:00,WECC,"Tacoma, Washington",Suspected Physical Attack,,0,2023-12-05 17:00:00,2023-12-05 17:00:00,2011-12-05 14:00:00
+1095,2011-12-06 08:00:00,MRO,"Bismarck-Mandan, North Dakota",Public Appeal to Reduce Electricity Usage,155,34500,2023-12-05 20:00:00,2023-12-05 20:00:00,2011-12-06 08:00:00
+1096,2011-12-06 17:38:00,RFC,"Montague, Michigan",Suspected Physical Attack,0,0,2023-12-05 11:04:00,2023-12-05 11:04:00,2011-12-06 17:38:00
+1097,2011-12-07 19:29:00,SERC,Central Virginia,Severe Weather,240,60000,2023-12-05 22:57:00,2023-12-05 22:57:00,2011-12-07 19:29:00
+1098,2011-12-08 08:45:00,WECC,"Tacoma, Washington",Suspected Physical Attack,,0,2023-12-05 16:30:00,2023-12-05 16:30:00,2011-12-08 08:45:00
+1099,2011-12-13 03:19:00,RFC,Clinton County Ohio,Suspected Physical Attack,,0,2023-12-05 03:19:00,2023-12-05 03:19:00,2011-12-13 03:19:00
+1100,2011-12-19 08:48:00,WECC,"Croft Substation, Tacoma, Washington",Suspected Physical Attack,,0,2023-12-05 16:00:00,2023-12-05 16:00:00,2011-12-19 08:48:00
+1101,2011-12-20 07:45:00,WECC,"Sweet Home, Oregon",Suspected Physical Attack,12,2500,2023-12-05 08:45:00,2023-12-05 08:45:00,2011-12-20 07:45:00
+1102,2011-12-20 09:30:00,WECC,"Tacoma, Washington",Suspected Physical Attack,,0,2023-12-05 09:31:00,2023-12-05 09:31:00,2011-12-20 09:30:00
+1103,2011-12-21 10:30:00,WECC,"Boise, Idaho",Suspected Cyber Attack,0,0,2023-12-05 10:30:00,2023-12-05 10:30:00,2011-12-21 10:30:00
+1104,2011-12-31 21:26:00,WECC,"Tacoma, Washington",Suspected Physical Attack,,0,2023-12-05 21:26:00,2023-12-05 21:26:00,2011-12-31 21:26:00
+1105,2012-01-04 12:14:00,WECC,"Tacoma, Washington",Suspected physical attack,,0,2012-01-04 12:14:00,2012-01-04 12:14:00,2012-01-04 12:14:00
+1106,2012-01-05 10:35:00,SPP,"CSWS/AEP West territory, Oklahoma",Sabotage,0,0,2012-01-05 12:25:00,2012-01-05 12:25:00,2012-01-05 10:35:00
+1107,2012-01-05 10:28:00,SPP,"Creek County, Oklahoma",Suspected physical attack,,0,2012-01-05 12:25:00,2012-01-05 12:25:00,2012-01-05 10:28:00
+1108,2012-01-09 14:30:00,NPCC,"Watertown, Connecticut",Vandalism,,0,2012-01-09 15:30:00,2012-01-09 15:30:00,2012-01-09 14:30:00
+1109,2012-01-09 13:36:00,SERC,Louisiana,Load Shed,150,1,2012-01-11 01:05:00,2012-01-11 01:05:00,2012-01-09 13:36:00
+1110,2012-01-10 21:30:00,TRE,"Rusk County, Texas",Load Shed,,0,2012-01-10 21:30:00,2012-01-10 21:30:00,2012-01-10 21:30:00
+1111,2012-01-11 07:19:00,WECC,Nevada,Suspected Physical Attack,0,0,2012-01-11 09:07:00,2012-01-11 09:07:00,2012-01-11 07:19:00
+1112,2012-01-12 08:26:00,RFC,"Newark, Delaware",Physical Attack,0,0,2012-01-12 08:26:00,2012-01-12 08:26:00,2012-01-12 08:26:00
+1113,2012-01-13 09:20:00,RFC,"Newark, Delaware",Physical Attack,0,0,2012-01-13 09:20:00,2012-01-13 09:20:00,2012-01-13 09:20:00
+1114,2012-01-15 09:35:00,WECC,"Tacoma, Washington",Vandalism,,0,2012-01-15 09:35:00,2012-01-15 09:35:00,2012-01-15 09:35:00
+1115,2012-01-17 10:31:00,TRE,"Austin, Texas",Suspected Cyber Attack,,0,2012-01-17 17:21:00,2012-01-17 17:21:00,2012-01-17 10:31:00
+1116,2012-01-19 07:00:00,WECC,"King, Pierce and Thurston Counties, Washington",Severe Weather - Winter Storm,1600,426000,2012-01-20 15:00:00,2012-01-20 15:00:00,2012-01-19 07:00:00
+1117,2012-01-24 11:22:00,WECC,"Tacoma, Washington",Vandalism,,0,2012-01-24 11:22:00,2012-01-24 11:22:00,2012-01-24 11:22:00
+1118,2012-01-27 09:40:00,WECC,"Frederickson Substation, Spanaway, Washington",Vandalism,,0,2012-01-27 09:40:00,2012-01-27 09:40:00,2012-01-27 09:40:00
+1119,2012-01-29 12:45:00,WECC,"Roosevelt Substation, Tacoma, Washington",Vandalism,,0,2012-01-29 12:45:00,2012-01-29 12:45:00,2012-01-29 12:45:00
+1120,2012-02-11 08:47:00,WECC,"Lamar, Colorado",Suspected Physical Attack,0,0,2012-02-11 10:30:00,2012-02-11 10:30:00,2012-02-11 08:47:00
+1121,2012-02-11 08:55:00,WECC,"Tacoma, Washington",Suspected Physical Attack,,0,2012-02-11 08:55:00,2012-02-11 08:55:00,2012-02-11 08:55:00
+1122,2012-02-13 07:02:00,SERC,"Asheville, North Carolina",Suspected Physical Attack,,0,2012-02-13 16:25:00,2012-02-13 16:25:00,2012-02-13 07:02:00
+1123,2012-02-14 19:20:00,WECC,"Tacoma, Washington",Suspected Physical Attack,,0,2012-02-15 16:00:00,2012-02-15 16:00:00,2012-02-14 19:20:00
+1124,2012-02-15 05:33:00,WECC,"Port Orchard, Washington",Suspected Physical Attack,0,0,2012-02-15 17:30:00,2012-02-15 17:30:00,2012-02-15 05:33:00
+1125,2012-02-17 03:00:00,SERC,"Little Rock, Arkansas",Suspected Cyber Attack,0,0,2012-02-17 11:33:00,2012-02-17 11:33:00,2012-02-17 03:00:00
+1126,2012-02-19 17:00:00,SERC,"Kentucky, Virginia, West Virginia",Severe Weather - Winter Storm,0,90000,2012-02-21 07:33:00,2012-02-21 07:33:00,2012-02-19 17:00:00
+1127,2012-02-23 05:45:00,TRE,"South East College Station, Texas",Suspected Physical Attack,0,0,2012-02-23 15:02:00,2012-02-23 15:02:00,2012-02-23 05:45:00
+1128,2012-02-23 23:12:00,NPCC,"Londonderry, New Hampshire",Suspected Physical Attack,0,0,2012-02-24 01:00:00,2012-02-24 01:00:00,2012-02-23 23:12:00
+1129,2012-02-24 11:24:00,WECC,"Spanaway, Washington",Suspected Physical Attack,,0,2012-02-24 11:49:00,2012-02-24 11:49:00,2012-02-24 11:24:00
+1130,2012-02-28 02:59:00,WECC,"Sacramento, California",Electrical System Separation (Islanding),1,1,2012-02-28 06:12:00,2012-02-28 06:12:00,2012-02-28 02:59:00
+1131,2012-02-28 07:00:00,WECC,Coos County Oregon,Suspected Physical Attack,0,0,2012-02-28 07:00:00,2012-02-28 07:00:00,2012-02-28 07:00:00
+1132,2012-03-02 12:37:00,SERC,Northern Alabama; Southeast Tennessee,Severe Weather - Tornadoes ,500,0,2012-03-05 12:01:00,2012-03-05 12:01:00,2012-03-02 12:37:00
+1133,2012-03-02 13:45:00,SERC,"Piggott, Arkansas",Operational Failure/Equipment Malfunction,,0,2012-03-02 15:30:00,2012-03-02 15:30:00,2012-03-02 13:45:00
+1134,2012-03-02 21:00:00,RFC,"Southeastern, Michigan",Severe Weather - Winter Storm,371,130000,2012-03-05 16:30:00,2012-03-05 16:30:00,2012-03-02 21:00:00
+1135,2012-03-02 21:00:00,RFC,"Lower Peninsula, Michigan",Severe Weather - Winter Storm,50,140000,2012-03-04 17:30:00,2012-03-04 17:30:00,2012-03-02 21:00:00
+1136,2012-03-04 01:27:00,RFC,"Prince Georges County, Maryland",Suspected Physical Attack,,0,2012-03-04 06:58:00,2012-03-04 06:58:00,2012-03-04 01:27:00
+1137,2012-03-04 13:38:00,SERC,Texas,Suspected Physical Attack,0,0,2012-03-05 11:00:00,2012-03-05 11:00:00,2012-03-04 13:38:00
+1138,2012-03-16 16:00:00,RFC,"New Castle, Delaware",Suspected Physical Attack,0,0,2012-03-16 16:00:00,2012-03-16 16:00:00,2012-03-16 16:00:00
+1139,2012-03-20 08:00:00,TRE,"Houston, Texas",Severe Weather - Thunderstorms,,96000,2012-03-20 13:00:00,2012-03-20 13:00:00,2012-03-20 08:00:00
+1140,2012-03-23 19:34:00,RFC,"Newark, Delaware",Suspected Physical Attack,0,0,2012-03-23 19:34:00,2012-03-23 19:34:00,2012-03-23 19:34:00
+1141,2012-03-26 13:24:00,WECC,"Tacoma, Washington",Suspected Physical Attack,,0,2012-03-26 13:24:00,2012-03-26 13:24:00,2012-03-26 13:24:00
+1142,2012-03-28 10:17:00,WECC,"Graham, Washington",Suspected Physical Attack,,0,2012-03-28 10:17:00,2012-03-28 10:17:00,2012-03-28 10:17:00
+1143,2012-03-29 12:01:00,RFC,"Lansing, Michigan",Electrical System Separation (Islanding),0,0,2012-03-29 12:02:00,2012-03-29 12:02:00,2012-03-29 12:01:00
+1144,2012-03-30 11:10:00,NPCC,Vermont,Suspected Physical Attack,,0,2012-03-30 11:30:00,2012-03-30 11:30:00,2012-03-30 11:10:00
+1145,2012-04-01 20:27:00,MRO,"Council Bluffs, Iowa",Vandalism,0,0,2012-04-03 08:28:00,2012-04-03 08:28:00,2012-04-01 20:27:00
+1146,2012-04-03 11:10:00,NPCC,"West Rutland, Vermont",Vandalism,0,0,2012-04-03 11:25:00,2012-04-03 11:25:00,2012-04-03 11:10:00
+1147,2012-04-03 15:33:00,WECC,"Seattle, Washington",Physical Attack,0,0,2012-04-03 20:25:00,2012-04-03 20:25:00,2012-04-03 15:33:00
+1148,2012-04-04 15:32:00,WECC,"WAPA-SNR Regional Office, California",Suspected Physical Attack,,0,2012-04-06 15:30:00,2012-04-06 15:30:00,2012-04-04 15:32:00
+1149,2012-04-07 14:35:00,RFC,"Newark, Delaware",Physical Attack,0,0,2012-04-07 14:36:00,2012-04-07 14:36:00,2012-04-07 14:35:00
+1150,2012-04-07 12:25:00,RFC,"Newark, Delaware",Physical Attack,0,0,2012-04-07 12:26:00,2012-04-07 12:26:00,2012-04-07 12:25:00
+1151,2012-04-07 09:31:00,RFC,"Newark, Delaware",Physical Attack,0,0,2012-04-07 09:32:00,2012-04-07 09:32:00,2012-04-07 09:31:00
+1152,2012-04-11 09:00:00,NPCC,"North Attleboro, Massachusetts ",Vandalism,0,0,2012-04-11 09:00:00,2012-04-11 09:00:00,2012-04-11 09:00:00
+1153,2012-04-12 08:08:00,WECC,"Tacoma, Washington",Suspected Physical Attack,,0,2012-04-12 16:30:00,2012-04-12 16:30:00,2012-04-12 08:08:00
+1154,2012-04-15 19:38:00,SERC,Georgia,Suspected Physical Attack,0,0,2012-04-15 21:26:00,2012-04-15 21:26:00,2012-04-15 19:38:00
+1155,2012-04-16 15:46:00,RFC,"Southeast, Michigan",Severe Weather - High Winds,218,111393,2012-04-19 02:00:00,2012-04-19 02:00:00,2012-04-16 15:46:00
+1156,2012-04-17 06:11:00,WECC,"San Diego County, California",Suspected Physical Attack,0,0,2012-04-17 17:48:00,2012-04-17 17:48:00,2012-04-17 06:11:00
+1157,2012-04-19 07:53:00,WECC,"Tacoma, Washington",Suspected Physical Attack,,0,2012-04-19 16:00:00,2012-04-19 16:00:00,2012-04-19 07:53:00
+1158,2012-04-20 14:27:00,TRE,"Metropolitan Houston, Texas",Severe Weather - Thunderstorms,,120377,2012-04-21 04:27:00,2012-04-21 04:27:00,2012-04-20 14:27:00
+1159,2012-04-21 15:02:00,NPCC,"East Bridgewater, Massachusetts",Physical Attack,,0,2012-04-21 20:09:00,2012-04-21 20:09:00,2012-04-21 15:02:00
+1160,2012-04-21 20:55:00,WECC,"Tacoma, Washington",Suspected Physical Attack,,0,2012-04-23 16:30:00,2012-04-23 16:30:00,2012-04-21 20:55:00
+1161,2012-04-23 08:11:00,RFC,Northwest Indiana,Suspected Physical Attack,,0,2012-04-23 12:47:00,2012-04-23 12:47:00,2012-04-23 08:11:00
+1162,2012-04-23 11:56:00,WECC,"Snohomish County, Washington",Suspected Physical Attack,,0,2012-04-23 15:35:00,2012-04-23 15:35:00,2012-04-23 11:56:00
+1163,2012-05-07 12:50:00,NPCC,"Williston, Vermont",Vandalism,0,0,2012-05-07 14:00:00,2012-05-07 14:00:00,2012-05-07 12:50:00
+1164,2012-05-07 17:45:00,RFC,Eastern Ohio,Load Shed/Severe Weather  - Lightning Storm,420,1,2012-05-07 18:06:00,2012-05-07 18:06:00,2012-05-07 17:45:00
+1165,2012-05-11 11:05:00,WECC,"Lakewood, Washington",Vandalism,,0,2012-05-11 11:20:00,2012-05-11 11:20:00,2012-05-11 11:05:00
+1166,2012-05-24 15:20:00,NPCC,"Tyngsborough, Massachusetts",Physical Attack,0,0,2012-05-25 17:29:00,2012-05-25 17:29:00,2012-05-24 15:20:00
+1167,2012-05-29 18:30:00,WECC,"Alder Dam, Pierce County, Washington",Physical Attack,,0,2012-05-29 19:40:00,2012-05-29 19:40:00,2012-05-29 18:30:00
+1168,2012-05-29 20:35:00,SPP,"Oklahoma City Metro Area, Oklahoma",Severe Weather - Thunderstorms,0,112000,2012-05-31 10:00:00,2012-05-31 10:00:00,2012-05-29 20:35:00
+1169,2012-05-31 23:45:00,RFC,"Columbus, Ohio",Physical Attack,0,0,2012-06-01 04:30:00,2012-06-01 04:30:00,2012-05-31 23:45:00
+1170,2012-06-02 07:30:00,WECC,"San Francisco, California",Vandalism,,0,2012-06-02 11:35:00,2012-06-02 11:35:00,2012-06-02 07:30:00
+1171,2012-06-06 08:00:00,NPCC,"Delhi, New York",Vandalism,,0,2012-06-06 08:00:00,2012-06-06 08:00:00,2012-06-06 08:00:00
+1172,2012-06-06 12:37:00,RFC,"Columbia Heights, NW, Washington DC",Vandalism,0,0,2012-06-06 12:37:00,2012-06-06 12:37:00,2012-06-06 12:37:00
+1173,2012-06-08 17:20:00,WECC,"Denver Metro Area, Colorado",Load Shed,120,30379,2012-06-08 17:25:00,2012-06-08 17:25:00,2012-06-08 17:20:00
+1174,2012-06-11 19:50:00,SERC,North/Central Alabama; North/Central Georgia,Severe Weather - Thunderstorms,368,110591,2012-06-12 15:00:00,2012-06-12 15:00:00,2012-06-11 19:50:00
+1175,2012-06-12 15:57:00,TRE,"Houston, Texas",Severe Weather - Thunderstorms,920,175000,2012-06-14 04:57:00,2012-06-14 04:57:00,2012-06-12 15:57:00
+1176,2012-06-13 16:55:00,WECC,"San Juan County, New Mexico",Vandalism,0,0,2012-06-13 22:09:00,2012-06-13 22:09:00,2012-06-13 16:55:00
+1177,2012-06-19 04:30:00,MRO,"Minneapolis/St. Paul, Minnesota",Severe Weather - Thunderstorms,0,68200,2012-06-20 23:00:00,2012-06-20 23:00:00,2012-06-19 04:30:00
+1178,2012-06-19 05:30:00,WECC,CAISO Territory California,Fuel Supply Deficiency (Water),0,0,2012-06-21 05:30:00,2012-06-21 05:30:00,2012-06-19 05:30:00
+1179,2012-06-23 18:57:00,NPCC,"North Shore, Massachusetts",Load Shed,51,29250,2012-06-23 19:28:00,2012-06-23 19:28:00,2012-06-23 18:57:00
+1180,2012-06-25 16:04:00,SERC,Central Virginia,Severe Weather - Wind & Rain,600,190000,2012-06-26 13:45:00,2012-06-26 13:45:00,2012-06-25 16:04:00
+1181,2012-06-29 10:45:00,RFC,"New Castle, Delaware",Physical Attack,0,0,2012-06-29 10:45:00,2012-06-29 10:45:00,2012-06-29 10:45:00
+1182,2012-06-29 12:10:00,,Puerto Rico,Equipment Trip & Failure,1800,900000,2012-06-29 17:02:00,2012-06-29 17:02:00,2012-06-29 12:10:00
+1183,2012-06-29 14:10:00,RFC,"Dayton, Ohio",Severe Weather - Thunderstorms,500,175000,2012-07-04 18:00:00,2012-07-04 18:00:00,2012-06-29 14:10:00
+1184,2012-06-29 16:00:00,RFC,Indiana; Michigan; Ohio; West Virginia,Severe Weather - Thunderstorms,0,1355919,2012-07-02 16:00:00,2012-07-02 16:00:00,2012-06-29 16:00:00
+1185,2012-06-29 16:00:00,SERC,"Eastern, Arkansas",Public Appeal to Reduce Electricity Usage,45,7935,2012-06-29 21:00:00,2012-06-29 21:00:00,2012-06-29 16:00:00
+1186,2012-06-29 17:15:00,RFC,Eastern Indiana; Northern Kentucky; Greater Cincinnati area Ohio,Severe Weather - Thunderstorms,2946,4645572,2012-07-02 23:59:00,2012-07-02 23:59:00,2012-06-29 17:15:00
+1187,2012-06-29 18:24:00,RFC,West Virginia,Severe Weather - Thunderstorms,700,265000,2012-07-06 10:00:00,2012-07-06 10:00:00,2012-06-29 18:24:00
+1188,2012-06-29 19:00:00,RFC,Maryland; West Virginia,Severe Weather - Thunderstorms,0,145000,2012-07-07 19:43:00,2012-07-07 19:43:00,2012-06-29 19:00:00
+1189,2012-06-29 22:15:00,RFC,"Montgomery and Prince Georges Counties, Maryland; District of Columbia",Severe Weather - Thunderstorms,3000,425000,2012-07-05 12:52:00,2012-07-05 12:52:00,2012-06-29 22:15:00
+1190,2012-06-29 22:29:00,SERC,Virginia,Severe Weather - Thunderstorms,5000,880000,2012-07-04 15:36:00,2012-07-04 15:36:00,2012-06-29 22:29:00
+1191,2012-06-29 22:43:00,RFC,"Greater Baltimore area, Maryland",Severe Weather - Thunderstorms,1465,600000,2012-07-05 11:50:00,2012-07-05 11:50:00,2012-06-29 22:43:00
+1192,2012-06-29 23:30:00,RFC,Northeast Illinois,Severe Weather - Thunderstorms,0,109000,2012-06-30 02:00:00,2012-06-30 02:00:00,2012-06-29 23:30:00
+1193,2012-06-30 01:00:00,RFC,Delaware; Maryland,Severe Weather - Thunderstorms,0,86390,2012-07-03 01:00:00,2012-07-03 01:00:00,2012-06-30 01:00:00
+1194,2012-06-30 01:15:00,RFC,Atlantic City Electric Service Territory New Jersey,Severe Weather - Thunderstorms,0,205000,2012-07-07 17:33:00,2012-07-07 17:33:00,2012-06-30 01:15:00
+1195,2012-06-30 15:00:00,SERC,Northeast Tennessee,Public Appeal to Reduce Electricity Usage,0,0,2012-07-02 12:00:00,2012-07-02 12:00:00,2012-06-30 15:00:00
+1196,2012-06-30 22:30:00,RFC,"Calvert, Charles, St. Mary's, Prince Georges Counties Maryland",Severe Weather - Thunderstorms,354,60000,2012-07-02 08:11:00,2012-07-02 08:11:00,2012-06-30 22:30:00
+1197,2012-07-01 14:00:00,RFC,Illinois,Severe Weather - Thunderstorms,0,320000,2012-07-03 15:00:00,2012-07-03 15:00:00,2012-07-01 13:00:00-01:00
+1198,2012-07-01 17:47:00,SERC,"Tarboro, North Carolina",Operational Failure; Storm Damage,48,6100,2012-07-01 23:00:00,2012-07-01 23:00:00,2012-07-01 16:47:00-01:00
+1199,2012-07-01 18:45:00,SERC,"Northern, Central and Eastern North Carolina",Severe Weather  ,0,69106,2012-07-01 22:15:00,2012-07-01 22:15:00,2012-07-01 17:45:00-01:00
+1200,2012-07-05 00:00:00,RFC,Lower Peninsula Michigan,Severe Weather - Thunderstorms,0,111000,2012-07-06 20:30:00,2012-07-06 20:30:00,2012-07-05 00:00:00
+1201,2012-07-06 00:00:00,SERC,Northeast Tennessee,Severe Weather - Wind & Storms,,50001,2012-07-06 16:00:00,2012-07-06 16:00:00,2012-07-05 19:00:00-05:00
+1202,2012-07-06 21:05:00,WECC,"Tacoma, Washington",Vandalism,,0,2012-07-06 15:06:00,2012-07-06 15:06:00,2012-07-06 15:05:00-06:00
+1203,2012-07-07 11:00:00,WECC,CAISO California,Fuel Supply Deficiency (Water),0,0,2012-07-10 04:00:00,2012-07-10 04:00:00,2012-07-07 04:00:00-07:00
+1204,2012-07-07 13:06:00,RFC,"Lower Valley, Central, Susquehanna Regions Pennsylvania",Severe Weather - Thunderstorms,,64500,2012-07-09 23:00:00,2012-07-09 23:00:00,2012-07-07 06:06:00-07:00
+1205,2012-07-08 01:00:00,RFC,Central and Northern New Jersey,Severe Weather - Thunderstorms,,95400,2012-07-09 19:01:00,2012-07-09 19:01:00,2012-07-07 18:00:00-07:00
+1206,2012-07-09 21:15:00,WECC,"Alberta, Canada",Energy Deficiency Alert,9896,0,2012-07-09 16:14:00,2012-07-09 16:14:00,2012-07-09 12:15:00-09:00
+1207,2012-07-17 03:27:00,SPP,"Little Rock, Arkansas",Public Appeal to Reduce Energy Usage,,0,2012-07-16 12:29:00,2012-07-16 12:29:00,2012-07-16 11:27:00-16:00
+1208,2012-07-19 08:16:00,RFC,"Southeast Ohio, Northern Kentucky, Southern Indiana",Severe Weather - Thunderstorms,480,103000,2012-07-19 23:58:00,2012-07-19 23:58:00,2012-07-18 14:16:00-18:00
+1209,2012-07-19 10:20:00,RFC,Eastern Ohio,Severe Weather - Thunderstorms,0,67000,2012-07-18 19:05:00,2012-07-18 19:05:00,2012-07-18 16:20:00-18:00
+1210,2012-07-19 17:00:00,RFC,Northern Illinois,Severe Weather - Thunderstorms,0,181000,2012-07-19 06:00:00,2012-07-19 06:00:00,2012-07-18 23:00:00-18:00
+1211,2012-07-20 05:30:00,NPCC,"Niagara County, New York",Fuel Supply Deficiency (Coal),675,0,2012-07-31 11:00:00,2012-07-31 11:00:00,2012-07-19 10:30:00-19:00
+1212,2012-07-20 07:32:00,RFC,"Newark, Delaware",Vandalism,,0,2012-07-19 12:33:00,2012-07-19 12:33:00,2012-07-19 12:32:00-19:00
+1213,2012-07-21 23:19:00,SPP,"City of Lubbock, Texas",Severe Weather; Equipment Failure,220,70000,2012-07-21 05:20:00,2012-07-21 05:20:00,2012-07-21 02:19:00-21:00
